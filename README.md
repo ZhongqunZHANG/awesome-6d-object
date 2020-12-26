@@ -1,6 +1,6 @@
-# Awesome 3D Object Reconstruction from Single-View [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome 3D Object Reconstruction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of related resources for 3d reconstruction from single view, including 3d object reconstruction, object pose estimation and hand-object reconstruction.
+A curated list of related resources for 3d reconstruction from single view, including 3d object reconstruction, 6D object pose estimation and hand-object reconstruction.
 
 Due to my personal interests, multi-view based work (SFM-based or SLAM-based work) are not collected here. Those papers can be found [here](https://github.com/openMVG/awesome_3DReconstruction_list).
 
@@ -299,10 +299,10 @@ _Zhengyi Zhao, Tianyao Wang, Siyu Xia, Yangang Wang_
 
 ## Workshops
 
-#### [1] *Workshops on Observing and Understanding Hands in Action:*
-##### • [HANDS 2019](https://sites.google.com/view/hands2019/), In conjunction with ICCV 2019
+#### [1] *Workshop on Recovering 6D Object Pose:*
+##### • [SIXD 2020](http://cmp.felk.cvut.cz/sixd/workshop_2020/), In conjunction with ECCV 2020
 
-##### • [HANDS 2018](https://sites.google.com/view/hands2018/), In conjunction with ECCV 2018
+##### • [SIXD 2018](https://sites.google.com/view/hands2018/), In conjunction with ECCV 2018
   - HANDS18: Methods, Techniques and Applications for Hand Observation. [\[PDF\]](https://arxiv.org/abs/1810.10818)
 
 ##### • [HANDS 2017](http://icvl.ee.ic.ac.uk/hands17/), In conjunction with ICCV 2017
@@ -311,16 +311,15 @@ _Zhengyi Zhao, Tianyao Wang, Siyu Xia, Yangang Wang_
 ##### • [HANDS 2016](https://labicvl.github.io/hand/Hands2016/), In conjunction with CVPR 2016
 ##### • [HANDS 2015](http://www.ics.uci.edu/~jsupanci/HANDS-2015/), In conjunction with CVPR 2015
 
-#### [2] *Workshops on Capturing and modeling human bodies, faces and hands:*
+#### [2] *Workshops on Learning 3D Representations for Shape and Appearance:*
 
-##### • [PeopleCap 2018](https://peoplecap2018.weebly.com/), In conjunction with ECCV 2018
-##### • [PeopleCap 2017](http://peoplecap.weebly.com/), In conjunction with ICCV 2017
+##### • [3DReps 2020](https://geometry.stanford.edu/3DReps/index.html), In conjunction with ECCV 2020
 
 [\[back to top\]](#contents)
 
 ## Challenges
 
-#### [1] [HANDS19 Challenge](https://sites.google.com/view/hands2019/challenge)
+#### [1] [BOP Challenge 2020](http://cmp.felk.cvut.cz/sixd/workshop_2020/#challenge)
 *[HANDS 2019](https://sites.google.com/view/hands2019/), [ICCV 2019](http://iccv2019.thecvf.com/)*
 - Submission Website: [Depth-Based Task](https://competitions.codalab.org/competitions/20913), [Depth-Based Hand-Object Task](https://competitions.codalab.org/competitions/20449), [RGB-Based Hand-Object Task](https://competitions.codalab.org/competitions/21116)
 - Documents
@@ -342,6 +341,9 @@ _Zhengyi Zhao, Tianyao Wang, Siyu Xia, Yangang Wang_
 ##### • \[2018 TPAMI\] Dense 3D Object Reconstruction from a Single Depth View. [\[PDF\]](https://arxiv.org/pdf/1802.00411.pdf)
 
 ### Europe
+##### • [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), [Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/index.php), University College London (UCL).
+##### • [TAE-KYUN (T-K) KIM](https://sites.google.com/view/tkkim/home), [Imperial Computer Vision & Learning Lab](https://labicvl.github.io/), Imperial College London.
+
 ### Asia
 ### Australia
 
