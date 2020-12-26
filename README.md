@@ -346,6 +346,7 @@ _Zhengyi Zhao, Tianyao Wang, Siyu Xia, Yangang Wang_
 ##### • [Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/), [Intelligent Robotics Lab](https://www.birmingham.ac.uk/research/activity/computer-science/artificial-intelligence/robotics-and-computer-vision/index.aspx), University of Birmingham.
 
 ### Asia
+##### • [Cewu Lu](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=366), [Machine Vision and Intelligence Group ](http://mvig.sjtu.edu.cn/), Shanghai JiaoTong University (SJTU).
 ### Australia
 
 [\[back to top\]](#contents)
