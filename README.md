@@ -1,4 +1,4 @@
-# Awesome 3D Object Reconstruction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome 3D Object Reconstruction from Single-View [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of related resources for 3d reconstruction from single view, including 3d object reconstruction, 6D object pose estimation and hand-object reconstruction.
 
