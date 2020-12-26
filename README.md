@@ -343,6 +343,7 @@ _Zhengyi Zhao, Tianyao Wang, Siyu Xia, Yangang Wang_
 ### Europe
 ##### • [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), [Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/index.php), University College London (UCL).
 ##### • [TAE-KYUN (T-K) KIM](https://sites.google.com/view/tkkim/home), [Imperial Computer Vision & Learning Lab](https://labicvl.github.io/), Imperial College London.
+##### • [Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/), [Intelligent Robotics Lab](https://www.birmingham.ac.uk/research/activity/computer-science/artificial-intelligence/robotics-and-computer-vision/index.aspx), University of Birmingham.
 
 ### Asia
 ### Australia
