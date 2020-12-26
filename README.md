@@ -6,8 +6,6 @@ Due to my personal interests, multi-view based work (SFM-based or SLAM-based wor
 
 Another related paper list is about the hand pose estimation, which can be found [here](https://github.com/xinghaochen/awesome-hand-pose-estimation).
 
-------
-
 ## Contents
  <!-- - [Evaluation](#evaluation) -->
  - [arXiv Papers](#arxiv-papers)
