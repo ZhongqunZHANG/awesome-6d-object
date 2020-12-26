@@ -1,6 +1,6 @@
 # Awesome 3D Object Reconstruction from Single-View [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of related resources for 3d reconstruction from single view, including 3d object reconstruction and hand-object reconstruction.
+A curated list of related resources for 3d reconstruction from single view, including 3d object reconstruction, object pose estimation and hand-object reconstruction.
 
 Due to my personal interests, multi-view based work (SFM-based or SLAM-based work) are not collected here. Those papers can be found [here](https://github.com/openMVG/awesome_3DReconstruction_list).
 
@@ -21,6 +21,7 @@ Another related paper list is about the hand pose estimation, which can be found
    - [RGB](#rgb)
  - [Workshops](#workshops)
  - [Challenges](#challenges)
+ - [Researchers](#Researchers)
 
 \* indicates equal contribution
 
@@ -331,5 +332,17 @@ _Zhengyi Zhao, Tianyao Wang, Siyu Xia, Yangang Wang_
 - Documents
     - [The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation](https://arxiv.org/pdf/1707.02237.pdf), arXiv 2017
     - [Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals.](https://arxiv.org/pdf/1712.03917.pdf), CVPR 2018
+
+[\[back to top\]](#contents)
+
+## Researchers
+
+### U.S. / Canada
+
+##### • \[2018 TPAMI\] Dense 3D Object Reconstruction from a Single Depth View. [\[PDF\]](https://arxiv.org/pdf/1802.00411.pdf)
+
+### Europe
+### Asia
+### Australia
 
 [\[back to top\]](#contents)
