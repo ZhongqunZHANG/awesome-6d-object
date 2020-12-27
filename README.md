@@ -1,8 +1,8 @@
 # Awesome Object Pose Estimation and Reconstruction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of related resources for object recovery from single view, including 3d object reconstruction, 6d object pose estimation and hand-object reconstruction.
+A curated list of related resources for object recovery used learning-based method, including 3d object reconstruction, 6d object pose estimation and hand-object reconstruction.
 
-Due to my personal interests, multi-view based work (SFM-based or SLAM-based work) are not collected here. Those papers can be found [here](https://github.com/openMVG/awesome_3DReconstruction_list).
+Due to my personal interests, geometry-based work (SFM-based or SLAM-based work) are not collected here. Those papers can be found [here](https://github.com/openMVG/awesome_3DReconstruction_list).
 
 Another related paper list is about the hand pose estimation, which can be found [here](https://github.com/xinghaochen/awesome-hand-pose-estimation).
 
