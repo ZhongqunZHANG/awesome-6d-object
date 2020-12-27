@@ -353,7 +353,6 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
  _Liang, Junbang and Lin, Ming C._
 ##### • Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liang_Shape-Aware_Human_Pose_and_Shape_Reconstruction_Using_Multi-View_Images_ICCV_2019_paper.pdf) 
  _Liang, Junbang and Lin, Ming C._
-Start crawling data...... 
 ##### • Human Mesh Recovery From Monocular Images via a Skeleton-Disentangled Representation. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_Human_Mesh_Recovery_From_Monocular_Images_via_a_Skeleton-Disentangled_Representation_ICCV_2019_paper.pdf) 
  _Sun, Yu and Ye, Yun and Liu, Wu and Gao, Wenpeng and Fu, Yili and Mei, Tao_
 ##### • Imitation Learning for Human Pose Prediction. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Imitation_Learning_for_Human_Pose_Prediction_ICCV_2019_paper.pdf) 
@@ -568,7 +567,7 @@ Start crawling data......
  _Zhou, Chen and Guney, Fatma and Wang, Yizhou and Geiger, Andreas_
 ##### • Interactive Visual Hull Refinement for Specular and Transparent Object Surface Reconstruction. [\[PDF\]](https://openaccess.thecvf.com/content_iccv_2015/papers/Zuo_Interactive_Visual_Hull_ICCV_2015_paper.pdf) 
  _Zuo, Xinxin and Du, Chao and Wang, Sen and Zheng, Jiangbin and Yang, Ruigang_
-Start crawling data...... 
+
 ##### • A Dynamic Programming Approach for Fast and Robust Object Pose Recognition From Range Images. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Zach_A_Dynamic_Programming_2015_CVPR_paper.pdf) 
  _Zach, Christopher and Penate-Sanchez, Adrian and Pham, Minh-Tri_
 ##### • Learning Descriptors for Object Recognition and 3D Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Wohlhart_Learning_Descriptors_for_2015_CVPR_paper.pdf) 
