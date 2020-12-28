@@ -810,11 +810,9 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 [\[back to top\]](#contents)
 
 ## Theses
-#### ***Object Pose Esimation and Reconstruction***
 ##### • \[2020\] Learning to Reconstruct and Segment 3D Objects. [\[PDF\]](https://arxiv.org/pdf/2010.09582.pdf)
 *[Bo Yang](https://yang7879.github.io/), University of Oxford*
 
-#### ***Human Pose Estimation and Body Reconstruction***
 
 [\[back to top\]](#contents)
 
