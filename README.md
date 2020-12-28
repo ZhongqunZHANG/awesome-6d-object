@@ -1,12 +1,10 @@
 # Awesome Object Pose Estimation and Reconstruction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of related resources for 3d objects reconstruction used learning-based method (especially from single-view), also including 6d object pose estimation, and hand-object reconstruction. Since the reconstruction of the human body is similar to that of objects (hands), I also collect some papers about human body, but I will not pay more attention to it.
+A curated list of related resources for 3d objects reconstruction used learning-based method, also including 6d object pose estimation, and hand-object reconstruction. Since the reconstruction of the human body is similar to that of objects (hands), I also collect some papers about human body, but I will not pay more attention to it.
 
 Due to my personal interests, geometry-based work (SFM-based or SLAM-based work) are not collected here. Those papers can be found [here](https://github.com/openMVG/awesome_3DReconstruction_list).
 
 Another related paper list is about the hand pose estimation, which can be found [here](https://github.com/xinghaochen/awesome-hand-pose-estimation).
-
-All of these papers are collected by programme, not manual collection. So, if you find any mistakes or missing papers in this project, please feel free to let me know (zhongqunzhang@outlook.com).
 
 ## Contents
  <!-- - [Evaluation](#evaluation) -->
