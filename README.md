@@ -1,10 +1,12 @@
 # Awesome 3D Object Reconstruction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of related resources for 3d objects reconstruction used learning-based method (especially from single-view), also including 6d object pose estimation, and hand-object reconstruction. Since the reconstruction of the human body is similar to that of objects (hands), I also collect some papers about human body.
+A curated list of related resources for 3d objects reconstruction used learning-based method (especially from single-view), also including 6d object pose estimation, and hand-object reconstruction. Since the reconstruction of the human body is similar to that of objects (hands), I also collect some papers about human body, but I will not pay more attention to it.
 
-Due to my personal interests, geometry-based work (SFM-based or SLAM-based work) are not collected here.
+Due to my personal interests, geometry-based work (SFM-based or SLAM-based work) are not collected here. Those papers can be found [here](https://github.com/openMVG/awesome_3DReconstruction_list).
 
-Another related paper list is about the hand pose estimation, which can be found [here](https://github.com/xinghaochen/awesome-hand-pose-estimation). Datasets summary of object pose estimation can be found [here](https://github.com/YoungXIAO13/ObjectPoseEstimationSummary)
+Another related paper list is about the hand pose estimation, which can be found [here](https://github.com/xinghaochen/awesome-hand-pose-estimation).
+
+All of these papers are collected by programme, not manual collection. So, if you find any mistakes or missing papers in this project, please feel free to let me know (zhongqunzhang@outlook.com).
 
 ## Contents
  <!-- - [Evaluation](#evaluation) -->
@@ -46,8 +48,36 @@ _Viktor Rudnev, Vladislav Golyanik, Jiayi Wang, Hans-Peter Seidel, Franziska Mue
 
 ### TPAMI / IJCV
 
-##### • \[2018 TPAMI\] Dense 3D Object Reconstruction from a Single Depth View. [\[PDF\]](https://arxiv.org/pdf/1802.00411.pdf)
+##### • \[2021 TPAMI\] RotationNet for Joint Object Categorization and Unsupervised Pose Estimation from Multi-View Images. [\[PDF\]](https://doi.org/10.1109/TPAMI.2019.2922640)
+_Asako Kanezaki, Yasuyuki Matsushita, Yoshifumi Nishida_
+##### • \[2020 TPAMI\] Generalized Feedback Loop for Joint Hand-Object Pose Estimation. [\[PDF\]](https://doi.org/10.1109/TPAMI.2019.2905607)
+_Markus Oberweger, Paul Wohlhart, Vincent Lepetit_
+##### • \[2020 TPAMI\] SurfelMeshing: Online Surfel-Based Mesh Reconstruction. [\[PDF\]](https://doi.org/10.1109/TPAMI.2019.2947048)
+_Thomas Schöps, Torsten Sattler, Marc Pollefeys_
+##### • \[2020 TPAMI\] Shape and Reflectance Reconstruction Using Concentric Multi-Spectral Light Field. [\[PDF\]](https://doi.org/10.1109/TPAMI.2020.2986764)
+_Mingyuan Zhou, Yuqi Ding, Yu Ji, S. Susan Young, Jingyi Yu, Jinwei Ye_
+##### • \[2019 TPAMI\] Dense 3D Object Reconstruction from a Single Depth View. [\[PDF\]](https://arxiv.org/pdf/1802.00411.pdf)
 _Bo Yang, Stefano Rosa, Andrew Markham, Niki Trigoni, Hongkai Wen_
+##### • \[2018 TPAMI\] Latent-Class Hough Forests for 6 DoF Object Pose Estimation. [\[PDF\]](https://doi.org/10.1109/TPAMI.2017.2665623)
+_Alykhan Tejani, Rigas Kouskouridas, Andreas Doumanoglou, Danhang Tang, Tae-Kyun Kim_
+##### • \[2018 TPAMI\] Hand-Object Contact Force Estimation from Markerless Visual Tracking. [\[PDF\]](https://doi.org/10.1109/TPAMI.2017.2759736)
+_Tu-Hoa Pham, Nikolaos Kyriazis, Antonis A. Argyros, Abderrahmane Kheddar_
+##### • \[2018 TPAMI\] Single-View 3D Scene Reconstruction and Parsing by Attribute Grammar. [\[PDF\]](https://doi.org/10.1109/TPAMI.2017.2689007)
+_Xiaobai Liu, Yibiao Zhao, Song-Chun Zhu_
+##### • \[2017 TPAMI\] Learning Category-Specific Deformable 3D Models for Object Reconstruction. [\[PDF\]](https://doi.org/10.1109/TPAMI.2016.2574713)
+_Shubham Tulsiani, Abhishek Kar, João Carreira, Jitendra Malik_
+##### • \[2017 TPAMI\] Novel Views of Objects from a Single Image. [\[PDF\]](https://doi.org/10.1109/TPAMI.2016.2601093)
+_Konstantinos Rematas, Chuong H. Nguyen, Tobias Ritschel, Mario Fritz, Tinne Tuytelaars_
+##### • \[2017 TPAMI\] Dense Semantic 3D Reconstruction. [\[PDF\]](https://doi.org/10.1109/TPAMI.2016.2613051)
+_Christian Hane, Christopher Zach, Andrea Cohen, Marc Pollefeys_
+##### • \[2016 TPAMI\] Lifting Object Detection Datasets into 3D. [\[PDF\]](https://doi.org/10.1109/TPAMI.2015.2435707)
+_João Carreira, Sara Vicente, Lourdes Agapito, Jorge Batista_
+##### • \[2016 TPAMI\] Real-Time Simultaneous Pose and Shape Estimation for Articulated Objects Using a Single Depth Camera. [\[PDF\]](https://doi.org/10.1109/TPAMI.2016.2557783)
+_Mao Ye, Yang Shen, Chao Du, Zhigeng Pan, Ruigang Yang_
+##### • \[2016 TPAMI\] Template-Based Monocular 3D Shape Recovery Using Laplacian Meshes. [\[PDF\]](https://doi.org/10.1109/TPAMI.2015.2435739)
+_Dat Tien Ngo, Jonas Östlund, Pascal Fua_
+
+
 
 [\[back to top\]](#contents)
 
