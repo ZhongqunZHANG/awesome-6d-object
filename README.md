@@ -136,9 +136,6 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 
 </details>
 
-
-
-
 [\[back to top\]](#contents)
 
 ### 2020 CVPR
@@ -238,10 +235,27 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 [\[back to top\]](#contents)
 
 ### 2020 Others
-
 #### ***Object Pose Esimation and Reconstruction***
 ##### • [2020 WACV] PointPoseNet: Point Pose Network for Robust 6D Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_PonitPoseNet_Point_Pose_Network_for_Robust_6D_Object_Pose_Estimation_WACV_2020_paper.pdf) 
  _Chen, Wei and Duan, Jinming and Basevi, Hector and Chang, Hyung Jin and Leonardis, Ales_
+##### • [2020 BMVC] 6DoF Object Pose Estimation via Differentiable Proxy Voting Regularizer. [\[PDF\]](https://www.bmvc2020-conference.com/assets/papers/0287.pdf) 
+ _Xin Yu, Zheyu Zhuang, Piotr Koniusz and HONGDONG LI_
+ ##### • [2020 BMVC] A Simple and Scalable Shape Representation for 3D Reconstruction. [\[PDF\]](https://www.bmvc2020-conference.com/assets/papers/0443.pdf) 
+ _Mateusz Michalkiewicz, Eugene Belilovsky, Mahsa Baktashmotlagh and Anders Eriksson_
+  ##### • [2020 ACCV] Weakly-supervised Reconstruction of 3D Objects with Large Shape Variation from Single In-the-Wild Images. [\[PDF\]](https://openaccess.thecvf.com/content/ACCV2020/papers/Sun_Weakly-supervised_Reconstruction_of_3D_Objects_with_Large_Shape_Variation_from_ACCV_2020_paper.pdf) 
+ _Shichen Sun, Zhengbang Zhu, Xiaowei Dai, Qijun Zhao, Jing Li_
+ ##### • [2020 ACCV] 3D Object Detection and Pose Estimation of Unseen Objects in Color Images with Local Surface Embeddings. [\[PDF\]](https://openaccess.thecvf.com/content/ACCV2020/papers/Pitteri_3D_Object_Detection_and_Pose_Estimation_of_Unseen_Objects_in_ACCV_2020_paper.pdf) 
+ _Giorgia Pitteri, Aurelie Bugeau, Slobodan Ilic, Vincent Lepetit_
+ ##### • [2020 ICRA] Robust 6D Object Pose Estimation by Learning RGB-D Features. [\[arXiv\]](https://arxiv.org/abs/2003.00188) 
+ _Meng Tian, Liang Pan, Marcelo H Ang Jr, Gim Hee Lee_
+ ##### • [2020 ICRA] Single Shot 6D Object Pose Estimation. [\[arXiv\]](https://www.researchgate.net/publication/340941501_Single_Shot_6D_Object_Pose_Estimation) 
+ _Kilian Kleeberger, Marco F. Huber_
+ ##### • [2020 ICRA] 6D Object Pose Regression Via Supervised Learning on Point Clouds. [\[arXiv\]](https://arxiv.org/pdf/2001.08942.pdf) 
+ _Ge Gao, Mikko Lauri, Yulong Wang, Xiaolin Hu, Jianwei Zhang and Simone Frintrop_
+ ##### • [2020 ICRA] Self-Supervised 6D Object Pose Estimation for Robot Manipulation. [\[arXiv\]](https://arxiv.org/pdf/1909.10159.pdf) [\[Video\]](https://youtu.be/W1Y0Mmh1Gd8)
+ _Xinke Deng, Yu Xiang, Arsalan Mousavian, Clemens Eppner, Timothy Bretl, Dieter Fox_
+##### • [2020 ICRA] Pose-Guided Auto-Encoder and Feature-Based Refinement for 6-DoF Object Pose Regression. [\[arXiv\]](http://xiangyangji.com/uploadfile/upload/2020072017405951.pdf) 
+ _Zhigang Li, Xiangyang Ji_
 
 #### ***Human Pose Estimation and Body Reconstruction***
 <details>
@@ -257,6 +271,20 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
  _Ramsay, Joseph and Chang, Hyung Jin_
 ##### • [2020 WACV] Reducing Footskate in Human Motion Reconstruction with Ground Contact Constraints. [\[PDF\]](https://openaccess.thecvf.com/content_WACV_2020/papers/Zou_Reducing_Footskate_in_Human_Motion_Reconstruction_with_Ground_Contact_Constraints_WACV_2020_paper.pdf) 
  _Zou, Yuliang and Yang, Jimei and Ceylan, Duygu and Zhang, Jianming and Perazzi, Federico and Huang, Jia-Bin_
+ ##### • [2020 BMVC] High-order Graph Convolutional Networks for 3D Human Pose Estimation. [\[PDF\]](https://www.bmvc2020-conference.com/assets/papers/0550.pdf)
+ _Zhiming Zou, Kenkun Liu, Le Wang and Wei Tang_
+ ##### • [2020 BMVC] Weakly Supervised Generative Network for Multiple 3D Human Pose Hypotheses. [\[PDF\]](https://www.bmvc2020-conference.com/assets/papers/0330.pdf) [\[Code\]](https://github.com/chaneyddtt/weakly-supervised-3d-pose-generator)
+ _Chen Li and Gim Hee Lee_
+ ##### • [2020 BMVC] Explicit Residual Descent for 3D Human Pose Estimation from 2D Joint Locations. [\[PDF\]](https://www.bmvc2020-conference.com/assets/papers/0151.pdf) [\[Code\]](https://www.bmvc2020-conference.com/programme/accepted-papers/Code%20will%20be%20made%20publicly%20available%20later)
+  _Yangyuxuan Kang, Anbang Yao, Shandong Wang, Ming Lu, Yurong Chen and Enhua Wu_
+ ##### • [2020 BMVC] Synthetic Training for Accurate 3D Human Pose and Shape Estimation in the Wild. [\[PDF\]](https://www.bmvc2020-conference.com/assets/papers/0081.pdf) [\[Code\]](https://github.com/akashsengupta1997/STRAPS-3DHumanShapePose)
+ _Akash Sengupta, Roberto Cipolla and Ignas Budvytis_
+  ##### • [2020 ACCV] Learning Global Pose Features in Graph Convolutional Networks for 3D Human Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/ACCV2020/papers/Liu_Learning_Global_Pose_Features_in_Graph_Convolutional_Networks_for_3D_ACCV_2020_paper.pdf) 
+ _Kenkun Liu, Zhiming Zou, Wei Tang_
+##### • [2020 ACCV] Anatomy and Geometry Constrained One-Stage Framework for 3D Human Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/ACCV2020/papers/Cao_Anatomy_and_Geometry_Constrained_One-Stage_Framework_for_3D_Human_Pose_ACCV_2020_paper.pdf) 
+ _Xin Cao, Xu Zhao_
+##### • [2020 ACCV] Reconstructing Human Body Mesh from Point Clouds by Adversarial GP Network. [\[PDF\]](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhou_Reconstructing_Human_Body_Mesh_from_Point_Clouds_by_Adversarial_GP_ACCV_2020_paper.pdf) 
+ _Boyao Zhou, Jean-Sebastien Franco, Federica Bogo, Bugra Tekin, Edmond Boyer_
 </details>
 
  [\[back to top\]](#contents)
@@ -836,7 +864,7 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 
 ### U.S. / Canada
 
-##### • \[2018 TPAMI\] Dense 3D Object Reconstruction from a Single Depth View. [\[PDF\]](https://arxiv.org/pdf/1802.00411.pdf)
+##### • [Dieter Fox](https://homes.cs.washington.edu/~fox/), [UW Robotics and State Estimation Lab](http://rse-lab.cs.washington.edu/), University of Washington.
 
 ### Europe
 ##### • [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), [Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/index.php), University College London (UCL).
@@ -845,6 +873,9 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 
 ### Asia
 ##### • [Cewu Lu](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=366), [Machine Vision and Intelligence Group ](http://mvig.sjtu.edu.cn/), Shanghai JiaoTong University (SJTU).
+##### • [Gim Hee Lee](https://www.researchgate.net/profile/Gim_Lee), [CVRP LAB](https://www.comp.nus.edu.sg/~leegh/#), National University of Singapore (NUS).
+
 ### Australia
+##### • [Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/), [Australia ARC Centre of Excellence for Robotic Vision](http://roboticvision.org/), The Australian National University (ANU).
 
 [\[back to top\]](#contents)
