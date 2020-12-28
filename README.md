@@ -2,9 +2,9 @@
 
 A curated list of related resources for 3d objects reconstruction used learning-based method (especially from single-view), also including 6d object pose estimation, and hand-object reconstruction. Since the reconstruction of the human body is similar to that of objects (hands), I also collect some papers about human body.
 
-Due to my personal interests, geometry-based work (SFM-based or SLAM-based work) are not collected here. Those papers can be found [here](https://github.com/openMVG/awesome_3DReconstruction_list). Datasets summary of object pose estimation can be found [here](https://github.com/YoungXIAO13/ObjectPoseEstimationSummary)
+Due to my personal interests, geometry-based work (SFM-based or SLAM-based work) are not collected here.
 
-Another related paper list is about the hand pose estimation, which can be found [here](https://github.com/xinghaochen/awesome-hand-pose-estimation).
+Another related paper list is about the hand pose estimation, which can be found [here](https://github.com/xinghaochen/awesome-hand-pose-estimation). Datasets summary of object pose estimation can be found [here](https://github.com/YoungXIAO13/ObjectPoseEstimationSummary)
 
 ## Contents
  <!-- - [Evaluation](#evaluation) -->
