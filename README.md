@@ -105,13 +105,13 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 ##### • Self6D: Self-Supervised Monocular 6D Object Pose Estimation. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460103.pdf) 
  _Gu Wang, Fabian Manhardt, Jianzhun Shao, Xiangyang Ji, Nassir Navab , Federico Tombari_
-##### • Neural Object Learning for 6D Pose Estimation Using a Few Cluttered Images. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490630.pdf) 
+##### • Neural Object Learning for 6D Pose Estimation Using a Few Cluttered Images. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490630.pdf) [\[Video\]](https://www.youtube.com/watch?v=fQJPS01cmac&feature=youtu.be) 
  _Kiru Park, Timothy Patten, Markus Vincze_
 ##### • Point-Set Anchors for Object Detection, Instance Segmentation and Pose Estimation. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550528.pdf) 
  _Fangyun Wei, Xiao Sun, Hongyang Li, Jingdong Wang, Stephen Lin_
 ##### • ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580358.pdf) 
  _Samarth Brahmbhatt, Chengcheng Tang, Christopher D. Twigg, Charles C. Kemp, James Hays_
-##### • Shape Prior Deformation for Categorical 6D Object Pose and Size Estimation. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660528.pdf) 
+##### • Shape Prior Deformation for Categorical 6D Object Pose and Size Estimation. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660528.pdf) [\[Video\]](https://www.youtube.com/watch?v=4fkowqaYvQc) [\[Code\]](https://github.com/mentian/object-deformnet) 
  _Meng Tian, Marcelo H Ang Jr, Gim Hee Lee_
 ##### • Category Level Object Pose Estimation via Neural Analysis-by-Synthesis. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710137.pdf) 
  _Xu Chen, Zijian Dong, Jie Song, Andreas Geiger, Otmar Hilliges_
@@ -121,6 +121,8 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
  _Mateusz Michalkiewicz, Sarah Parisot, Stavros Tsogkas, Mahsa Baktashmotlagh, Anders Eriksson, Eugene Belilovsky_
  ##### • ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580358.pdf) 
  _Samarth Brahmbhatt, Chengcheng Tang, Christopher D. Twigg, Charles C. Kemp, James Hays_
+ ##### • Coherent full scene 3D reconstruction from a single RGB image. [\[PDF\]](https://arxiv.org/pdf/2004.12989.pdf) 
+ _Stefan Popov, Pablo Bauszat, Vittorio Ferrari_
 ##### • Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680086.pdf) 
  _Anil Armagan, Guillermo Garcia-Hernando, Seungryul Baek, Shreyas Hampali, Mahdi Rad, Zhaohui Zhang, Shipeng Xie, MingXiu Chen, Boshen Zhang, Fu Xiong, Yang Xiao, Zhiguo Cao, Junsong Yuan, Pengfei Ren⁸, Weiting Huang⁸, Haifeng Sun⁸, Marek Hrúz⁹, Jakub Kanis⁹, Zdeněk Krňoul⁹, Qingfu Wan, Shile Li, Linlin Yang, Dongheui Lee, Angela Yao, Weiguo Zhou, Sijia Mei, Yunhui Liu, Adrian Spurr, Umar Iqbal, Pavlo Molchanov, Philippe Weinzaepfel, Romain Brégier, Grégory Rogez, Vincent Lepetit, Tae-Kyun Kim_
 
