@@ -911,7 +911,7 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 ### U.S. / Canada
 
 ##### • [Dieter Fox](https://homes.cs.washington.edu/~fox/), [UW Robotics and State Estimation Lab](http://rse-lab.cs.washington.edu/), University of Washington.
-##### • [Junsong Yuan](https://homes.cs.washington.edu/~fox/), [UW Robotics and State Estimation Lab](http://rse-lab.cs.washington.edu/), University of Washington.
+##### • [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/), University at Buffalo, State University of New York.
 
 
 ### Europe
