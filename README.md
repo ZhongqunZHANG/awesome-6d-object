@@ -91,7 +91,6 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 
 ### 2020 ECCV
 
-#### ***Object Pose Esimation and Reconstruction***
 ##### • Self6D: Self-Supervised Monocular 6D Object Pose Estimation. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460103.pdf) 
  _Gu Wang, Fabian Manhardt, Jianzhun Shao, Xiangyang Ji, Nassir Navab , Federico Tombari_
 ##### • Neural Object Learning for 6D Pose Estimation Using a Few Cluttered Images. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490630.pdf) 
@@ -113,9 +112,10 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 ##### • Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680086.pdf) 
  _Anil Armagan, Guillermo Garcia-Hernando, Seungryul Baek, Shreyas Hampali, Mahdi Rad, Zhaohui Zhang, Shipeng Xie, MingXiu Chen, Boshen Zhang, Fu Xiong, Yang Xiao, Zhiguo Cao, Junsong Yuan, Pengfei Ren⁸, Weiting Huang⁸, Haifeng Sun⁸, Marek Hrúz⁹, Jakub Kanis⁹, Zdeněk Krňoul⁹, Qingfu Wan, Shile Li, Linlin Yang, Dongheui Lee, Angela Yao, Weiguo Zhou, Sijia Mei, Yunhui Liu, Adrian Spurr, Umar Iqbal, Pavlo Molchanov, Philippe Weinzaepfel, Romain Brégier, Grégory Rogez, Vincent Lepetit, Tae-Kyun Kim_
 
-#### ***Human Pose Estimation and Body Reconstruction***
 <details>
 <summary>Show More</summary>
+
+#### ***Human Pose Estimation and Body Reconstruction***
 
  ##### • VoxelPose: Towards Multi-Camera 3D Human Pose Estimation in Wild Environment. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460188.pdf) 
  _Hanyue Tu, Chunyu Wang, Wenjun Zeng_
@@ -162,7 +162,6 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 
 ### 2020 CVPR
 
-#### ***Object Pose Esimation and Reconstruction***
 ##### • Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes From a Single Image. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nie_Total3DUnderstanding_Joint_Layout_Object_Pose_and_Mesh_Reconstruction_for_Indoor_CVPR_2020_paper.pdf) 
  _Nie, Yinyu and Han, Xiaoguang and Guo, Shihui and Zheng, Yujian and Chang, Jian and Zhang, Jian Jun_
 ##### • Category-Level Articulated Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Category-Level_Articulated_Object_Pose_Estimation_CVPR_2020_paper.pdf) 
@@ -193,10 +192,10 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
  _Sundermeyer, Martin and Durner, Maximilian and Puang, En Yen and Marton, Zoltan-Csaba and Vaskevicius, Narunas and Arras, Kai O. and Triebel, Rudolph_
 ##### • EPOS: Estimating 6D Pose of Objects With Symmetries. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hodan_EPOS_Estimating_6D_Pose_of_Objects_With_Symmetries_CVPR_2020_paper.pdf) 
  _Hodan, Tomas and Barath, Daniel and Matas, Jiri_
-
-#### ***Human Pose Estimation and Body Reconstruction***
 <details>
 <summary>Show More</summary>
+
+#### ***Human Pose Estimation and Body Reconstruction***
 
  ##### • Deep Kinematics Analysis for Monocular 3D Human Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Deep_Kinematics_Analysis_for_Monocular_3D_Human_Pose_Estimation_CVPR_2020_paper.pdf) 
  _Xu, Jingwei and Yu, Zhenbo and Ni, Bingbing and Yang, Jiancheng and Yang, Xiaokang and Zhang, Wenjun_
@@ -257,7 +256,6 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 [\[back to top\]](#contents)
 
 ### 2020 Others
-#### ***Object Pose Esimation and Reconstruction***
 ##### • [2020 WACV] PointPoseNet: Point Pose Network for Robust 6D Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_PonitPoseNet_Point_Pose_Network_for_Robust_6D_Object_Pose_Estimation_WACV_2020_paper.pdf) 
  _Chen, Wei and Duan, Jinming and Basevi, Hector and Chang, Hyung Jin and Leonardis, Ales_
 ##### • [2020 BMVC] 6DoF Object Pose Estimation via Differentiable Proxy Voting Regularizer. [\[PDF\]](https://www.bmvc2020-conference.com/assets/papers/0287.pdf) 
@@ -279,9 +277,10 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 ##### • [2020 ICRA] Pose-Guided Auto-Encoder and Feature-Based Refinement for 6-DoF Object Pose Regression. [\[arXiv\]](http://xiangyangji.com/uploadfile/upload/2020072017405951.pdf) 
  _Zhigang Li, Xiangyang Ji_
 
-#### ***Human Pose Estimation and Body Reconstruction***
 <details>
 <summary>Show More</summary>
+
+#### ***Human Pose Estimation and Body Reconstruction***
 
 ##### • [2020 WACV] DeepFuse: An IMU-Aware Network for Real-Time 3D Human Pose Estimation from Multi-View Image. [\[PDF\]](https://openaccess.thecvf.com/content_WACV_2020/papers/Huang_DeepFuse_An_IMU-Aware_Network_for_Real-Time_3D_Human_Pose_Estimation_WACV_2020_paper.pdf) 
  _Huang, Fuyang and Zeng, Ailing and Liu, Minhao and Lai, Qiuxia and Xu, Qiang_
@@ -314,7 +313,6 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 
  ### 2019 CVPR
 
-#### ***Object Pose Esimation and Reconstruction***
 ##### • DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_DenseFusion_6D_Object_Pose_Estimation_by_Iterative_Dense_Fusion_CVPR_2019_paper.pdf) 
  _Wang, Chen and Xu, Danfei and Zhu, Yuke and Martin-Martin, Roberto and Lu, Cewu and Fei-Fei, Li and Savarese, Silvio_
 ##### • Segmentation-Driven 6D Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Segmentation-Driven_6D_Object_Pose_Estimation_CVPR_2019_paper.pdf) 
@@ -330,9 +328,11 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
  ##### • Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Normalized_Object_Coordinate_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2019_paper.pdf) 
  _Wang, He and Sridhar, Srinath and Huang, Jingwei and Valentin, Julien and Song, Shuran and Guibas, Leonidas J._
 
- #### ***Human Pose Estimation and Body Reconstruction***
 <details>
 <summary>Show More</summary>
+
+ #### ***Human Pose Estimation and Body Reconstruction***
+
 
  ##### • Self-Supervised Learning of 3D Human Pose Using Multi-View Geometry. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kocabas_Self-Supervised_Learning_of_3D_Human_Pose_Using_Multi-View_Geometry_CVPR_2019_paper.pdf) 
  _Kocabas, Muhammed and Karagoz, Salih and Akbas, Emre_
@@ -381,7 +381,6 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 
 ### 2019 ICCV
 
-#### ***Object Pose Esimation and Reconstruction***
 ##### • DPOD: 6D Pose Object Detector and Refiner. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zakharov_DPOD_6D_Pose_Object_Detector_and_Refiner_ICCV_2019_paper.pdf) 
  _Zakharov, Sergey and Shugurov, Ivan and Ilic, Slobodan_
  ##### • Explaining the Ambiguity of Object Detection and 6D Pose From Visual Data. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Manhardt_Explaining_the_Ambiguity_of_Object_Detection_and_6D_Pose_From_ICCV_2019_paper.pdf) 
@@ -396,10 +395,11 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
  _Li, Zhigang and Wang, Gu and Ji, Xiangyang_
 ##### • Learning Local RGB-to-CAD Correspondences for Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Georgakis_Learning_Local_RGB-to-CAD_Correspondences_for_Object_Pose_Estimation_ICCV_2019_paper.pdf) 
  _Georgakis, Georgios and Karanam, Srikrishna and Wu, Ziyan and Kosecka, Jana_
-
-#### ***Human Pose Estimation and Body Reconstruction***
 <details>
 <summary>Show More</summary>
+
+#### ***Human Pose Estimation and Body Reconstruction***
+
 
  ##### • Occlusion-Aware Networks for 3D Human Pose Estimation in Video. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cheng_Occlusion-Aware_Networks_for_3D_Human_Pose_Estimation_in_Video_ICCV_2019_paper.pdf) 
  _Cheng, Yu and Yang, Bo and Wang, Bo and Yan, Wending and Tan, Robby T._
@@ -447,7 +447,6 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 
 ### 2018 CVPR
 
-#### ***Object Pose Esimation and Reconstruction***
 ##### • Real-Time Seamless Single Shot 6D Object Pose Prediction. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tekin_Real-Time_Seamless_Single_CVPR_2018_paper.pdf) 
  _Tekin, Bugra and Sinha, Sudipta N. and Fua, Pascal_
 ##### • 3D Pose Estimation and 3D Model Retrieval for Objects in the Wild. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Grabner_3D_Pose_Estimation_CVPR_2018_paper.pdf) 
@@ -456,10 +455,10 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
  _Kanezaki, Asako and Matsushita, Yasuyuki and Nishida, Yoshifumi_
 ##### • 3D-RCNN: Instance-Level 3D Object Reconstruction via Render-and-Compare. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kundu_3D-RCNN_Instance-Level_3D_CVPR_2018_paper.pdf) 
  _Kundu, Abhijit and Li, Yin and Rehg, James M._
-
-#### ***Human Pose Estimation and Body Reconstruction***
 <details>
 <summary>Show More</summary>
+
+#### ***Human Pose Estimation and Body Reconstruction***
 
  ##### • Learning to Estimate 3D Human Pose and Shape From a Single Color Image. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pavlakos_Learning_to_Estimate_CVPR_2018_paper.pdf) 
  _Pavlakos, Georgios and Zhu, Luyang and Zhou, Xiaowei and Daniilidis, Kostas_
@@ -492,7 +491,6 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 
 ### 2018 ECCV
 
-#### ***Object Pose Esimation and Reconstruction***
 ##### • BOP: Benchmark for 6D Object Pose Estimation. [\[PDF\]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Tomas_Hodan_PESTO_6D_Object_ECCV_2018_paper.pdf) 
  _Hodan, Tomas and Michel, Frank and Brachmann, Eric and Kehl, Wadim and GlentBuch, Anders and Kraft, Dirk and Drost, Bertram and Vidal, Joel and Ihrke, Stephan and Zabulis, Xenophon and Sahin, Caner and Manhardt, Fabian and Tombari, Federico and Kim, Tae-Kyun and Matas, Jiri and Rother, Carsten_
 ##### • Making Deep Heatmaps Robust to Partial Occlusions for 3D Object Pose Estimation. [\[PDF\]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Markus_Oberweger_Making_Deep_Heatmaps_ECCV_2018_paper.pdf) 
@@ -501,10 +499,10 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
  _Li, Chi and Bai, Jin and Hager, Gregory D._
 ##### • Efficient Dense Point Cloud Object Reconstruction using Deformation Vector Fields. [\[PDF\]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Kejie_Li_Efficient_Dense_Point_ECCV_2018_paper.pdf) 
  _Li Kejie, Pham Trung, Zhan Huangying, Reid Ian_
-
-#### ***Human Pose Estimation and Body Reconstruction***
 <details>
 <summary>Show More</summary>
+
+#### ***Human Pose Estimation and Body Reconstruction***
 
  ##### • Unsupervised Geometry-Aware Representation for 3D Human Pose Estimation. [\[PDF\]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Helge_Rhodin_Unsupervised_Geometry-Aware_Representation_ECCV_2018_paper.pdf) 
  _Rhodin, Helge and Salzmann, Mathieu and Fua, Pascal_
@@ -531,17 +529,17 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 [\[back to top\]](#contents)
 
 ### 2018 Others
-#### ***Object Pose Esimation and Reconstruction***
 
-#### ***Human Pose Estimation and Body Reconstruction***
 <details>
 <summary>Show More</summary>
+
+#### ***Human Pose Estimation and Body Reconstruction***
+
 </details>
 
 [\[back to top\]](#contents)
 
 ### 2017 CVPR
-#### ***Object Pose Esimation and Reconstruction***
 ##### • Global Hypothesis Generation for 6D Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Michel_Global_Hypothesis_Generation_CVPR_2017_paper.pdf) 
  _Michel, Frank and Kirillov, Alexander and Brachmann, Eric and Krull, Alexander and Gumhold, Stefan and Savchynskyy, Bogdan and Rother, Carsten_
 ##### • PoseAgent: Budget-Constrained 6D Object Pose Estimation via Reinforcement Learning. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Krull_PoseAgent_Budget-Constrained_6D_CVPR_2017_paper.pdf) 
@@ -550,10 +548,10 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
  _Fan, Haoqiang and Su, Hao and Guibas, Leonidas J._
 ##### • DUST: Dual Union of Spatio-Temporal Subspaces for Monocular Multiple Object 3D Reconstruction. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Agudo_DUST_Dual_Union_CVPR_2017_paper.pdf) 
  _Agudo, Antonio and Moreno-Noguer, Francesc_
-
-#### ***Human Pose Estimation and Body Reconstruction***
 <details>
 <summary>Show More</summary>
+
+#### ***Human Pose Estimation and Body Reconstruction***
 
  ##### • Multi-Context Attention for Human Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chu_Multi-Context_Attention_for_CVPR_2017_paper.pdf) 
  _Chu, Xiao and Yang, Wei and Ouyang, Wanli and Ma, Cheng and Yuille, Alan L. and Wang, Xiaogang_
@@ -574,7 +572,7 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
  [\[back to top\]](#contents)
 
 ### 2017 ICCV
-#### ***Object Pose Esimation and Reconstruction***
+
 ##### • Real-Time Monocular Pose Estimation of 3D Objects Using Temporally Consistent Local Color Histograms. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tjaden_Real-Time_Monocular_Pose_ICCV_2017_paper.pdf) 
  _Tjaden, Henning and Schwanecke, Ulrich and Schomer, Elmar_
 ##### • Pose Guided RGBD Feature Learning for 3D Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Balntas_Pose_Guided_RGBD_ICCV_2017_paper.pdf) 
@@ -583,10 +581,10 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
  _Glent Buch, Anders and Kiforenko, Lilita and Kraft, Dirk_
 ##### • Robust Hand Pose Estimation During the Interaction With an Unknown Object. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Choi_Robust_Hand_Pose_ICCV_2017_paper.pdf) 
  _Choi, Chiho and Ho Yoon, Sang and Chen, Chin-Ning and Ramani, Karthik_
-
-#### ***Human Pose Estimation and Body Reconstruction***
 <details>
 <summary>Show More</summary>
+
+#### ***Human Pose Estimation and Body Reconstruction***
 
  ##### • Towards 3D Human Pose Estimation in the Wild: A Weakly-Supervised Approach. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhou_Towards_3D_Human_ICCV_2017_paper.pdf) 
  _Zhou, Xingyi and Huang, Qixing and Sun, Xiao and Xue, Xiangyang and Wei, Yichen_
@@ -618,17 +616,17 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 
 
 ### 2016 CVPR
-#### ***Object Pose Esimation and Reconstruction***
+
 ##### • Uncertainty-Driven 6D Pose Estimation of Objects and Scenes From a Single RGB Image. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Brachmann_Uncertainty-Driven_6D_Pose_CVPR_2016_paper.pdf) 
  _Brachmann, Eric and Michel, Frank and Krull, Alexander and Yang, Michael Ying and Gumhold, Stefan and Rother, carsten_
 ##### • Recovering 6D Object Pose and Predicting Next-Best-View in the Crowd. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Doumanoglou_Recovering_6D_Object_CVPR_2016_paper.pdf) 
  _Doumanoglou, Andreas and Kouskouridas, Rigas and Malassiotis, Sotiris and Kim, Tae-Kyun_
 ##### • 3D Reconstruction of Transparent Objects With Position-Normal Consistency. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Qian_3D_Reconstruction_of_CVPR_2016_paper.pdf) 
  _Qian, Yiming and Gong, Minglun and Yang, Yee Hong_
-
-#### ***Human Pose Estimation and Body Reconstruction***
 <details>
 <summary>Show More</summary>
+
+#### ***Human Pose Estimation and Body Reconstruction***
 
  ##### • Personalizing Human Video Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Charles_Personalizing_Human_Video_CVPR_2016_paper.pdf) 
  _Charles, James and Pfister, Tomas and Magee, Derek and Hogg, David and Zisserman, Andrew_
@@ -644,18 +642,19 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 [\[back to top\]](#contents)
 
 ### 2016 Others
-#### ***Object Pose Esimation and Reconstruction***
 
-#### ***Human Pose Estimation and Body Reconstruction***
 <details>
 <summary>Show More</summary>
+
+#### ***Human Pose Estimation and Body Reconstruction***
+
 </details>
 
 
 [\[back to top\]](#contents)
 
 ### 2015 CVPR
-#### ***Object Pose Esimation and Reconstruction***
+
 ##### • Pose Induction for Novel Object Categories. [\[PDF\]](https://openaccess.thecvf.com/content_iccv_2015/papers/Tulsiani_Pose_Induction_for_ICCV_2015_paper.pdf) 
  _Tulsiani, Shubham and Carreira, Joao and Malik, Jitendra_
 ##### • Real-Time Pose Estimation Piggybacked on Object Detection. [\[PDF\]](https://openaccess.thecvf.com/content_iccv_2015/papers/Juranek_Real-Time_Pose_Estimation_ICCV_2015_paper.pdf) 
@@ -676,10 +675,10 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
  _Carreira, Joao and Kar, Abhishek and Tulsiani, Shubham and Malik, Jitendra_
 ##### • A Fixed Viewpoint Approach for Dense Reconstruction of Transparent Objects. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Han_A_Fixed_Viewpoint_2015_CVPR_paper.pdf) 
  _Han, Kai and Wong, Kwan-Yee K. and Liu, Miaomiao_
-
-#### ***Human Pose Estimation and Body Reconstruction***
 <details>
 <summary>Show More</summary>
+
+#### ***Human Pose Estimation and Body Reconstruction***
 
 ##### • Combining Local Appearance and Holistic View: Dual-Source Deep Neural Networks for Human Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Fan_Combining_Local_Appearance_2015_CVPR_paper.pdf) 
  _Fan, Xiaochuan and Zheng, Kang and Lin, Yuewei and Wang, Song_
@@ -696,17 +695,17 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 [\[back to top\]](#contents)
 
 ### 2015 ICCV
-#### ***Object Pose Esimation and Reconstruction***
+
 ##### • BodyPrint: Pose Invariant 3D Shape Matching of Human Bodies. [\[PDF\]](https://openaccess.thecvf.com/content_iccv_2015/papers/Wang_BodyPrint_Pose_Invariant_ICCV_2015_paper.pdf) 
  _Wang, Jiangping and Ma, Kai and Singh, Vivek Kumar and Huang, Thomas and Chen, Terrence_
 ##### • Flowing ConvNets for Human Pose Estimation in Videos. [\[PDF\]](https://openaccess.thecvf.com/content_iccv_2015/papers/Pfister_Flowing_ConvNets_for_ICCV_2015_paper.pdf) 
  _Pfister, Tomas and Charles, James and Zisserman, Andrew_
 ##### • Beyond Tree Structure Models: A New Occlusion Aware Graphical Model for Human Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_iccv_2015/papers/Fu_Beyond_Tree_Structure_ICCV_2015_paper.pdf) 
  _Fu, Lianrui and Zhang, Junge and Huang, Kaiqi_
-
-#### ***Human Pose Estimation and Body Reconstruction***
 <details>
 <summary>Show More</summary>
+
+#### ***Human Pose Estimation and Body Reconstruction***
 
 ##### content_iccv_2015/papers/Zhang_Human_Pose_Estimation_ICCV_2015_paper.pdf) 
  _Zhang, Dong and Shah, Mubarak_
@@ -721,18 +720,18 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 [\[back to top\]](#contents)
 
 ### 2015 Others
-#### ***Object Pose Esimation and Reconstruction***
-
-#### ***Human Pose Estimation and Body Reconstruction***
 <details>
 <summary>Show More</summary>
+
+#### ***Human Pose Estimation and Body Reconstruction***
+
 </details>
 
 
 [\[back to top\]](#contents)
 
 ### 2014 CVPR
-#### ***Object Pose Esimation and Reconstruction***
+
 ##### • Real-time Simultaneous Pose and Shape Estimation for Articulated Objects Using a Single Depth Camera. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2014/papers/Ye_Real-time_Simultaneous_Pose_2014_CVPR_paper.pdf) 
  _Ye, Mao and Yang, Ruigang_
 ##### • Real-time Model-based Articulated Object Pose Detection and Tracking with Variable Rigidity Constraints. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2014/papers/Pauwels_Real-time_Model-based_Articulated_2014_CVPR_paper.pdf) 
@@ -747,10 +746,11 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
  _Hejrati, Mohsen and Ramanan, Deva_
 ##### • Transparent Object Reconstruction via Coded Transport of Intensity. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2014/papers/Ma_Transparent_Object_Reconstruction_2014_CVPR_paper.pdf) 
  _Ma, Chenguang and Lin, Xing and Suo, Jinli and Dai, Qionghai and Wetzstein, Gordon_
-
-#### ***Human Pose Estimation and Body Reconstruction***
 <details>
 <summary>Show More</summary>
+
+#### ***Human Pose Estimation and Body Reconstruction***
+
 
  ##### • Towards Unified Human Parsing and Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2014/papers/Dong_Towards_Unified_Human_2014_CVPR_paper.pdf) 
  _Dong, Jian and Chen, Qiang and Shen, Xiaohui and Yang, Jianchao and Yan, Shuicheng_
@@ -775,7 +775,7 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 [\[back to top\]](#contents)
 
 ### 2014 Others & Before
-#### ***Object Pose Esimation and Reconstruction***
+
 ##### • [2013 ICCV] Alternating Regression Forests for Object Detection and Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_iccv_2013/papers/Schulter_Alternating_Regression_Forests_2013_ICCV_paper.pdf) 
  _Schulter, Samuel and Leistner, Christian and Wohlhart, Paul and Roth, Peter M. and Bischof, Horst_
 ##### • [2013 ICCV] Complex 3D General Object Reconstruction from Line Drawings. [\[PDF\]](https://openaccess.thecvf.com/content_iccv_2013/papers/Yang_Complex_3D_General_2013_ICCV_paper.pdf) 
@@ -796,10 +796,11 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
  _Tabb, Amy_
 ##### • [2013 CVPR] Dense Reconstruction Using 3D Object Shape Priors. [\[PDF\]](https://openaccess.thecvf.com/content_cvpr_2013/papers/Dame_Dense_Reconstruction_Using_2013_CVPR_paper.pdf) 
  _Dame, Amaury and Prisacariu, Victor A. and Ren, Carl Y. and Reid, Ian_
-
-#### ***Human Pose Estimation and Body Reconstruction***
 <details>
 <summary>Show More</summary>
+
+#### ***Human Pose Estimation and Body Reconstruction***
+
 
  ##### • [2013 ICCV] A Non-parametric Bayesian Network Prior of Human Pose. [\[PDF\]](https://openaccess.thecvf.com/content_iccv_2013/papers/Lehrmann_A_Non-parametric_Bayesian_2013_ICCV_paper.pdf) 
  _Lehrmann, Andreas M. and Gehler, Peter V. and Nowozin, Sebastian_
