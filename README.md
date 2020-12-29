@@ -102,12 +102,8 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
  _Samarth Brahmbhatt, Chengcheng Tang, Christopher D. Twigg, Charles C. Kemp, James Hays_
 ##### • Shape Prior Deformation for Categorical 6D Object Pose and Size Estimation. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660528.pdf) 
  _Meng Tian, Marcelo H Ang Jr, Gim Hee Lee_
-##### • Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680086.pdf) 
- _Anil Armagan, Guillermo Garcia-Hernando, Seungryul Baek, Shreyas Hampali, Mahdi Rad, Zhaohui Zhang, Shipeng Xie, MingXiu Chen, Boshen Zhang, Fu Xiong, Yang Xiao, Zhiguo Cao, Junsong Yuan, Pengfei Ren⁸, Weiting Huang⁸, Haifeng Sun⁸, Marek Hrúz⁹, Jakub Kanis⁹, Zdeněk Krňoul⁹, Qingfu Wan, Shile Li, Linlin Yang, Dongheui Lee, Angela Yao, Weiguo Zhou, Sijia Mei, Yunhui Liu, Adrian Spurr, Umar Iqbal, Pavlo Molchanov, Philippe Weinzaepfel, Romain Brégier, Grégory Rogez, Vincent Lepetit, Tae-Kyun Kim_
 ##### • Category Level Object Pose Estimation via Neural Analysis-by-Synthesis. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710137.pdf) 
  _Xu Chen, Zijian Dong, Jie Song, Andreas Geiger, Otmar Hilliges_
-##### • Pose Augmentation: Class-agnostic Object Pose Transformation for Object Recognition. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730137.pdf) 
- _Yunhao Ge, Jiaping Zhao, Laurent Itti_
 ##### • Pose Augmentation: Class-agnostic Object Pose Transformation for Object Recognition. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730137.pdf) 
  _Yunhao Ge, Jiaping Zhao, Laurent Itti_
 ##### • Few-Shot Single-View 3-D Object Reconstruction with Compositional Priors. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700613.pdf) 
