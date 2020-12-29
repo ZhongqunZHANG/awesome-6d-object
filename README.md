@@ -93,8 +93,8 @@ _Jonathan Hexner & Rami R. Hagege_
 
 ### Other Journals
 
-##### • \[2020 TIP\] Weakly-supervised Learning for Single Depth based Hand Shape Recovery. [\[PDF\]](https://ieeexplore.ieee.org/document/9262071)
-_Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cuixia Ma, Hongan Wang_
+##### • \[2020 TIP\] Domain-Translated 3D Object Pose Estimation. [\[PDF\]](https://doi.org/10.1109/TIP.2020.3025447)
+_Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 
 [\[back to top\]](#contents)
@@ -180,9 +180,9 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
  _Li, Xiaolong and Wang, He and Yi, Li and Guibas, Leonidas J. and Abbott, A. Lynn and Song, Shuran_
 ##### • Reconstruct Locally, Localize Globally: A Model Free Method for Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cai_Reconstruct_Locally_Localize_Globally_A_Model_Free_Method_for_Object_CVPR_2020_paper.pdf) 
  _Cai, Ming and Reid, Ian_
-##### • HybridPose: 6D Object Pose Estimation Under Hybrid Representations. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Song_HybridPose_6D_Object_Pose_Estimation_Under_Hybrid_Representations_CVPR_2020_paper.pdf) 
+##### • HybridPose: 6D Object Pose Estimation Under Hybrid Representations. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Song_HybridPose_6D_Object_Pose_Estimation_Under_Hybrid_Representations_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/chensong1995/HybridPose) 
  _Song, Chen and Song, Jiaru and Huang, Qixing_
-##### • Single-Stage 6D Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Single-Stage_6D_Object_Pose_Estimation_CVPR_2020_paper.pdf) 
+##### • Single-Stage 6D Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Single-Stage_6D_Object_Pose_Estimation_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/cvlab-epfl/single-stage-pose) 
  _Hu, Yinlin and Fua, Pascal and Wang, Wei and Salzmann, Mathieu_
 ##### • Novel Object Viewpoint Estimation Through Reconstruction Alignment. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Banani_Novel_Object_Viewpoint_Estimation_Through_Reconstruction_Alignment_CVPR_2020_paper.pdf) 
  _El Banani, Mohamed and Corso, Jason J. and Fouhey, David F._
@@ -194,7 +194,7 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
  _Baek, Seungryul and Kim, Kwang In and Kim, Tae-Kyun_
  ##### • Learning Geocentric Object Pose in Oblique Monocular Images. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Christie_Learning_Geocentric_Object_Pose_in_Oblique_Monocular_Images_CVPR_2020_paper.pdf) 
  _Christie, Gordon and Abujder, Rodrigo Rene Rai Munoz and Foster, Kevin and Hagstrom, Shea and Hager, Gregory D. and Brown, Myron Z._
-##### • LatentFusion: End-to-End Differentiable Reconstruction and Rendering for Unseen Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Park_LatentFusion_End-to-End_Differentiable_Reconstruction_and_Rendering_for_Unseen_Object_Pose_CVPR_2020_paper.pdf) 
+##### • LatentFusion: End-to-End Differentiable Reconstruction and Rendering for Unseen Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Park_LatentFusion_End-to-End_Differentiable_Reconstruction_and_Rendering_for_Unseen_Object_Pose_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/NVlabs/latentfusion) 
  _Park, Keunhong and Mousavian, Arsalan and Xiang, Yu and Fox, Dieter_
 ##### • Mixture Dense Regression for Object Detection and Human Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Varamesh_Mixture_Dense_Regression_for_Object_Detection_and_Human_Pose_Estimation_CVPR_2020_paper.pdf) 
  _Varamesh, Ali and Tuytelaars, Tinne_
@@ -202,8 +202,19 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
  _Chen, Dengsheng and Li, Jun and Wang, Zheng and Xu, Kai_
 ##### • Multi-Path Learning for Object Pose Estimation Across Domains. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sundermeyer_Multi-Path_Learning_for_Object_Pose_Estimation_Across_Domains_CVPR_2020_paper.pdf) 
  _Sundermeyer, Martin and Durner, Maximilian and Puang, En Yen and Marton, Zoltan-Csaba and Vaskevicius, Narunas and Arras, Kai O. and Triebel, Rudolph_
-##### • EPOS: Estimating 6D Pose of Objects With Symmetries. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hodan_EPOS_Estimating_6D_Pose_of_Objects_With_Symmetries_CVPR_2020_paper.pdf) 
+##### • EPOS: Estimating 6D Pose of Objects With Symmetries. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hodan_EPOS_Estimating_6D_Pose_of_Objects_With_Symmetries_CVPR_2020_paper.pdf) [\[Project\]](http://cmp.felk.cvut.cz/epos/) 
  _Hodan, Tomas and Barath, Daniel and Matas, Jiri_
+##### • MoreFusion: Multi-object Reasoning for 6D Pose Estimation from Volumetric Fusion. [\[PDF\]](https://arxiv.org/pdf/2004.04336) [\[Code\]](https://github.com/wkentaro/morefusion) 
+ _Kentaro Wada; Edgar Sucar; Stephen James; Daniel Lenton; Andrew J. Davison_ 
+ ##### • G2L-Net: Global to Local Network for Real-time 6D Pose Estimation with Embedding Vector Features. [\[PDF\]](https://arxiv.org/abs/2003.11089) [\[Code\]](https://github.com/DC1991/G2L_Net)
+ _Kentaro Wada; Edgar Sucar; Stephen James; Daniel Lenton; Andrew J. Davison_
+##### • VN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation. [\[PDF\]](https://arxiv.org/abs/1911.04231) [\[Code\]](https://github.com/ethnhe/PVN3D)
+ _Yisheng He, Wei Sun, Haibin Huang, Jianran Liu, Haoqiang Fan, Jian Sun_
+##### • InPerfectShape: Certifiably Optimal 3D Shape Reconstruction from 2DLandmarks. [\[PDF\]](http://arxiv.org/abs/1911.11924v2)
+ _Heng Yang, Luca Carlone_
+ ##### • PFNet: Point Fractal Network for 3D Point Cloud Completion. [\[PDF\]](http://arxiv.org/abs/2003.00410v1)
+ _Zitian Huang, Yikuan Yu, Jiawen Xu, Feng Ni, Xinyi Le_
+
 <details>
 <summary>Show More</summary>
 
@@ -898,6 +909,8 @@ _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cui
 ### U.S. / Canada
 
 ##### • [Dieter Fox](https://homes.cs.washington.edu/~fox/), [UW Robotics and State Estimation Lab](http://rse-lab.cs.washington.edu/), University of Washington.
+##### • [Junsong Yuan](https://homes.cs.washington.edu/~fox/), [UW Robotics and State Estimation Lab](http://rse-lab.cs.washington.edu/), University of Washington.
+
 
 ### Europe
 ##### • [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), [Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/index.php), University College London (UCL).
