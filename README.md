@@ -50,6 +50,10 @@ _Viktor Rudnev, Vladislav Golyanik, Jiayi Wang, Hans-Peter Seidel, Franziska Mue
 _Asako Kanezaki, Yasuyuki Matsushita, Yoshifumi Nishida_
 ##### • \[2020 TPAMI\] Generalized Feedback Loop for Joint Hand-Object Pose Estimation. [\[PDF\]](https://doi.org/10.1109/TPAMI.2019.2905607)
 _Markus Oberweger, Paul Wohlhart, Vincent Lepetit_
+##### • \[2020 IJCV\] Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images. [\[PDF\]](https://doi.org/10.1007/s11263-020-01347-6)
+_Haozhe Xie, Hongxun Yao, Shengping Zhang, Shangchen Zhou, Wenxiu Sun_
+##### • \[2020 IJCV\] Learning Single-Image 3D Reconstruction by Generative Modelling of Shape, Pose and Shading. [\[PDF\]](https://doi.org/10.1007/s11263-019-01219-8)
+_Paul Henderson, Vittorio Ferrarin_
 ##### • \[2020 TPAMI\] SurfelMeshing: Online Surfel-Based Mesh Reconstruction. [\[PDF\]](https://doi.org/10.1109/TPAMI.2019.2947048)
 _Thomas Schöps, Torsten Sattler, Marc Pollefeys_
 ##### • \[2020 TPAMI\] Shape and Reflectance Reconstruction Using Concentric Multi-Spectral Light Field. [\[PDF\]](https://doi.org/10.1109/TPAMI.2020.2986764)
@@ -62,18 +66,26 @@ _Alykhan Tejani, Rigas Kouskouridas, Andreas Doumanoglou, Danhang Tang, Tae-Kyun
 _Tu-Hoa Pham, Nikolaos Kyriazis, Antonis A. Argyros, Abderrahmane Kheddar_
 ##### • \[2018 TPAMI\] Single-View 3D Scene Reconstruction and Parsing by Attribute Grammar. [\[PDF\]](https://doi.org/10.1109/TPAMI.2017.2689007)
 _Xiaobai Liu, Yibiao Zhao, Song-Chun Zhu_
+##### • \[2018 IJCV\] Defining the Pose of Any 3D Rigid Object and an Associated Distance. [\[PDF\]](https://doi.org/10.1007/s11263-017-1052-4)
+_Romain Brégier, Frédéric Devernay, Laetitia Leyrit, James L. Crowley_
+##### • \[2018 IJCV\] Correction to: Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, and Action Recognition on Lie Groups. [\[PDF\]](https://doi.org/10.1007/s11263-018-1069-3)
+_Chi Xu, Lakshmi Narasimhan Govindarajan, Yu Zhang, James Stewart, Zoe Bichler, Suresh Jesuthasan, Adam Claridge-Chang, Ajay Sriram Mathuru, Wenlong Tang, Peixin Zhu, Li Cheng_
 ##### • \[2017 TPAMI\] Learning Category-Specific Deformable 3D Models for Object Reconstruction. [\[PDF\]](https://doi.org/10.1109/TPAMI.2016.2574713)
 _Shubham Tulsiani, Abhishek Kar, João Carreira, Jitendra Malik_
 ##### • \[2017 TPAMI\] Novel Views of Objects from a Single Image. [\[PDF\]](https://doi.org/10.1109/TPAMI.2016.2601093)
 _Konstantinos Rematas, Chuong H. Nguyen, Tobias Ritschel, Mario Fritz, Tinne Tuytelaars_
 ##### • \[2017 TPAMI\] Dense Semantic 3D Reconstruction. [\[PDF\]](https://doi.org/10.1109/TPAMI.2016.2613051)
 _Christian Hane, Christopher Zach, Andrea Cohen, Marc Pollefeys_
+##### • \[2017 IJCV\] Growing Regression Tree Forests by Classification for Continuous Object Pose Estimation. [\[PDF\]](https://doi.org/10.1007/s11263-016-0942-1)
+_Kota Hara, Rama Chellappa_
 ##### • \[2016 TPAMI\] Lifting Object Detection Datasets into 3D. [\[PDF\]](https://doi.org/10.1109/TPAMI.2015.2435707)
 _João Carreira, Sara Vicente, Lourdes Agapito, Jorge Batista_
 ##### • \[2016 TPAMI\] Real-Time Simultaneous Pose and Shape Estimation for Articulated Objects Using a Single Depth Camera. [\[PDF\]](https://doi.org/10.1109/TPAMI.2016.2557783)
 _Mao Ye, Yang Shen, Chao Du, Zhigeng Pan, Ruigang Yang_
 ##### • \[2016 TPAMI\] Template-Based Monocular 3D Shape Recovery Using Laplacian Meshes. [\[PDF\]](https://doi.org/10.1109/TPAMI.2015.2435739)
 _Dat Tien Ngo, Jonas Östlund, Pascal Fua_
+##### • \[2016 IJCV\] 2D-3D Pose Estimation of Heterogeneous Objects Using a Region Based Approach. [\[PDF\]](https://link.springer.com/article/10.1007%2Fs11263-015-0873-2)
+_Jonathan Hexner & Rami R. Hagege_
 
 
 
