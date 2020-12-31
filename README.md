@@ -281,6 +281,8 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 [\[back to top\]](#contents)
 
 ### 2020 Others
+##### • [2020 3DV] Introducing Pose Consistency and Warp-Alignment for Self-Supervised 6D Object Pose Estimation in Color Images. [\[PDF\]](https://arxiv.org/abs/2003.12344) 
+ _Juil Sock, Guillermo Garcia-Hernando, Anil Armagan, Tae-Kyun Kim_
 ##### • [2020 WACV] PointPoseNet: Point Pose Network for Robust 6D Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_PonitPoseNet_Point_Pose_Network_for_Robust_6D_Object_Pose_Estimation_WACV_2020_paper.pdf) 
  _Chen, Wei and Duan, Jinming and Basevi, Hector and Chang, Hyung Jin and Leonardis, Ales_
 ##### • [2020 BMVC] 6DoF Object Pose Estimation via Differentiable Proxy Voting Regularizer. [\[PDF\]](https://www.bmvc2020-conference.com/assets/papers/0287.pdf) 
@@ -912,12 +914,15 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 ##### • [Dieter Fox](https://homes.cs.washington.edu/~fox/), [UW Robotics and State Estimation Lab](http://rse-lab.cs.washington.edu/), University of Washington.
 ##### • [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/), University at Buffalo, State University of New York.
+##### • [Qixing Huang](https://www.cs.utexas.edu/~huangqx/index.html), The University of Texas at Austin.
 
 
 ### Europe
 ##### • [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), [Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/index.php), University College London (UCL).
 ##### • [TAE-KYUN (T-K) KIM](https://sites.google.com/view/tkkim/home), [Imperial Computer Vision & Learning Lab](https://labicvl.github.io/), Imperial College London.
 ##### • [Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/), [Intelligent Robotics Lab](https://www.birmingham.ac.uk/research/activity/computer-science/artificial-intelligence/robotics-and-computer-vision/index.aspx), University of Birmingham.
+##### • [Pascal Fua](https://www.epfl.ch/labs/cvlab/people/), [CVLab](https://www.epfl.ch/labs/cvlab/), EPFL.
+
 
 ### Asia
 ##### • [Cewu Lu](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=366), [Machine Vision and Intelligence Group ](http://mvig.sjtu.edu.cn/), Shanghai JiaoTong University (SJTU).
