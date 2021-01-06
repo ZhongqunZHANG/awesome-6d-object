@@ -36,8 +36,47 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
-##### • [\[arXiv:2012.06475\]](https://arxiv.org/abs/2012.06475) EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream. [\[PDF\]](https://arxiv.org/pdf/2012.06475.pdf)  [\[Project\]](https://gvv.mpi-inf.mpg.de/projects/EventHands/)
-_Viktor Rudnev, Vladislav Golyanik, Jiayi Wang, Hans-Peter Seidel, Franziska Mueller, Mohamed Elgharib, Christian Theobalt_
+##### • [\[arXiv:2012.11938\]](https://arxiv.org/abs/2012.11938) 3D Point-to-Keypoint Voting Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2012.11938)
+_Weitong Hua, Jiaxin Guo, Yue Wang, Rong Xiong_
+##### • [\[arXiv:2012.11260\]](https://arxiv.org/abs/2012.11260) Unsupervised Domain Adaptation with Temporal-Consistent Self-Training for 3D Hand-Object Joint Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2012.11260)
+_Mengshi Qi, Edoardo Remelli, Mathieu Salzmann, Pascal Fua_
+##### • [\[arXiv:2012.01788\]](https://arxiv.org/abs/2012.01788) Object-Driven Active Mapping for More Accurate Object Pose Estimation and Robotic Grasping. [\[PDF\]](https://arxiv.org/pdf/2012.01788) [\[Project Page\]](https://yanmin-wu.github.io/project/active-mapping/)
+_Yanmin Wu, Yunzhou Zhang, Delong Zhu, Xin Chen, Sonya Coleman, Wenkai Sun, Xinggang Hu, Zhiqiang Deng_
+##### • [\[arXiv:2012.00924\]](https://arxiv.org/abs/2012.00924) CPF: Learning a Contact Potential Field to Model the Hand-object Interaction. [\[PDF\]](https://arxiv.org/pdf/2012.00924) 
+_Lixin Yang, Xinyu Zhan, Kailin Li, Wenqiang Xu, Jiefeng Li, Cewu Lu_
+##### • [\[arXiv:2012.00088\]](https://arxiv.org/abs/2012.00088) CPF: Nothing But Geometric Constraints: A Model-Free Method for Articulated Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2012.00088) 
+_Qihao Liu, Weichao Qiu, Weiyao Wang, Gregory D. Hager, Alan L. Yuille_
+##### • [\[arXiv:2011.13669\]](https://arxiv.org/abs/2011.13669) Towards real-time object recognition and pose estimation in point clouds. [\[PDF\]](https://arxiv.org/pdf/2011.13669) 
+_Marlon Marcon, Olga Regina Pereira Bellon, Luciano Silva_
+##### • [\[arXiv:2011.11078\]](https://arxiv.org/abs/2011.11078) End-to-End Differentiable 6DoF Object Pose Estimation with Local and Global Constraints. [\[PDF\]](https://arxiv.org/pdf/2011.11078) 
+_Anshul Gupta, Joydeep Medhi, Aratrik Chattopadhyay, Vikram Gupta_
+##### • [\[arXiv:2011.08771\]](https://arxiv.org/abs/2011.08771) A Method to Generate High Precision Mesh Model and RGB-D Datasetfor 6D Pose Estimation Task. [\[PDF\]](https://arxiv.org/pdf/2011.08771) 
+_Minglei Lu, Yu Guo, Fei Wang, Zheng Dang_
+##### • [\[arXiv:2011.05669\]](https://arxiv.org/abs/2011.05669) A Hybrid Approach for 6DoF Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2011.05669) 
+_Rebecca König, Bertram Drost_
+##### • [\[arXiv:2011.04307\]](https://arxiv.org/abs/2011.04307) EfficientPose: An efficient, accurate and scalable end-to-end 6D multi object pose estimation approach. [\[PDF\]](https://arxiv.org/pdf/2011.04307) [\[Code\]](https://github.com/ybkscht/EfficientPose) 
+_Yannick Bukschat, Marcus Vetter_
+##### • [\[arXiv:2011.00372\]](https://arxiv.org/abs/2011.00372) Pose Estimation of Specular and Symmetrical Objects. [\[PDF\]](https://arxiv.org/pdf/2011.00372)
+_Jiaming Hu, Hongyi Ling, Priyam Parashar, Aayush Naik, Henrik Christensen_
+##### • [\[arXiv:2010.16117\]](https://arxiv.org/abs/2010.16117) PyraPose: Feature Pyramids for Fast and Accurate Object Pose Estimation under Domain Shift. [\[PDF\]](https://arxiv.org/pdf/2010.16117)
+_Stefan Thalhammer, Markus Leitner, Timothy Patten, Markus Vincze_
+##### • [\[arXiv:2010.12807\]](https://arxiv.org/abs/2010.12807) REDE: End-to-end Object 6D Pose Robust Estimation Using Differentiable Outliers Elimination. [\[PDF\]](https://arxiv.org/pdf/2010.12807)
+_Weitong Hua, Zhongxiang Zhou, Jun Wu, Yue Wang, Rong Xiong_
+##### • [\[arXiv:2010.09355\]](https://arxiv.org/abs/2010.09355) SHREC 2020 track: 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2010.09355)
+_Honglin Yuan, Remco C. Veltkamp, Georgios Albanis, Nikolaos Zioulis, Dimitrios Zarpalas, Petros Daras_
+##### • [\[arXiv:2010.00829\]](https://arxiv.org/abs/2010.00829) Continuous close-range 3D object pose estimation. [\[PDF\]](https://arxiv.org/pdf/2010.00829)
+_Bjarne Grossmann, Francesco Rovida, Volker Krueger_
+##### • [\[arXiv:2009.12678\]](https://arxiv.org/abs/2009.12678) I Like to Move It: 6D Pose Estimation as an Action Decision Process. [\[PDF\]](https://arxiv.org/pdf/2009.12678)
+_Benjamin Busam, Hyun Jun Jung, Nassir Navab_
+##### • [\[arXiv:2009.06887\]](https://arxiv.org/abs/2009.06887) 3DPVNet: Patch-level 3D Hough Voting Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2009.06887)
+_Yuanpeng Liu, Jun Zhou, Yuqi Zhang, Chao Ding, Jun Wang_
+##### • [\[arXiv:2008.08465\]](https://arxiv.org/abs/2008.08465) CosyPose: Consistent multi-view multi-object 6D pose estimation. [\[PDF\]](https://arxiv.org/pdf/2008.08465)
+_Yann Labbé, Justin Carpentier, Mathieu Aubry, Josef Sivic_
+##### • [\[arXiv:2008.08391\]](https://arxiv.org/abs/2008.08391) Robust RGB-based 6-DoF Pose Estimation without Real Pose Annotations. [\[PDF\]](https://arxiv.org/pdf/2008.08391)
+_Zhigang Li, Yinlin Hu, Mathieu Salzmann, Xiangyang Ji_
+##### • [\[arXiv:2008.05242\]](https://arxiv.org/abs/2008.05242) PAM:Point-wise Attention Module for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2008.05242)
+_Myoungha Song, Jeongho Lee, Donghwan Kim_
+
 
 
 [\[back to top\]](#contents)
@@ -281,6 +320,8 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 [\[back to top\]](#contents)
 
 ### 2020 Others
+##### • [2020 3DV] Spatial Attention Improves Iterative 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2101.01659.pdf) 
+ _Stefan Stevsic, Otmar Hilliges_
 ##### • [2020 3DV] Introducing Pose Consistency and Warp-Alignment for Self-Supervised 6D Object Pose Estimation in Color Images. [\[PDF\]](https://arxiv.org/abs/2003.12344) 
  _Juil Sock, Guillermo Garcia-Hernando, Anil Armagan, Tae-Kyun Kim_
 ##### • [2020 WACV] PointPoseNet: Point Pose Network for Robust 6D Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_PonitPoseNet_Point_Pose_Network_for_Robust_6D_Object_Pose_Estimation_WACV_2020_paper.pdf) 
@@ -874,9 +915,9 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 ## Workshops
 
 #### [1] *Workshop on Recovering 6D Object Pose:*
-##### • [6D 2020](http://cmp.felk.cvut.cz/sixd/workshop_2020/), In conjunction with ECCV 2020
+##### • [SIXD 2020](http://cmp.felk.cvut.cz/sixd/workshop_2020/), In conjunction with ECCV 2020
 
-##### • [6D 2018](https://sites.google.com/view/hands2018/), In conjunction with ECCV 2018
+##### • [SIXD 2018](https://sites.google.com/view/hands2018/), In conjunction with ECCV 2018
   <!-- - HANDS18: Methods, Techniques and Applications for Hand Observation. [\[PDF\]](https://arxiv.org/abs/1810.10818)
 
 ##### • [HANDS 2017](http://icvl.ee.ic.ac.uk/hands17/), In conjunction with ICCV 2017
@@ -894,17 +935,13 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 ## Challenges
 
 #### [1] [BOP Challenge 2020](http://cmp.felk.cvut.cz/sixd/workshop_2020/#challenge)
-<!-- *[HANDS 2019](https://sites.google.com/view/hands2019/), [ICCV 2019](http://iccv2019.thecvf.com/)*
-- Submission Website: [Depth-Based Task](https://competitions.codalab.org/competitions/20913), [Depth-Based Hand-Object Task](https://competitions.codalab.org/competitions/20449), [RGB-Based Hand-Object Task](https://competitions.codalab.org/competitions/21116)
+- Dataset: [BOP: Benchmark for 6D Object Pose Estimation](https://bop.felk.cvut.cz/challenges/bop-challenge-2020/)
 - Documents
-    - [Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction](https://arxiv.org/pdf/2003.13764.pdf), ECCV 2020
+    - [BOP Challenge 2020 on 6D Object Localization](https://arxiv.org/pdf/2009.07378), ECCV 2020
+#### [2] [SIXD Challenge 2017](http://cmp.felk.cvut.cz/sixd/challenge_2017/)
+- Dataset: [BOP: Benchmark for 6D Object Pose Estimation](https://bop.felk.cvut.cz/challenges/bop-challenge-2020/)
+- Documents
 
-#### [2] [The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation](http://icvl.ee.ic.ac.uk/hands17/challenge/)
-*[HANDS 2017](http://icvl.ee.ic.ac.uk/hands17/), [ICCV 2017](http://iccv2017.thecvf.com/)*
-- Submission Website: [Frame and Tracking Task](https://competitions.codalab.org/competitions/17356#results), [Hand-Object Task](https://competitions.codalab.org/competitions/17452#results)
-- Documents
-    - [The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation](https://arxiv.org/pdf/1707.02237.pdf), arXiv 2017
-    - [Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals.](https://arxiv.org/pdf/1712.03917.pdf), CVPR 2018 -->
 
 [\[back to top\]](#contents)
 
@@ -927,6 +964,7 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 ### Asia
 ##### • [Cewu Lu](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=366), [Machine Vision and Intelligence Group ](http://mvig.sjtu.edu.cn/), Shanghai JiaoTong University (SJTU).
 ##### • [Gim Hee Lee](https://www.researchgate.net/profile/Gim_Lee), [CVRP LAB](https://www.comp.nus.edu.sg/~leegh/#), National University of Singapore (NUS).
+##### • [Yue Wang](https://ywang-zju.github.io/), [His Youtube Channel](https://www.youtube.com/channel/UCkGsUj95tueXDxf5JEhiYZQ), Zhejiang University (ZJU).
 
 ### Australia
 ##### • [Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/), [Australia ARC Centre of Excellence for Robotic Vision](http://roboticvision.org/), The Australian National University (ANU).
