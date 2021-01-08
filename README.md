@@ -910,6 +910,9 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 ## Datasets
 
 
+#### *An excellent repo about the datasets of the object 6d pose, which can be found [here](https://github.com/YoungXIAO13/ObjectPoseEstimationSummary).*
+
+
 [\[back to top\]](#contents)
 
 ## Workshops
