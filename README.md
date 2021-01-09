@@ -25,10 +25,15 @@ Another related paper list is about the hand pose estimation, which can be found
    - [Benchmark 6D Object Pose Estimation](#Benchmark-6D-Object-Pose-Estimation)
  - [Workshops](#workshops)
    - [Workshops on Recovering 6D Object Pose](#Workshops-on-Recovering-6D-Object-Pose)
+     - R6D 2020: Talk Slides, Workshop Papers
+     - R6D 2019: Talk Slides, Workshop Papers
+     - R6D 2018: Talk Slides, Workshop Papers
    - [Workshops on Learning 3D Representations for Shape and Appearance](#Workshops-on-Learning-3D-Representations-for-Shape-and-Appearance)
  - [Challenges](#challenges)
    - [BOP Challenge 2020](#BOP-Challenge-2020)
+     - Datasets, Documents, Slides
    - [BOP Challenge 2019](#BOP-Challenge-2019)
+     - Documents 
  - [Researchers](#Researchers)
    - [U.S./Canada](#U.S./Canada)
    - [Europe](#Europe)
