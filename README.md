@@ -22,9 +22,7 @@ Another related paper list is about the hand pose estimation, which can be found
    - 2014: [CVPR](#2014-cvpr), [Others](#2014-others-&-before)
  - [Theses](#theses)
  - [Datasets](#datasets)
-   - [Depth](#depth)
-   - [RGB+Depth](#rgbdepth)
-   - [RGB](#rgb)
+   - [Benchmark 6D Object Pose Estimation](#Benchmark-6D-Object-Pose-Estimation)
  - [Workshops](#workshops)
  - [Challenges](#challenges)
  - [Researchers](#Researchers)
@@ -910,40 +908,102 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 ## Datasets
 
 
-#### *An excellent repo about the datasets of the object 6d pose, which can be found [here](https://github.com/YoungXIAO13/ObjectPoseEstimationSummary).*
+### Benchmark-6D-Object-Pose-Estimation
+#### You can download all the BOP datasets [here](https://bop.felk.cvut.cz/datasets/) and use the [toolkit](https://github.com/thodan/bop_toolkit) provided by the organizers.
+#### Another excellent summary about dataset is in [here](https://github.com/YoungXIAO13/ObjectPoseEstimationSummary)
 
 
 [\[back to top\]](#contents)
 
 ## Workshops
 
-#### [1] *Workshop on Recovering 6D Object Pose:*
-##### • [SIXD 2020](http://cmp.felk.cvut.cz/sixd/workshop_2020/), In conjunction with ECCV 2020
+### *Workshop on Recovering 6D Object Pose:*
+#### • [R6D 2020](http://cmp.felk.cvut.cz/sixd/workshop_2020/), In conjunction with ECCV 2020
+- Talk Slides
+  - [2020 CVPRW] 6th International Workshop on Recovering 6D Object Pose (R6D), _Tomáš Hodaň, Martin Sundermeyer, Rigas Kouskouridas, Tae-Kyun Kim, Jiří Matas, Carsten Rother, Vincent Lepetit, Ales Leonardis, Krzysztof Walas, Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://cmp.felk.cvut.cz/sixd/workshop_2020/slides/r6d20_hodan_opening.pdf)
 
-##### • [SIXD 2018](https://sites.google.com/view/hands2018/), In conjunction with ECCV 2018
-  <!-- - HANDS18: Methods, Techniques and Applications for Hand Observation. [\[PDF\]](https://arxiv.org/abs/1810.10818)
+  - [Talk 1]  _[Stephen James](https://stepjam.github.io/) (Imperial College London)_, From Explicit to Implicit Pose Estimation, [\[Slide\]](http://cmp.felk.cvut.cz/sixd/workshop_2020/slides/r6d20_james.pptx) 
 
-##### • [HANDS 2017](http://icvl.ee.ic.ac.uk/hands17/), In conjunction with ICCV 2017
-  - Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals. [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yuan_Depth-Based_3D_Hand_CVPR_2018_paper.pdf)
+  - [Talk 2]  _[Shuran Song](https://www.cs.columbia.edu/~shurans/) (Columbia University)_, Category-Level Object Pose Estimation,[\[Vedio\]](https://www.youtube.com/watch?v=5OB2aeMU8sU) 
 
-##### • [HANDS 2016](https://labicvl.github.io/hand/Hands2016/), In conjunction with CVPR 2016
-##### • [HANDS 2015](http://www.ics.uci.edu/~jsupanci/HANDS-2015/), In conjunction with CVPR 2015 -->
+  - [Talk 3]  _[Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) (Stanford University)_, Object-Centric Situational 3D Understanding,  [\[Slide\]](http://cmp.felk.cvut.cz/sixd/workshop_2020/slides/r6d20_guibas.pdf)
+  - [Talk 4]  _[Dieter Fox ](https://homes.cs.washington.edu/~fox/) (University of Washington, Nvidia)_, 6D Object Pose Estimation for Manipulation.
+- Workshop Papers
+    - [2020 CVPRW] StructureFromGAN: Single Image 3D Model Reconstruction and Photorealistic Texturing, _Vladimir V Kniaz, Vladimir Knyaz, Vladimir Mizginov, Artyom Bordodymov, Mark Kozyrev, Peter Moshkantsev, Nikita Fomin_ [\[Springer\]](https://www.springerprofessional.de/en/structurefromgan-single-image-3d-model-reconstruction-and-photor/18718208)
+    - [2020 CVPRW] 6 DoF Pose Estimation of Textureless Objects From Multiple RGB Frames, _Roman Kaskman, Ivan Shugurov, Sergey Zakharov, Slobodan Ilic_ [\[PDF\]](http://campar.in.tum.de/pub/kaskman2020eccvw/kaskman2020eccvw.pdf)
+    - [2020 CVPRW] Semi-supervised Viewpoint Estimation with Pose-aware Conditional Generation, _Octave Mariotti, Hakan Bilen_ [\[PDF\]](http://homepages.inf.ed.ac.uk/hbilen/assets/pdf/Mariotti20.pdf)
+    - [2020 CVPRW] Physical Plausibility of 6D Pose Estimates in Scenes of Static Rigid Objects, _Dominik Bauer, Timothy Patten, Markus Vincze_
+    - [2020 CVPRW] DronePose: Photorealistic UAV-Assistant Dataset Synthesis for 3D Pose Estimation via a Smooth Silhouette Loss, _Georgios Albanis, Nikolaos Zioulis, Anastasios Dimou, Dimitrios Zarpalas, Petros Daras_ [\[PDF\]](https://arxiv.org/pdf/2008.08823.pdf)
+    - [2020 CVPRW] How to track your dragon: A Multi-Attentional Framework for real-time RGB-D 6DOF Object Pose Tracking, _Isidoros Marougkas, Petros Koutras, Nikolaos Kardaris, George Retsinas, Georgia Chalvatzaki, Petros Maragos_ [\[PDF\]](http://cvsp.cs.ntua.gr/publications/confr/2020_MarougkasEtAl_How-to-Track-your-Dragon_ECCVW-R6D.pdf)
+    - [2020 CVPRW] A Hybrid Approach for 6DoF Pose Estimation, _Rebecca König, Bertram Drost_ [\[PDF\]](https://www.researchgate.net/publication/345756794_A_Hybrid_Approach_for_6DoF_Pose_Estimation)
+    - [2020 CVPRW] Leaping from 2D Detection to Effcient 6DoF Object Pose Estimation, _Jinhui Liu, Zhikang Zou, Xiaoqing Ye, Xiao Tan, Errui Ding, Feng Xu, Xin Yu_
 
-#### [2] *Workshops on Learning 3D Representations for Shape and Appearance:*
 
-##### • [3DReps 2020](https://geometry.stanford.edu/3DReps/index.html), In conjunction with ECCV 2020
+
+
+### • [R6D 2019](http://cmp.felk.cvut.cz/sixd/workshop_2019/), In conjunction with ICCV 2019
+- Talk Slides
+  - [Opening] 5th International Workshop on Recovering 6D Object Pose (R6D), _Tomáš Hodaň, Rigas Kouskouridas, Tae-Kyun Kim, Jiří Matas,
+Carsten Rother, Vincent Lepetit, Ales Leonardis, Krzysztof Walas,
+Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://cmp.felk.cvut.cz/sixd/workshop_2019/slides/r6d19_hodan_opening.pdf)
+
+  - [Talk 2]  _[Eric Brachmann](https://hci.iwr.uni-heidelberg.de/vislearn/people/eric-brachmann/) (Heidelberg University)_, Robust Pose Optimization Made Differentiable, [\[Slide\]](http://cmp.felk.cvut.cz/sixd/workshop_2019/slides/r6d19_brachmann_differentiable_pose_estimation.pdf) 
+
+  - [Talk 3]  _[Vincent Lepetit](https://www.labri.fr/perso/vlepetit/) (Uni. de Bordeaux)_, 3D Pose Estimation and 3D Model Retrieval for Objects in the Wild,[\[Slide\]](http://cmp.felk.cvut.cz/sixd/workshop_2019/slides/r6d19_lepetit_3d_pose_estimation_and_model_retrieval_in_the_wild.pdf) 
+
+  - [Talk 4]  _[Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html) (TU Munich)_, 9DOF Scan2CAD Alignment in 3D Scans,  [\[Slide\]](http://cmp.felk.cvut.cz/sixd/workshop_2019/slides/r6d19_niessner_from_rgb-d_scans_to_3d_cad_models.pdf) 
+
+- Workshop Papers
+    - [2019 ICCVW] CullNet: Calibrated and Pose Aware Confidence Scores for Object Pose Estimation, _Kartik Gupta, Lars Petersson, Richard Hartley_ [\[PDF\]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/R6D/Gupta_CullNet_Calibrated_and_Pose_Aware_Confidence_Scores_for_Object_Pose_ICCVW_2019_paper.pdf)
+    - [2019 ICCVW] CorNet: Generic 3D Corners for 6D Pose Estimation of New Objects without Retraining, _Giorgia Pitteri, Vincent Lepetit, Slobodan Ilic_ [\[PDF\]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/R6D/Pitteri_CorNet_Generic_3D_Corners_for_6D_Pose_Estimation_of_New_ICCVW_2019_paper.pdf)
+    - [2019 ICCVW] Unsupervised Joint 3D Object Model Learning and 6D Pose Estimation for Depth-Based Instance Segmentation, _Yuanwei Wu, Tim K Marks, Anoop Cherian, Siheng Chen, Chen Feng, Guanghui Wang, Alan Sullivan_ [\[PDF\]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/R6D/Wu_Unsupervised_Joint_3D_Object_Model_Learning_and_6D_Pose_Estimation_ICCVW_2019_paper.pdf)
+    - [2019 ICCVW] An Annotation Saved is an Annotation Earned: Using Fully Synthetic Training for Object Detection, _Stefan Hinterstoisser, Olivier Pauly, Hauke Heibel, Martina Marek, Martin Bokeloh_ [\[PDF\]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/R6D/Hinterstoisser_An_Annotation_Saved_is_an_Annotation_Earned_Using_Fully_Synthetic_ICCVW_2019_paper.pdf)
+    - [2019 ICCVW] HomebrewedDB: RGB-D Dataset for 6D Pose Estimation of 3D Objects, _Roman Kaskman, Sergey Zakharov, Ivan Shugurov, Slobodan Ilic_ [\[PDF\]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/R6D/Kaskman_HomebrewedDB_RGB-D_Dataset_for_6D_Pose_Estimation_of_3D_Objects_ICCVW_2019_paper.pdf)
+    - [2019 ICCVW] A Refined 3D Pose Dataset for Fine-Grained Object Categories, _Yaming Wang, Yi Yang_ [\[PDF\]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/R6D/Wang_A_Refined_3D_Pose_Dataset_for_Fine-Grained_Object_Categories_ICCVW_2019_paper.pdf)
+    - [2019 ICCVW] Satellite Pose Estimation with Deep Landmark Regression and Nonlinear Pose Refinement, _Bo Chen, Jiewei Cao, Alvaro Parra, Tat-Jun Chin_ [\[PDF\]](hhttp://openaccess.thecvf.com/content_ICCVW_2019/papers/R6D/Chen_Satellite_Pose_Estimation_with_Deep_Landmark_Regression_and_Nonlinear_Pose_ICCVW_2019_paper.pdf)
+    
+
+### • [R6D 2018](http://cmp.felk.cvut.cz/sixd/workshop_2018/), In conjunction with ECCV 2018
+- Talk Slides
+  - [Summary] 4th International Workshop on Recovering 6D Object Pose (R6D) [\[PDF\]](https://arxiv.org/pdf/1810.03758.pdf)
+
+  - [Talk 1]  _[Federico Tombari](http://campar.in.tum.de/Main/FedericoTombari) (TU Munich)_, From 3d descriptors to monocular 6D pose: what have we learned?, [\[Slide\]](http://cmp.felk.cvut.cz/sixd/workshop_2018/data/tombari_r6d_eccv18_talk.pdf) 
+
+  - [Talk 2]  _[Kostas Bekris](https://www.cs.rutgers.edu/faculty/kostas-bekris) (Rutgers University)_, Towards Robust 6D Pose Estimation: Physics-based Reasoning and Data Efficiency,[\[Slide\]](http://cmp.felk.cvut.cz/sixd/workshop_2018/data/bekris_r6d_eccv18_talk.pptx) 
+
+  - [Talk 3]  _[Bertram Drost](http://campar.in.tum.de/Main/BertramDrost) (MVTec)_, Detecting Geometric Primitives in 3D Data,  [\[Slide\]](http://cmp.felk.cvut.cz/sixd/workshop_2018/data/drost_r6d_eccv18_talk.pdf)
+  - [Talk 4]  _[Thibault Groueix](http://imagine.enpc.fr/~groueixt/) (Ecole Nationale des Ponts et Chaussées)_, Parameteric estimation of 3D surfaces and correspondences, [\[Slide\]](http://cmp.felk.cvut.cz/sixd/workshop_2018/data/groueix_r6d_eccv18_talk.pptx)
+
+- Workshop Papers
+    - [2018 ECCVW] Image-to-Voxel Model Translation with Conditional Adversarial Networks, _V. Kniaz, F. Remondino_ [\[PDF\]](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Knyaz_Image-to-Voxel_Model_Translation_with_Conditional_Adversarial_Networks_ECCVW_2018_paper.pdf)
+    - [2018 ECCVW] 3D Pose Estimation for Fine-Grained Object Categories, _Y. Wang, Y. Yang, X. Tan, X. Liu, E. Ding, F. Zhou, L. Davis_ [\[PDF\]](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Wang_3D_Pose_Estimation_for_Fine-Grained_Object_Categories_ECCVW_2018_paper.pdf)
+    - [2018 ECCVW] Plane-based Humanoid Robot Navigation and Object Model Construction for Grasping, _P. Gritsenko, I. Gritsenko, A. Seidakhmet, B. Kwolek_ [\[PDF\]](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Gritsenko_Plane-based_Humanoid_Robot_Navigation_and_Object_Model_Construction_for_Grasping_ECCVW_2018_paper.pdf)
+    - [2018 ECCVW] Seamless Color Mapping for 3D Reconstruction with Consumer-Grade Scanning Devices, _B. Wang, P. Pan, Q. Xiao, L. Luo, X. Ren, R. Jin, X. Jin_ [\[PDF\]](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Wang_Seamless_Color_Mapping_for_3D_Reconstruction_with_Consumer-Grade_Scanning_Devices_ECCVW_2018_paper.pdf)
+    - [2018 ECCVW] Category-level 6D Object Pose Recovery in Depth Images, _C. Sahin, T-K Kim_ [\[PDF\]](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/Sahin_Category-level_6D_Object_Pose_Recovery_in_Depth_Images_ECCVW_2018_paper.pdf)
+
+
+### *Workshops on Learning 3D Representations for Shape and Appearance:*
+
+### • [3DReps 2020](https://geometry.stanford.edu/3DReps/index.html), In conjunction with ECCV 2020
 
 [\[back to top\]](#contents)
 
 ## Challenges
 
-#### [1] [BOP Challenge 2020](http://cmp.felk.cvut.cz/sixd/workshop_2020/#challenge)
+#### [BOP Challenge 2020](http://cmp.felk.cvut.cz/sixd/workshop_2020/#challenge)
 - Dataset: [BOP: Benchmark for 6D Object Pose Estimation](https://bop.felk.cvut.cz/challenges/bop-challenge-2020/)
-- Documents
-    - [BOP Challenge 2020 on 6D Object Localization](https://arxiv.org/pdf/2009.07378), ECCV 2020
-#### [2] [SIXD Challenge 2017](http://cmp.felk.cvut.cz/sixd/challenge_2017/)
-- Dataset: [BOP: Benchmark for 6D Object Pose Estimation](https://bop.felk.cvut.cz/challenges/bop-challenge-2020/)
-- Documents
+- Documents:
+    - BOP Challenge 2020 on 6D Object Localization, ECCV 2020 [\[PDF\]](https://arxiv.org/pdf/2009.07378)
+- Slides:
+    - [Talk 1]  _[Tomáš Hodaň](http://www.hodan.xyz/) (Czech Technical University)_, A Summary of Results, [\[Slide\]](https://bop.felk.cvut.cz/media/bop_challenge_2020_results.pdf)  
+    - [Talk 2]  _[Martin Sundermeyer](https://rmc.dlr.de/rm/en/staff/martin.sundermeyer/) (DLR)_, Photorealistic Training Images by BlenderProc.
+    - [Talk 3]  _[Yann Labbé](https://ylabbe.github.io/) (Inria Paris)_, Presentation of the Overall Best Method, [\[Slide\]](http://cmp.felk.cvut.cz/sixd/workshop_2020/slides/r6d20_labbe.pdf) 
+    - [Talk 4]  _[Bertram Drost](https://hci.iwr.uni-heidelberg.de/vislearn/people/eric-brachmann/) (MVTec)_, Presentation of the Best Fast Method, [\[Slide\]](http://cmp.felk.cvut.cz/sixd/workshop_2020/slides/r6d20_drost.pdf) 
+
+#### [BOP Challenge 2019](http://cmp.felk.cvut.cz/sixd/workshop_2020/#challenge)
+- Documents:
+  - Results of the BOP Challenge 2019, _[Tomáš Hodaň](http://www.hodan.xyz/) (CTU in Prague)_ [\[Slide\]](http://cmp.felk.cvut.cz/sixd/workshop_2019/slides/r6d19_hodan_bop_challenge_2019.pdf) 
+#### [SIXD Challenge 2017](http://cmp.felk.cvut.cz/sixd/challenge_2017/)
 
 
 [\[back to top\]](#contents)
@@ -952,24 +1012,24 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 ### U.S. / Canada
 
-##### • [Dieter Fox](https://homes.cs.washington.edu/~fox/), [UW Robotics and State Estimation Lab](http://rse-lab.cs.washington.edu/), University of Washington.
-##### • [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/), University at Buffalo, State University of New York.
-##### • [Qixing Huang](https://www.cs.utexas.edu/~huangqx/index.html), The University of Texas at Austin.
+#### • [Dieter Fox](https://homes.cs.washington.edu/~fox/), [UW Robotics and State Estimation Lab](http://rse-lab.cs.washington.edu/), University of Washington.
+#### • [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/), University at Buffalo, State University of New York.
+#### • [Qixing Huang](https://www.cs.utexas.edu/~huangqx/index.html), The University of Texas at Austin.
 
 
 ### Europe
-##### • [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), [Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/index.php), University College London (UCL).
-##### • [TAE-KYUN (T-K) KIM](https://sites.google.com/view/tkkim/home), [Imperial Computer Vision & Learning Lab](https://labicvl.github.io/), Imperial College London.
-##### • [Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/), [Intelligent Robotics Lab](https://www.birmingham.ac.uk/research/activity/computer-science/artificial-intelligence/robotics-and-computer-vision/index.aspx), University of Birmingham.
-##### • [Pascal Fua](https://www.epfl.ch/labs/cvlab/people/), [CVLab](https://www.epfl.ch/labs/cvlab/), EPFL.
+#### • [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), [Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/index.php), University College London (UCL).
+#### • [TAE-KYUN (T-K) KIM](https://sites.google.com/view/tkkim/home), [Imperial Computer Vision & Learning Lab](https://labicvl.github.io/), Imperial College London.
+#### • [Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/), [Intelligent Robotics Lab](https://www.birmingham.ac.uk/research/activity/computer-science/artificial-intelligence/robotics-and-computer-vision/index.aspx), University of Birmingham.
+#### • [Pascal Fua](https://www.epfl.ch/labs/cvlab/people/), [CVLab](https://www.epfl.ch/labs/cvlab/), EPFL.
 
 
 ### Asia
-##### • [Cewu Lu](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=366), [Machine Vision and Intelligence Group ](http://mvig.sjtu.edu.cn/), Shanghai JiaoTong University (SJTU).
-##### • [Gim Hee Lee](https://www.researchgate.net/profile/Gim_Lee), [CVRP LAB](https://www.comp.nus.edu.sg/~leegh/#), National University of Singapore (NUS).
-##### • [Yue Wang](https://ywang-zju.github.io/), [His Youtube Channel](https://www.youtube.com/channel/UCkGsUj95tueXDxf5JEhiYZQ), Zhejiang University (ZJU).
+#### • [Cewu Lu](http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=366), [Machine Vision and Intelligence Group ](http://mvig.sjtu.edu.cn/), Shanghai JiaoTong University (SJTU).
+#### • [Gim Hee Lee](https://www.researchgate.net/profile/Gim_Lee), [CVRP LAB](https://www.comp.nus.edu.sg/~leegh/#), National University of Singapore (NUS).
+#### • [Yue Wang](https://ywang-zju.github.io/), [His Youtube Channel](https://www.youtube.com/channel/UCkGsUj95tueXDxf5JEhiYZQ), Zhejiang University (ZJU).
 
 ### Australia
-##### • [Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/), [Australia ARC Centre of Excellence for Robotic Vision](http://roboticvision.org/), The Australian National University (ANU).
+#### • [Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/), [Australia ARC Centre of Excellence for Robotic Vision](http://roboticvision.org/), The Australian National University (ANU).
 
 [\[back to top\]](#contents)
