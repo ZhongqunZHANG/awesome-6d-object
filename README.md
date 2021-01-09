@@ -24,8 +24,16 @@ Another related paper list is about the hand pose estimation, which can be found
  - [Datasets](#datasets)
    - [Benchmark 6D Object Pose Estimation](#Benchmark-6D-Object-Pose-Estimation)
  - [Workshops](#workshops)
+   - [Workshop on Recovering 6D Object Pose](#Workshop-on-Recovering-6D-Object-Pose)
+   - [Workshops on Learning 3D Representations for Shape and Appearance](#Workshops-on-Learning-3D-Representations-for-Shape-and-Appearance:)
  - [Challenges](#challenges)
+   - [BOP Challenge 2020](#BOP-Challenge-2020)
+   - [BOP Challenge 2019](#BOP-Challenge-2019)
  - [Researchers](#Researchers)
+   - [U.S. / Canada](#U.S.-/-Canada)
+   - [Europe](#Europe)
+   - [Asia](#Asia)
+   - [Australia](#Australia)
 
 \* indicates equal contribution
 
@@ -1015,6 +1023,10 @@ Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://c
 #### • [Dieter Fox](https://homes.cs.washington.edu/~fox/), [UW Robotics and State Estimation Lab](http://rse-lab.cs.washington.edu/), University of Washington.
 #### • [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/), University at Buffalo, State University of New York.
 #### • [Qixing Huang](https://www.cs.utexas.edu/~huangqx/index.html), The University of Texas at Austin.
+#### • [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li) and [Jiajun Wu](https://jiajunwu.com/), [STANFORD VISION AND LEARNING LAB](http://svl.stanford.edu/), Stanford University.
+#### • [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), Stanford University.
+#### • [Shuran Song](https://www.cs.columbia.edu/~shurans/), Columbia University.
+
 
 
 ### Europe
@@ -1022,6 +1034,11 @@ Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://c
 #### • [TAE-KYUN (T-K) KIM](https://sites.google.com/view/tkkim/home), [Imperial Computer Vision & Learning Lab](https://labicvl.github.io/), Imperial College London.
 #### • [Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/), [Intelligent Robotics Lab](https://www.birmingham.ac.uk/research/activity/computer-science/artificial-intelligence/robotics-and-computer-vision/index.aspx), University of Birmingham.
 #### • [Pascal Fua](https://www.epfl.ch/labs/cvlab/people/), [CVLab](https://www.epfl.ch/labs/cvlab/), EPFL.
+#### • [Andrew Davison](http://www.doc.ic.ac.uk/~ajd/), [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab), Imperial College London.
+#### • [Andrew Zisserman](http://www.robots.ox.ac.uk/~az), [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/research/), Oxford University.
+#### • [Renaud MARLET](http://imagine.enpc.fr/~marletr/) and [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/), [Research Group in Computer Vision, Machine Learning and Optimization](https://imagine-lab.enpc.fr/), École des Ponts ParisTech (ENPC).
+#### • [Eric Brachmann](https://hci.iwr.uni-heidelberg.de/vislearn/people/eric-brachmann/), [Visual Learning Lab](https://hci.iwr.uni-heidelberg.de/vislearn/), Heidelberg University.
+#### • [Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html), [Federico Tombari](http://campar.in.tum.de/Main/FedericoTombari) and [Bertram Drost](http://campar.in.tum.de/Main/BertramDrost), TU Munich (TUM).
 
 
 ### Asia
@@ -1031,5 +1048,6 @@ Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://c
 
 ### Australia
 #### • [Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/), [Australia ARC Centre of Excellence for Robotic Vision](http://roboticvision.org/), The Australian National University (ANU).
+#### • [Yi Yang](https://scholar.google.co.uk/citations?hl=zh-CN&user=RMSuNFwAAAAJ), [ReLER Lab](http://reler.net/), University of Technology Sydney (UTS).
 
 [\[back to top\]](#contents)
