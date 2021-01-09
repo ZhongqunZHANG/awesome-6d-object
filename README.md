@@ -246,7 +246,7 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 ##### • MoreFusion: Multi-object Reasoning for 6D Pose Estimation from Volumetric Fusion. [\[PDF\]](https://arxiv.org/pdf/2004.04336) [\[Code\]](https://github.com/wkentaro/morefusion) 
  _Kentaro Wada; Edgar Sucar; Stephen James; Daniel Lenton; Andrew J. Davison_ 
  ##### • G2L-Net: Global to Local Network for Real-time 6D Pose Estimation with Embedding Vector Features. [\[PDF\]](https://arxiv.org/abs/2003.11089) [\[Code\]](https://github.com/DC1991/G2L_Net)
- _Kentaro Wada; Edgar Sucar; Stephen James; Daniel Lenton; Andrew J. Davison_
+ _Wei Chen, Xi Jia, Hyung Jin Chang, Jinming Duan and Ales Leonardis_
 ##### • VN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation. [\[PDF\]](https://arxiv.org/abs/1911.04231) [\[Code\]](https://github.com/ethnhe/PVN3D)
  _Yisheng He, Wei Sun, Haibin Huang, Jianran Liu, Haoqiang Fan, Jian Sun_
 ##### • InPerfectShape: Certifiably Optimal 3D Shape Reconstruction from 2DLandmarks. [\[PDF\]](http://arxiv.org/abs/1911.11924v2)
