@@ -24,13 +24,13 @@ Another related paper list is about the hand pose estimation, which can be found
  - [Datasets](#datasets)
    - [Benchmark 6D Object Pose Estimation](#Benchmark-6D-Object-Pose-Estimation)
  - [Workshops](#workshops)
-   - [Workshop on Recovering 6D Object Pose](#Workshop-on-Recovering-6D-Object-Pose)
-   - [Workshops on Learning 3D Representations for Shape and Appearance](#Workshops-on-Learning-3D-Representations-for-Shape-and-Appearance:)
+   - [Workshops on Recovering 6D Object Pose](#Workshops-on-Recovering-6D-Object-Pose)
+   - [Workshops on Learning 3D Representations for Shape and Appearance](#Workshops-on-Learning-3D-Representations-for-Shape-and-Appearance)
  - [Challenges](#challenges)
    - [BOP Challenge 2020](#BOP-Challenge-2020)
    - [BOP Challenge 2019](#BOP-Challenge-2019)
  - [Researchers](#Researchers)
-   - [U.S. / Canada](#U.S.-/-Canada)
+   - [U.S./Canada](#U.S./Canada)
    - [Europe](#Europe)
    - [Asia](#Asia)
    - [Australia](#Australia)
@@ -925,7 +925,7 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 ## Workshops
 
-### *Workshop on Recovering 6D Object Pose:*
+### *Workshops on Recovering 6D Object Pose:*
 #### • [R6D 2020](http://cmp.felk.cvut.cz/sixd/workshop_2020/), In conjunction with ECCV 2020
 - Talk Slides
   - [2020 CVPRW] 6th International Workshop on Recovering 6D Object Pose (R6D), _Tomáš Hodaň, Martin Sundermeyer, Rigas Kouskouridas, Tae-Kyun Kim, Jiří Matas, Carsten Rother, Vincent Lepetit, Ales Leonardis, Krzysztof Walas, Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://cmp.felk.cvut.cz/sixd/workshop_2020/slides/r6d20_hodan_opening.pdf)
@@ -1018,7 +1018,7 @@ Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://c
 
 ## Researchers
 
-### U.S. / Canada
+### U.S./Canada
 
 #### • [Dieter Fox](https://homes.cs.washington.edu/~fox/), [UW Robotics and State Estimation Lab](http://rse-lab.cs.washington.edu/), University of Washington.
 #### • [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/), University at Buffalo, State University of New York.
