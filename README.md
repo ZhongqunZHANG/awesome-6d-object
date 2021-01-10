@@ -693,6 +693,11 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 [\[back to top\]](#contents)
 
+### 2017 Others
+##### • [2017 RSS] PoseCNN: A CNN for 6D Object Pose Estimation in Cluttered Scenes. [\[PDF\]](https://arxiv.org/pdf/1711.00199.pdf) [\[Code\]](https://github.com/yuxng/PoseCNN)[\[Project\]](https://rse-lab.cs.washington.edu/projects/posecnn/) 
+ _Yu Xiang, Tanner Schmidt, Venkatraman Narayanan and Dieter Fox_
+
+[\[back to top\]](#contents)
 
 ### 2016 CVPR
 
