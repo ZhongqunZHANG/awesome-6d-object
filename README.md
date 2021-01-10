@@ -918,7 +918,15 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 ## Theses
 ##### • \[2020\] Learning to Reconstruct and Segment 3D Objects. [\[PDF\]](https://arxiv.org/pdf/2010.09582.pdf)
-*[Bo Yang](https://yang7879.github.io/), University of Oxford*
+*[Bo Yang](https://yang7879.github.io/), Ph.D Thesis, University of Oxford*
+##### • \[2019\] Recovering 6D object pose at the level of instances and categories. [\[PDF\]](https://spiral.imperial.ac.uk/bitstream/10044/1/67953/1/Sahin-C-2019-PhD-Thesis.pdf)
+*[Sahin Caner](https://scholar.google.co.uk/citations?hl=zh-CN&user=uMnRljAAAAAJ), Ph.D Thesis, Imperial College London*
+##### • \[2018\] Enforcing View Consistency With Latent Configurations for 3D Vision Tasks. [\[PDF\]](https://apps.cs.utexas.edu/apps/sites/default/files/tech_reports/thesis-view-consistency-akarpur2018.pdf)[\[Code\]](https://github.com/arjunkarpur/view-consistency-shape-gen)
+*[Arjun Karpur, Qixing Huang](https://www.cs.utexas.edu/~huangqx/index.html), Undergraduate Honors Thesis, The University of Texas at Austin*
+##### • \[2016\] 3D Object Representations for Recognition. [\[PDF\]](https://yuxng.github.io/Xiang_phd_thesis.pdf)
+*[Yu Xiang](https://yuxng.github.io/), Ph.D Thesis, University of Michigan*
+##### • \[2014\] Automatic reconstruction of digital buildings. [\[Slide\]](https://aboulch.github.io/files/thesis/slides_thesis_boulch.pdf)
+*[Alexandre Boulch](https://www.boulch.eu/), Ph.D Thesis, École des Ponts ParisTech*
 
 
 [\[back to top\]](#contents)
