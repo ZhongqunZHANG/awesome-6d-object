@@ -30,6 +30,7 @@ Another related paper list is about the hand pose estimation, which can be found
      - R6D 2019: Talk Slides, Workshop Papers
      - R6D 2018: Talk Slides, Workshop Papers
    - [Workshops on Learning 3D Representations for Shape and Appearance](#Workshops-on-Learning-3D-Representations-for-Shape-and-Appearance)
+     - 3DReps 2020: Workshop Videos, Workshop Papers
  - [Challenges](#challenges)
    - [BOP Challenge 2020](#BOP-Challenge-2020)
      - Datasets, Documents, Slides
