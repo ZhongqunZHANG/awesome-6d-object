@@ -13,6 +13,7 @@ Another related paper list is about the hand pose estimation, which can be found
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
+   - 2021: [Others](#2021-others)
    - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [Others](#2020-others)
    - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv), [Others](#2019-others)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
@@ -150,6 +151,13 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 [\[back to top\]](#contents)
 
 ## Conference Papers
+
+### 2021 Others
+
+##### • [2021 WACV] A Pose Proposal and Refinement Network for Better 6D Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/WACV2021/papers/Trabelsi_A_Pose_Proposal_and_Refinement_Network_for_Better_6D_Object_WACV_2021_paper.pdf) 
+ _Ameni Trabelsi, Mohamed Chaabane, Nathaniel Blanchard, Ross Beveridge_
+
+ [\[back to top\]](#contents)
 
 ### 2020 ECCV
 
@@ -1011,6 +1019,24 @@ Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://c
 ### *Workshops on Learning 3D Representations for Shape and Appearance:*
 
 ### • [3DReps 2020](https://geometry.stanford.edu/3DReps/index.html), In conjunction with ECCV 2020
+- Workshop Videos
+    - [Sesseions 1](https://youtu.be/XaaiwCqEWI4)
+    - [Sesseions 2](https://youtu.be/BskUrVASLB4)
+- Workshop Papers
+    - [2020 ECCVW] Learning a Neural 3D Texture Space from 2D Exemplars, _Philipp Henzler et. al_ [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Henzler_Learning_a_Neural_3D_Texture_Space_From_2D_Exemplars_CVPR_2020_paper.pdf)
+    - [2020 ECCVW] BlockGAN: Learning 3D Object-aware Scene Representations from Unlabelled Images, _Thu Nguyen-Phuoc et. al_ [\[PDF\]](https://proceedings.neurips.cc/paper/2020/file/4b29fa4efe4fb7bc667c7b301b74d52d-Paper.pdf)
+    - [2020 ECCVW] BSP-Net: Generating Compact Meshes via Binary Space Partitioning, _Zhiqin Chen et. al_ [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_BSP-Net_Generating_Compact_Meshes_via_Binary_Space_Partitioning_CVPR_2020_paper.pdf)
+    - [2020 ECCVW] Convolutional Occupancy Networks More, _Songyou Peng et. al_ [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480528.pdf)
+    - [2020 ECCVW] Deep Geometric Prior for Surface Reconstruction, _Francis Williams et. al_ [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Williams_Deep_Geometric_Prior_for_Surface_Reconstruction_CVPR_2019_paper.pdf)
+    - [2020 ECCVW] Multiview Neural Surface Reconstruction with Implicit Lighting and Material, _Lior Yariv et. al_ [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Henzler_Learning_a_Neural_3D_Texture_Space_From_2D_Exemplars_CVPR_2020_paper.pdfhttps://arxiv.org/pdf/2003.09852v2.pdf)
+    - [2020 ECCVW] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis, _Ben Mildenhall et. al_ [\[PDF\]](https://arxiv.org/pdf/2003.08934.pdf)
+    - [2020 ECCVW] Pix2Surf: Learning Parametric 3D Surface Models of Objects from Images, _Jiahui Lei et. al_ [\[PDF\]](https://arxiv.org/pdf/2008.07760.pdf)[\[Project\]](https://geometry.stanford.edu/projects/pix2surf/)
+    - [2020 ECCVW] Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations, _Vincent Sitzmann et. al_ [\[PDF\]](https://arxiv.org/pdf/1906.01618.pdf)
+    - [2020 ECCVW] Texture Fields: Learning Texture Representations in Function Space, _Michael Oechsle et. al_ [\[PDF\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Oechsle_Texture_Fields_Learning_Texture_Representations_in_Function_Space_ICCV_2019_paper.pdf)
+    - [2020 ECCVW] AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation, _Thibault Groueix et. al_ [\[PDF\]](https://arxiv.org/pdf/1802.05384.pdf)
+    - [2020 ECCVW] PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows, _Guandao Yang et. al_ [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_PointFlow_3D_Point_Cloud_Generation_With_Continuous_Normalizing_Flows_ICCV_2019_paper.pdf)
+    - [2020 ECCVW] DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation, _JJ Park et. al_ [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.pdf)
+    - [2020 ECCVW] Deformation-Aware 3D Model Embedding and Retrieval, _Mikaela Angelina Uy et. al_ [\[PDF\]](https://arxiv.org/pdf/2004.01228.pdf)
 
 [\[back to top\]](#contents)
 
