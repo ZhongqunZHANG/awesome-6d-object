@@ -89,6 +89,15 @@ _Yann Labbé, Justin Carpentier, Mathieu Aubry, Josef Sivic_
 _Zhigang Li, Yinlin Hu, Mathieu Salzmann, Xiangyang Ji_
 ##### • [\[arXiv:2008.05242\]](https://arxiv.org/abs/2008.05242) PAM:Point-wise Attention Module for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2008.05242)
 _Myoungha Song, Jeongho Lee, Donghwan Kim_
+##### • [\[arXiv:2002.03923\]](https://arxiv.org/abs/2002.03923) 6DoF Object Pose Estimation via Differentiable Proxy Voting Loss. [\[PDF\]](https://arxiv.org/pdf/2002.03923.pdf)
+_Xin Yu, Zheyu Zhuang, Piotr Koniusz, Hongdong Li_
+##### • [\[arXiv:1912.07333\]](https://arxiv.org/abs/1912.07333v1) ConvPoseCNN: Dense Convolutional 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1912.07333v1.pdf)
+_Catherine Capellen, Max Schwarz, Sven Behnke_
+##### • [\[arXiv:1910.10653\]](https://arxiv.org/abs/1910.10653) Accurate 6D Object Pose Estimation by Pose Conditioned Mesh Reconstruction. [\[PDF\]](https://arxiv.org/pdf/1910.10653.pdf)
+_Pedro Castro, Anil Armagan, Tae-Kyun Kim_
+##### • [\[arXiv:1809.06893\]](https://arxiv.org/abs/1809.06893) SilhoNet: An RGB Method for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1809.06893.pdf)
+_Gideon Billings and Matthew Johnson-Roberson_
+
 
 
 
@@ -415,6 +424,8 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
  _Ku, Jason and Pon, Alex D. and Waslander, Steven L._
  ##### • Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Normalized_Object_Coordinate_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2019_paper.pdf) 
  _Wang, He and Sridhar, Srinath and Huang, Jingwei and Valentin, Julien and Song, Shuran and Guibas, Leonidas J._
+##### • PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Peng_PVNet_Pixel-Wise_Voting_Network_for_6DoF_Pose_Estimation_CVPR_2019_paper.pdf) 
+ _Sida Peng, Yuan Liu, Qixing Huang, Xiaowei Zhou, and Hujun Bao_
 
 <details>
 <summary>Show More</summary>
@@ -587,6 +598,9 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
  _Li, Chi and Bai, Jin and Hager, Gregory D._
 ##### • Efficient Dense Point Cloud Object Reconstruction using Deformation Vector Fields. [\[PDF\]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Kejie_Li_Efficient_Dense_Point_ECCV_2018_paper.pdf) 
  _Li Kejie, Pham Trung, Zhan Huangying, Reid Ian_
+##### • DeepIM: Deep iterative matching for 6d pose estimation. [\[PDF\]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Li_DeepIM_Deep_Iterative_ECCV_2018_paper.pdf) 
+ _Yi Li, Gu Wang, Xiangyang Ji, Yu Xiang, and Dieter Fox_
+
 <details>
 <summary>Show More</summary>
 
@@ -669,6 +683,10 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
  _Glent Buch, Anders and Kiforenko, Lilita and Kraft, Dirk_
 ##### • Robust Hand Pose Estimation During the Interaction With an Unknown Object. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Choi_Robust_Hand_Pose_ICCV_2017_paper.pdf) 
  _Choi, Chiho and Ho Yoon, Sang and Chen, Chin-Ning and Ramani, Karthik_
+##### • BB8: A Scalable, Accurate, Robust to Partial Occlusion Method for Predicting the 3D Poses of Challenging Objects without Using Depth. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Rad_BB8_A_Scalable_ICCV_2017_paper.pdf) 
+ _Mahdi Rad and Vincent Lepetit_
+ ##### • SSD-6D: Making RGB-Based 3D Detection and 6D Pose Estimation Great Again. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Kehl_SSD-6D_Making_RGB-Based_ICCV_2017_paper.pdf) 
+ _Wadim Kehl, Fabian Manhardt, Federico Tombari, Slobodan Ilic, Nassir Navab_
 <details>
 <summary>Show More</summary>
 
