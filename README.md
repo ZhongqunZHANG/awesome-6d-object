@@ -367,7 +367,7 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
  _Meng Tian, Liang Pan, Marcelo H Ang Jr, Gim Hee Lee_
  ##### • [2020 ICRA] Single Shot 6D Object Pose Estimation. [\[arXiv\]](https://www.researchgate.net/publication/340941501_Single_Shot_6D_Object_Pose_Estimation) 
  _Kilian Kleeberger, Marco F. Huber_
- ##### • [2020 ICRA] 6D Object Pose Regression Via Supervised Learning on Point Clouds. [\[arXiv\]](https://arxiv.org/pdf/2001.08942.pdf) 
+ ##### • [2020 ICRA] 6D Object Pose Regression Via Supervised Learning on Point Clouds. [\[arXiv\]](https://arxiv.org/pdf/2001.08942.pdf)[\[Code\]](https://github.com/GeeeG/CloudPose)
  _Ge Gao, Mikko Lauri, Yulong Wang, Xiaolin Hu, Jianwei Zhang and Simone Frintrop_
  ##### • [2020 ICRA] Self-Supervised 6D Object Pose Estimation for Robot Manipulation. [\[arXiv\]](https://arxiv.org/pdf/1909.10159.pdf) [\[Video\]](https://youtu.be/W1Y0Mmh1Gd8)
  _Xinke Deng, Yu Xiang, Arsalan Mousavian, Clemens Eppner, Timothy Bretl, Dieter Fox_
