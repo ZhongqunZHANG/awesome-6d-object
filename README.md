@@ -685,8 +685,9 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
  _Choi, Chiho and Ho Yoon, Sang and Chen, Chin-Ning and Ramani, Karthik_
 ##### • BB8: A Scalable, Accurate, Robust to Partial Occlusion Method for Predicting the 3D Poses of Challenging Objects without Using Depth. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Rad_BB8_A_Scalable_ICCV_2017_paper.pdf) 
  _Mahdi Rad and Vincent Lepetit_
- ##### • SSD-6D: Making RGB-Based 3D Detection and 6D Pose Estimation Great Again. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Kehl_SSD-6D_Making_RGB-Based_ICCV_2017_paper.pdf) 
+ ##### • SSD-6D: Making RGB-Based 3D Detection and 6D Pose Estimation Great Again. [\[PDF\]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Kehl_SSD-6D_Making_RGB-Based_ICCV_2017_paper.pdf)[\[Code\]](https://wadimkehl.github.io/) 
  _Wadim Kehl, Fabian Manhardt, Federico Tombari, Slobodan Ilic, Nassir Navab_
+
 <details>
 <summary>Show More</summary>
 
