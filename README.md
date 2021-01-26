@@ -49,6 +49,10 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2101.08895\]](https://arxiv.org/abs/2101.08895) Iterative Optimisation with an Innovation CNN for Pose Refinement. [\[PDF\]](https://arxiv.org/pdf/2101.08895)
+_Gerard Kennedy, Zheyu Zhuang, Xin Yu, Robert Mahony_
+##### • [\[arXiv:2101.01659\]](https://arxiv.org/abs/2101.01659) Spatial Attention Improves Iterative 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2101.01659)
+_Stefan Stevsic, Otmar Hilliges_
 ##### • [\[arXiv:2012.11938\]](https://arxiv.org/abs/2012.11938) 3D Point-to-Keypoint Voting Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2012.11938)
 _Weitong Hua, Jiaxin Guo, Yue Wang, Rong Xiong_
 ##### • [\[arXiv:2012.11260\]](https://arxiv.org/abs/2012.11260) Unsupervised Domain Adaptation with Temporal-Consistent Self-Training for 3D Hand-Object Joint Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2012.11260)
