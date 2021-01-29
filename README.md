@@ -251,6 +251,8 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 ### 2020 CVPR
 
+##### • PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation. [\[PDF\]](https://arxiv.org/abs/1911.04231) [\[Code\]](https://github.com/ethnhe/PVN3D)
+ _Yisheng He, Wei Sun, Haibin Huang, Jianran Liu, Haoqiang Fan, Jian Sun_
 ##### • Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes From a Single Image. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nie_Total3DUnderstanding_Joint_Layout_Object_Pose_and_Mesh_Reconstruction_for_Indoor_CVPR_2020_paper.pdf) 
  _Nie, Yinyu and Han, Xiaoguang and Guo, Shihui and Zheng, Yujian and Chang, Jian and Zhang, Jian Jun_
 ##### • Category-Level Articulated Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Category-Level_Articulated_Object_Pose_Estimation_CVPR_2020_paper.pdf) 
@@ -279,7 +281,7 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
  _Chen, Dengsheng and Li, Jun and Wang, Zheng and Xu, Kai_
 ##### • Multi-Path Learning for Object Pose Estimation Across Domains. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sundermeyer_Multi-Path_Learning_for_Object_Pose_Estimation_Across_Domains_CVPR_2020_paper.pdf) 
  _Sundermeyer, Martin and Durner, Maximilian and Puang, En Yen and Marton, Zoltan-Csaba and Vaskevicius, Narunas and Arras, Kai O. and Triebel, Rudolph_
-##### • EPOS: Estimating 6D Pose of Objects With Symmetries. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hodan_EPOS_Estimating_6D_Pose_of_Objects_With_Symmetries_CVPR_2020_paper.pdf) [\[Project\]](http://cmp.felk.cvut.cz/epos/) 
+##### • EPOS: Estimating 6D Pose of Objects With Symmetries. [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hodan_EPOS_Estimating_6D_Pose_of_Objects_With_Symmetries_CVPR_2020_paper.pdf) [\[Project\]](http://cmp.felk.cvut.cz/epos/)
  _Hodan, Tomas and Barath, Daniel and Matas, Jiri_
 ##### • MoreFusion: Multi-object Reasoning for 6D Pose Estimation from Volumetric Fusion. [\[PDF\]](https://arxiv.org/pdf/2004.04336) [\[Code\]](https://github.com/wkentaro/morefusion) 
  _Kentaro Wada; Edgar Sucar; Stephen James; Daniel Lenton; Andrew J. Davison_ 
@@ -291,6 +293,14 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
  _Heng Yang, Luca Carlone_
  ##### • PFNet: Point Fractal Network for 3D Point Cloud Completion. [\[PDF\]](http://arxiv.org/abs/2003.00410v1)
  _Zitian Huang, Yikuan Yu, Jiawen Xu, Feng Ni, Xinyi Le_
+ ##### • KeyPose: Multi-view 3D Labeling and Keypoint Estimation for Transparent Objects. [\[PDF\]](https://arxiv.org/abs/1912.02805) [\[Code\]](https://sites.google.com/view/keypose)
+ _Xingyu Liu, Rico Jonschkowski, Anelia Angelova, Kurt Konolige_
+ ##### • Reconstruct Locally, Localize Globally: A Model Free Method for Object Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cai_Reconstruct_Locally_Localize_Globally_A_Model_Free_Method_for_Object_CVPR_2020_paper.pdf)
+ _Ming Cai, Ian Reid_
+ ##### • PFRL: Pose-Free Reinforcement Learning for 6D Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shao_PFRL_Pose-Free_Reinforcement_Learning_for_6D_Pose_Estimation_CVPR_2020_paper.pdf)
+ _Jianzhun Shao, Yuhang Jiang, Gu Wang, Zhigang Li, Xiangyang Ji_
+ ##### • Learning deep network for detecting 3D object keypoints and 6D poses. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Learning_Deep_Network_for_Detecting_3D_Object_Keypoints_and_6D_CVPR_2020_paper.pdf)
+ _Wanqing Zhao, Shaobo Zhang, Ziyu Guan, Wei Zhao, Jinye Peng, Jianping Fan_
 
 <details>
 <summary>Show More</summary>
