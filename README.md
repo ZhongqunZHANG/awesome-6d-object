@@ -49,8 +49,14 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2102.12145\]](https://arxiv.org/abs/2102.12145) GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2102.12145)
+_Gu Wang, Fabian Manhardt, Federico Tombari, Xiangyang Ji_
+##### • [\[arXiv:2102.12096\]](https://arxiv.org/abs/2102.12096) PFRL: Pose-Free Reinforcement Learning for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2102.12096)
+_Jianzhun Shao, Yuhang Jiang, Gu Wang, Zhigang Li, Xiangyang Ji_
+##### • [\[arXiv:2102.09334\]](https://arxiv.org/abs/2102.09334) StablePose: Learning 6D Object Poses from Geometrically Stable Patches. [\[PDF\]]https://arxiv.org/pdf/2102.09334)
+_Jianzhun Shao, Yuhang Jiang, Gu Wang, Zhigang Li, Xiangyang Ji_
 ##### • [\[arXiv:2101.08895\]](https://arxiv.org/abs/2101.08895) Iterative Optimisation with an Innovation CNN for Pose Refinement. [\[PDF\]](https://arxiv.org/pdf/2101.08895)
-_Gerard Kennedy, Zheyu Zhuang, Xin Yu, Robert Mahony_
+_Junwen Huang, Yifei Shi, Xin Xu, Yifan Zhang, Kai Xu_
 ##### • [\[arXiv:2101.01659\]](https://arxiv.org/abs/2101.01659) Spatial Attention Improves Iterative 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2101.01659)
 _Stefan Stevsic, Otmar Hilliges_
 ##### • [\[arXiv:2012.11938\]](https://arxiv.org/abs/2012.11938) 3D Point-to-Keypoint Voting Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2012.11938)
@@ -1127,6 +1133,7 @@ Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://c
 #### • [Gim Hee Lee](https://www.researchgate.net/profile/Gim_Lee), [CVRP LAB](https://www.comp.nus.edu.sg/~leegh/#), National University of Singapore (NUS).
 #### • [Yue Wang](https://ywang-zju.github.io/), [His Youtube Channel](https://www.youtube.com/channel/UCkGsUj95tueXDxf5JEhiYZQ), Zhejiang University (ZJU).
 #### • [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml), [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/) and [Dahua Lin](http://dahua.me/), [Multimedia Laboratory](http://mmlab.ie.cuhk.edu.hk/index.html), The Chinese University of Hong Kong (CUHK).
+#### • [Xiangyang Ji](http://www.au.tsinghua.edu.cn/info/1166/2066.htm)，Tsinghua University.
 
 ### Australia
 #### • [Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/), [Australia ARC Centre of Excellence for Robotic Vision](http://roboticvision.org/), The Australian National University (ANU).
