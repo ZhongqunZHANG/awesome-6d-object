@@ -53,7 +53,7 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 _Gu Wang, Fabian Manhardt, Federico Tombari, Xiangyang Ji_
 ##### • [\[arXiv:2102.12096\]](https://arxiv.org/abs/2102.12096) PFRL: Pose-Free Reinforcement Learning for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2102.12096)
 _Jianzhun Shao, Yuhang Jiang, Gu Wang, Zhigang Li, Xiangyang Ji_
-##### • [\[arXiv:2102.09334\]](https://arxiv.org/abs/2102.09334) StablePose: Learning 6D Object Poses from Geometrically Stable Patches. [\[PDF\]]https://arxiv.org/pdf/2102.09334)
+##### • [\[arXiv:2102.09334\]](https://arxiv.org/abs/2102.09334) StablePose: Learning 6D Object Poses from Geometrically Stable Patches. [\[PDF\]](https://arxiv.org/pdf/2102.09334)
 _Jianzhun Shao, Yuhang Jiang, Gu Wang, Zhigang Li, Xiangyang Ji_
 ##### • [\[arXiv:2101.08895\]](https://arxiv.org/abs/2101.08895) Iterative Optimisation with an Innovation CNN for Pose Refinement. [\[PDF\]](https://arxiv.org/pdf/2101.08895)
 _Junwen Huang, Yifei Shi, Xin Xu, Yifan Zhang, Kai Xu_
@@ -171,6 +171,18 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 [\[back to top\]](#contents)
 
 ## Conference Papers
+
+
+### 2021 CVPR
+
+##### • [2021 CVPR Oral] FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism. [\[PDF\]]() 
+ _Wei Chen, Xi Jia, Hyung Jin Chang, Jinming Duan, Linlin Shen, Ales Leonardis_
+
+##### • [2021 CVPR] FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2103.02242.pdf)
+ _Yisheng He, Haibin Huang, Haoqiang Fan, Qifeng Chen, Jian Sun_
+
+ [\[back to top\]](#contents)
+
 
 ### 2021 Others
 
@@ -1133,7 +1145,9 @@ Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://c
 #### • [Gim Hee Lee](https://www.researchgate.net/profile/Gim_Lee), [CVRP LAB](https://www.comp.nus.edu.sg/~leegh/#), National University of Singapore (NUS).
 #### • [Yue Wang](https://ywang-zju.github.io/), [His Youtube Channel](https://www.youtube.com/channel/UCkGsUj95tueXDxf5JEhiYZQ), Zhejiang University (ZJU).
 #### • [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml), [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/) and [Dahua Lin](http://dahua.me/), [Multimedia Laboratory](http://mmlab.ie.cuhk.edu.hk/index.html), The Chinese University of Hong Kong (CUHK).
-#### • [Xiangyang Ji](http://www.au.tsinghua.edu.cn/info/1166/2066.htm)，Tsinghua University.
+#### • [Xiangyang Ji](http://www.au.tsinghua.edu.cn/info/1166/2066.htm), Tsinghua University.
+#### • [Xiaowei Zhou](http://www.cad.zju.edu.cn/home/xzhou/), Zhejiang University.
+
 
 ### Australia
 #### • [Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/), [Australia ARC Centre of Excellence for Robotic Vision](http://roboticvision.org/), The Australian National University (ANU).
