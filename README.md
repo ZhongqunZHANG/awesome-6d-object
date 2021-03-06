@@ -1140,6 +1140,7 @@ Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://c
 #### • [Eric Brachmann](https://hci.iwr.uni-heidelberg.de/vislearn/people/eric-brachmann/), [Visual Learning Lab](https://hci.iwr.uni-heidelberg.de/vislearn/), Heidelberg University.
 #### • [Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html), [Federico Tombari](http://campar.in.tum.de/Main/FedericoTombari) and [Bertram Drost](http://campar.in.tum.de/Main/BertramDrost), TU Munich (TUM).
 #### • [Jiri MATAS](https://cmp.felk.cvut.cz/~matas/), Czech Technical University, Prague.
+#### • [Otmar Hilliges](https://ait.ethz.ch/people/hilliges/), [Advanced Interactive Technologies Lab](https://ait.ethz.ch/index.php), ETH Zurich.
 
 
 ### Asia
