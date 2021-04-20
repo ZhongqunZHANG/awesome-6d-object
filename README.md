@@ -1128,6 +1128,7 @@ Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://c
 #### • [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li) and [Jiajun Wu](https://jiajunwu.com/), [STANFORD VISION AND LEARNING LAB](http://svl.stanford.edu/), Stanford University.
 #### • [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), Stanford University.
 #### • [Shuran Song](https://www.cs.columbia.edu/~shurans/), Columbia University.
+#### • [TOMÁŠ HODAŇ](https://cmp.felk.cvut.cz/~hodanto2/), [Facebook Reality Labs](https://about.fb.com/realitylabs/).
 
 
 
@@ -1141,6 +1142,8 @@ Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://c
 #### • [Renaud MARLET](http://imagine.enpc.fr/~marletr/) and [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/), [Research Group in Computer Vision, Machine Learning and Optimization](https://imagine-lab.enpc.fr/), École des Ponts ParisTech (ENPC).
 #### • [Eric Brachmann](https://hci.iwr.uni-heidelberg.de/vislearn/people/eric-brachmann/), [Visual Learning Lab](https://hci.iwr.uni-heidelberg.de/vislearn/), Heidelberg University.
 #### • [Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html), [Federico Tombari](http://campar.in.tum.de/Main/FedericoTombari) and [Bertram Drost](http://campar.in.tum.de/Main/BertramDrost), TU Munich (TUM).
+#### • [Jiri MATAS](https://cmp.felk.cvut.cz/~matas/), Czech Technical University, Prague.
+#### • [Otmar Hilliges](https://ait.ethz.ch/people/hilliges/), [Advanced Interactive Technologies Lab](https://ait.ethz.ch/index.php), ETH Zurich.
 
 
 ### Asia
@@ -1154,6 +1157,6 @@ Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://c
 
 ### Australia
 #### • [Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/), [Australia ARC Centre of Excellence for Robotic Vision](http://roboticvision.org/), The Australian National University (ANU).
-#### • [Yi Yang](https://scholar.google.co.uk/citations?hl=zh-CN&user=RMSuNFwAAAAJ), [ReLER Lab](http://reler.net/), University of Technology Sydney (UTS).
+#### • [Yi Yang](https://scholar.google.co.uk/citations?hl=zh-CN&user=RMSuNFwAAAAJ) and [Xin Yu](https://sites.google.com/view/xinyus-homepage/Home), [ReLER Lab](http://reler.net/), University of Technology Sydney (UTS).
 
 [\[back to top\]](#contents)
