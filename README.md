@@ -188,7 +188,7 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 ##### • [2021 CVPR] DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [\[PDF\]](https://arxiv.org/pdf/2104.04631.pdf) [\[Code\]](https://github.com/NVlabs/dex-ycb-toolkit) [\[Project\]](https://dex-ycb.github.io/)
  _Yu-Wei Chao, Wei Yang, Yu Xiang, Pavlo Molchanov, Ankur Handa, Jonathan Tremblay, Yashraj S. Narang, Karl Van Wyk, Umar Iqbal, Stan Birchfield, Jan Kautz, Dieter Fox_
 
-##### • [2021 CVPR Oral] FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism. [\[PDF\]]() 
+##### • [2021 CVPR Oral] FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism. [\[PDF\]](https://arxiv.org/pdf/2103.07054.pdf) 
  _Wei Chen, Xi Jia, Hyung Jin Chang, Jinming Duan, Linlin Shen, Ales Leonardis_
 
 ##### • [2021 CVPR] FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2103.02242.pdf)
