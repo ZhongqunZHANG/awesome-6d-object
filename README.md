@@ -49,6 +49,18 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2104.00337\]](https://arxiv.org/abs/2104.00337) Wide-Depth-Range 6D Object Pose Estimation in Space. [\[PDF\]](https://arxiv.org/pdf/2103.09696)
+_Yinlin Hu, Sebastien Speierer, Wenzel Jakob, Pascal Fua, Mathieu Salzmann_
+##### • [\[arXiv:2104.00633\]](https://arxiv.org/abs/2104.00633) RePOSE: Real-Time Iterative Rendering and Refinement for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2104.00633)
+_Shun Iwase, Xingyu Liu, Rawal Khirodkar, Rio Yokota, Kris M. Kitani_
+##### • [\[arXiv:2104.03437\]](https://arxiv.org/abs/2104.03437) CAPTRA: CAtegory-level Pose Tracking for Rigid and Articulated Objects from Point Clouds. [\[PDF\]](https://arxiv.org/pdf/2104.03437)
+_Yijia Weng, He Wang, Qiang Zhou, Yuzhe Qin, Yueqi Duan, Qingnan Fan, Baoquan Chen, Hao Su, Leonidas J. Guibas_
+##### • [\[arXiv:2103.06526\]](https://arxiv.org/abs/2103.06526) DualPoseNet: Category-level 6D Object Pose and Size Estimation using Dual Pose Network with Refined Learning of Pose Consistency. [\[PDF\]](https://arxiv.org/pdf/2103.06526)
+_Jiehong Lin, Zewei Wei, Zhihao Li, Songcen Xu, Kui Jia, Yuanqing Li_
+##### • [\[arXiv:2103.06526\]](https://arxiv.org/abs/2103.06526) DualPoseNet: Category-level 6D Object Pose and Size Estimation using Dual Pose Network with Refined Learning of Pose Consistency. [\[PDF\]](https://arxiv.org/pdf/2103.06526)
+_Jiehong Lin, Zewei Wei, Zhihao Li, Songcen Xu, Kui Jia, Yuanqing Li_
+##### • [\[arXiv:2103.09696\]](https://arxiv.org/abs/2103.09696) Generating Annotated Training Data for 6D Object Pose Estimation in Operational Environments with Minimal User Interaction. [\[PDF\]](https://arxiv.org/pdf/2104.00337)
+_Paul Koch, Marian Schlüter, Serge Thill_
 ##### • [\[arXiv:2102.12145\]](https://arxiv.org/abs/2102.12145) GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2102.12145)
 _Gu Wang, Fabian Manhardt, Federico Tombari, Xiangyang Ji_
 ##### • [\[arXiv:2102.12096\]](https://arxiv.org/abs/2102.12096) PFRL: Pose-Free Reinforcement Learning for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2102.12096)
@@ -188,6 +200,12 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 
 ### 2021 Others
+
+##### • [2021 ICRA] Investigations on Output Parameterizations of Neural Networks for Single Shot 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2104.07528.pdf) 
+ _Kilian Kleeberger, Markus Völk, Richard Bormann, Marco F. Huber_
+
+ ##### • [2021 ICRA] CloudAAE: Learning 6D Object Pose Regression with On-line Data Synthesis on Point Clouds. [\[PDF\]](https://arxiv.org/pdf/2103.01977) 
+ _Ge Gao, Mikko Lauri, Xiaolin Hu, Jianwei Zhang, Simone Frintrop_
 
 ##### • [2021 WACV] A Pose Proposal and Refinement Network for Better 6D Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/WACV2021/papers/Trabelsi_A_Pose_Proposal_and_Refinement_Network_for_Better_6D_Object_WACV_2021_paper.pdf) 
  _Ameni Trabelsi, Mohamed Chaabane, Nathaniel Blanchard, Ross Beveridge_
