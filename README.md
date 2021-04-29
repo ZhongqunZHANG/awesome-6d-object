@@ -21,7 +21,7 @@ Another related paper list is about the hand pose estimation, which can be found
    - 2016: [CVPR](#2016-cvpr), [Others](#2016-others)
    - 2015: [CVPR](#2015-cvpr), [ICCV](#2015-iccv), [Others](#2015-others)
    - 2014: [CVPR](#2014-cvpr), [Others](#2014-others-&-before)
- - [Theses](#thesis)
+ - [Thesis](#thesis)
  - [Datasets](#datasets)
    - [Benchmark 6D Object Pose Estimation](#Benchmark-6D-Object-Pose-Estimation)
  - [Workshops](#workshops)
