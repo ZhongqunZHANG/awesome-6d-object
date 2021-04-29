@@ -21,7 +21,7 @@ Another related paper list is about the hand pose estimation, which can be found
    - 2016: [CVPR](#2016-cvpr), [Others](#2016-others)
    - 2015: [CVPR](#2015-cvpr), [ICCV](#2015-iccv), [Others](#2015-others)
    - 2014: [CVPR](#2014-cvpr), [Others](#2014-others-&-before)
- - [Theses](#theses)
+ - [Theses](#thesis)
  - [Datasets](#datasets)
    - [Benchmark 6D Object Pose Estimation](#Benchmark-6D-Object-Pose-Estimation)
  - [Workshops](#workshops)
@@ -998,7 +998,7 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 [\[back to top\]](#contents)
 
-## Theses
+## Thesis
 ##### • \[2020\] Learning to Reconstruct and Segment 3D Objects. [\[PDF\]](https://arxiv.org/pdf/2010.09582.pdf)
 *[Bo Yang](https://yang7879.github.io/), Ph.D Thesis, University of Oxford*
 ##### • \[2019\] Recovering 6D object pose at the level of instances and categories. [\[PDF\]](https://spiral.imperial.ac.uk/bitstream/10044/1/67953/1/Sahin-C-2019-PhD-Thesis.pdf)
