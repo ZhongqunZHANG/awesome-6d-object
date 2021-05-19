@@ -49,6 +49,8 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2104.03437\]](https://arxiv.org/abs/2104.03437) CAPTRA: CAtegory-level Pose Tracking for Rigid and Articulated Objects from Point Clouds. [\[PDF\]](https://arxiv.org/pdf/2104.03437) [\[Code\]](https://github.com/halfsummer11/CAPTRA) [\[Project\]](https://yijiaweng.github.io/CAPTRA/) [\[Video\]](https://youtu.be/JFPcOHCH2O0)
+_Yijia Weng*, He Wang*, Qiang Zhou, Yuzhe Qin, Yueqi Duan, Qingnan Fan, Baoquan Chen, Hao Su, Leonidas J. Guibas_
 ##### • [\[arXiv:2104.00337\]](https://arxiv.org/abs/2104.00337) Wide-Depth-Range 6D Object Pose Estimation in Space. [\[PDF\]](https://arxiv.org/pdf/2103.09696)
 _Yinlin Hu, Sebastien Speierer, Wenzel Jakob, Pascal Fua, Mathieu Salzmann_
 ##### • [\[arXiv:2104.00633\]](https://arxiv.org/abs/2104.00633) RePOSE: Real-Time Iterative Rendering and Refinement for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2104.00633)
@@ -199,6 +201,9 @@ _Gu Wang, Fabian Manhardt, Federico Tombari, Xiangyang Ji_
 
 ##### • [2021 CVPR] DSC-PoseNet: Learning 6DoF Object Pose Estimation via Dual-scale Consistency. [\[PDF\]](https://arxiv.org/pdf/2104.03658)
 _Zongxin Yang, Xin Yu, Yi Yang_
+
+##### • [2021 CVPR Oral] MultiBodySync: Multi-Body Segmentation and Motion Estimation via 3D Scan Synchronizat. [\[PDF\]](https://arxiv.org/pdf/2101.06605.pdf)
+_Jiahui Huang, He Wang, Tolga Birdal, Minkyuk Sung, Federica Arrigoni, Shi-Min Hu, and Leonidas J. Guibas_
  [\[back to top\]](#contents)
 
 
@@ -1174,7 +1179,7 @@ Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://c
 #### • [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml), [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/) and [Dahua Lin](http://dahua.me/), [Multimedia Laboratory](http://mmlab.ie.cuhk.edu.hk/index.html), The Chinese University of Hong Kong (CUHK).
 #### • [Xiangyang Ji](http://www.au.tsinghua.edu.cn/info/1166/2066.htm), Tsinghua University.
 #### • [Xiaowei Zhou](http://www.cad.zju.edu.cn/home/xzhou/), Zhejiang University.
-
+#### • [He Wang](https://hughw19.github.io/), Peking University.
 
 ### Australia
 #### • [Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/), [Australia ARC Centre of Excellence for Robotic Vision](http://roboticvision.org/), The Australian National University (ANU).
