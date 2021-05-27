@@ -55,8 +55,6 @@ _Yijia Weng*, He Wang*, Qiang Zhou, Yuzhe Qin, Yueqi Duan, Qingnan Fan, Baoquan 
 _Yinlin Hu, Sebastien Speierer, Wenzel Jakob, Pascal Fua, Mathieu Salzmann_
 ##### • [\[arXiv:2104.00633\]](https://arxiv.org/abs/2104.00633) RePOSE: Real-Time Iterative Rendering and Refinement for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2104.00633)
 _Shun Iwase, Xingyu Liu, Rawal Khirodkar, Rio Yokota, Kris M. Kitani_
-##### • [\[arXiv:2104.03437\]](https://arxiv.org/abs/2104.03437) CAPTRA: CAtegory-level Pose Tracking for Rigid and Articulated Objects from Point Clouds. [\[PDF\]](https://arxiv.org/pdf/2104.03437)
-_Yijia Weng, He Wang, Qiang Zhou, Yuzhe Qin, Yueqi Duan, Qingnan Fan, Baoquan Chen, Hao Su, Leonidas J. Guibas_
 ##### • [\[arXiv:2103.06526\]](https://arxiv.org/abs/2103.06526) DualPoseNet: Category-level 6D Object Pose and Size Estimation using Dual Pose Network with Refined Learning of Pose Consistency. [\[PDF\]](https://arxiv.org/pdf/2103.06526)
 _Jiehong Lin, Zewei Wei, Zhihao Li, Songcen Xu, Kui Jia, Yuanqing Li_
 ##### • [\[arXiv:2103.09696\]](https://arxiv.org/abs/2103.09696) Generating Annotated Training Data for 6D Object Pose Estimation in Operational Environments with Minimal User Interaction. [\[PDF\]](https://arxiv.org/pdf/2104.00337)
