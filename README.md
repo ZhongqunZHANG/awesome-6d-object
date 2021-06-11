@@ -207,6 +207,9 @@ _Jiahui Huang, He Wang, Tolga Birdal, Minkyuk Sung, Federica Arrigoni, Shi-Min H
 
 ### 2021 Others
 
+##### • [2021 AAAI] SD-Pose: Semantic Decomposition for Cross-Domain 6D Object Pose Estimation. [\[PDF\]](https://ojs.aaai.org/index.php/AAAI/article/view/16298/16105) 
+ _Zhigang Li, Yinlin Hu, Mathieu Salzmann, Xiangyang Ji_
+ 
 ##### • [2021 ICRA] Investigations on Output Parameterizations of Neural Networks for Single Shot 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2104.07528.pdf) 
  _Kilian Kleeberger, Markus Völk, Richard Bormann, Marco F. Huber_
 
