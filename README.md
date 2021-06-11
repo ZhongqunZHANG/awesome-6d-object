@@ -216,6 +216,12 @@ _Jiahui Huang, He Wang, Tolga Birdal, Minkyuk Sung, Federica Arrigoni, Shi-Min H
 ##### • [2021 ICRA] CloudAAE: Learning 6D Object Pose Regression with On-line Data Synthesis on Point Clouds. [\[PDF\]](https://arxiv.org/pdf/2103.01977) 
 _Ge Gao, Mikko Lauri, Xiaolin Hu, Jianwei Zhang, Simone Frintrop_
 
+##### • [2021 ICRA] ParametricNet: 6DoF Pose Estimation Network for Parametric Shapes in Stacked Scenarios. [\[PDF\]]() 
+_Tian Yu, Wang Xueqian_
+
+##### • [2021 ICRA] REDE: End-To-End Object 6D Pose Robust Estimation Using Differentiable Outliers Elimination. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9363576) 
+_Weitong Hua, Zhongxiang Zhou, Jun Wu, Huang Huang, Yue Wang, and Rong Xiong_
+
 ##### • [2021 WACV] A Pose Proposal and Refinement Network for Better 6D Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/WACV2021/papers/Trabelsi_A_Pose_Proposal_and_Refinement_Network_for_Better_6D_Object_WACV_2021_paper.pdf) 
  _Ameni Trabelsi, Mohamed Chaabane, Nathaniel Blanchard, Ross Beveridge_
 
