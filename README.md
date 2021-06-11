@@ -202,7 +202,8 @@ _Zongxin Yang, Xin Yu, Yi Yang_
 
 ##### • [2021 CVPR Oral] MultiBodySync: Multi-Body Segmentation and Motion Estimation via 3D Scan Synchronizat. [\[PDF\]](https://arxiv.org/pdf/2101.06605.pdf)
 _Jiahui Huang, He Wang, Tolga Birdal, Minkyuk Sung, Federica Arrigoni, Shi-Min Hu, and Leonidas J. Guibas_
- [\[back to top\]](#contents)
+
+[\[back to top\]](#contents)
 
 
 ### 2021 Others
@@ -445,6 +446,8 @@ _Weitong Hua, Zhongxiang Zhou, Jun Wu, Huang Huang, Yue Wang, and Rong Xiong_
 ##### • [2020 ICRA] Pose-Guided Auto-Encoder and Feature-Based Refinement for 6-DoF Object Pose Regression. [\[arXiv\]](http://xiangyangji.com/uploadfile/upload/2020072017405951.pdf) 
  _Zhigang Li, Xiangyang Ji_
 
+##### • [2020 ICRA] 6-PACK: Category-level 6D Pose Tracker with Anchor-Based Keypoints. [\[arXiv\]](https://arxiv.org/pdf/1910.10750) 
+ _Chen Wang, Roberto Martín-Martín, Danfei Xu, Jun Lv, Cewu Lu, Li Fei-Fei, Silvio Savarese, Yuke Zhu_
 <details>
 <summary>Show More</summary>
 
