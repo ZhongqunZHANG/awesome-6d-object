@@ -213,8 +213,8 @@ _Jiahui Huang, He Wang, Tolga Birdal, Minkyuk Sung, Federica Arrigoni, Shi-Min H
 ##### • [2021 ICRA] Investigations on Output Parameterizations of Neural Networks for Single Shot 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2104.07528.pdf) 
  _Kilian Kleeberger, Markus Völk, Richard Bormann, Marco F. Huber_
 
- ##### • [2021 ICRA] CloudAAE: Learning 6D Object Pose Regression with On-line Data Synthesis on Point Clouds. [\[PDF\]](https://arxiv.org/pdf/2103.01977) 
- _Ge Gao, Mikko Lauri, Xiaolin Hu, Jianwei Zhang, Simone Frintrop_
+##### • [2021 ICRA] CloudAAE: Learning 6D Object Pose Regression with On-line Data Synthesis on Point Clouds. [\[PDF\]](https://arxiv.org/pdf/2103.01977) 
+_Ge Gao, Mikko Lauri, Xiaolin Hu, Jianwei Zhang, Simone Frintrop_
 
 ##### • [2021 WACV] A Pose Proposal and Refinement Network for Better 6D Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/WACV2021/papers/Trabelsi_A_Pose_Proposal_and_Refinement_Network_for_Better_6D_Object_WACV_2021_paper.pdf) 
  _Ameni Trabelsi, Mohamed Chaabane, Nathaniel Blanchard, Ross Beveridge_
