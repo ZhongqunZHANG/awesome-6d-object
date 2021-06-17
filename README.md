@@ -49,6 +49,14 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2106.08045\]](https://arxiv.org/abs/2106.08045) Object detection and Autoencoder-based 6D pose estimation for highly cluttered Bin Picking. [\[PDF\]](https://arxiv.org/pdf/2106.08045) 
+_Timon Höfer, Faranak Shamsafar, Nuri Benbarka, Andreas Zell_
+##### • [\[arXiv:2106.06684\]](https://arxiv.org/abs/2106.06684) Multistream ValidNet: Improving 6D Object Pose Estimation by Automatic Multistream Validation. [\[PDF\]](https://arxiv.org/pdf/2106.06684) 
+_Joy Mazumder, Mohsen Zand, Michael Greenspan_
+##### • [\[arXiv:2105.14391\]](https://arxiv.org/pdf/2105.14391) Data-driven 6D Pose Tracking by Calibrating Image Residuals in Synthetic Domains. [\[PDF\]](https://arxiv.org/pdf/2105.14391) 
+_Bowen Wen, Chaitanya Mitash, Kostas Bekris_
+##### • [\[arXiv:2105.04112\]](https://arxiv.org/abs/2105.04112) ROBI: A Multi-View Dataset for Reflective Objects in Robotic Bin-Picking. [\[PDF\]](https://arxiv.org/pdf/2105.04112) 
+_Jun Yang, Yizhou Gao, Dong Li, Steven L. Waslander_
 ##### • [\[arXiv:2104.03437\]](https://arxiv.org/abs/2104.03437) CAPTRA: CAtegory-level Pose Tracking for Rigid and Articulated Objects from Point Clouds. [\[PDF\]](https://arxiv.org/pdf/2104.03437) [\[Code\]](https://github.com/halfsummer11/CAPTRA) [\[Project\]](https://yijiaweng.github.io/CAPTRA/) [\[Video\]](https://youtu.be/JFPcOHCH2O0)
 _Yijia Weng*, He Wang*, Qiang Zhou, Yuzhe Qin, Yueqi Duan, Qingnan Fan, Baoquan Chen, Hao Su, Leonidas J. Guibas_
 ##### • [\[arXiv:2104.00337\]](https://arxiv.org/abs/2104.00337) Wide-Depth-Range 6D Object Pose Estimation in Space. [\[PDF\]](https://arxiv.org/pdf/2103.09696)
