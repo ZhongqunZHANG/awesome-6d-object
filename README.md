@@ -193,11 +193,11 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 ### 2021 CVPR
 
-##### • [2021 CVPR] DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [\[PDF\]](https://arxiv.org/pdf/2104.04631.pdf) [\[Code\]](https://github.com/NVlabs/dex-ycb-toolkit) [\[Project\]](https://dex-ycb.github.io/)
- _Yu-Wei Chao, Wei Yang, Yu Xiang, Pavlo Molchanov, Ankur Handa, Jonathan Tremblay, Yashraj S. Narang, Karl Van Wyk, Umar Iqbal, Stan Birchfield, Jan Kautz, Dieter Fox_
-
 ##### • [2021 CVPR Oral] FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism. [\[PDF\]](https://arxiv.org/pdf/2103.07054.pdf) [\[Code\]](https://github.com/DC1991/FS-Net) [\[Supp\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_FS-Net_Fast_Shape-Based_Network_for_Category-Level_6D_Object_Pose_Estimation_CVPR_2021_paper.pdf)
  _Wei Chen, Xi Jia, Hyung Jin Chang, Jinming Duan, Linlin Shen, Ales Leonardis_
+
+##### • [2021 CVPR] DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [\[PDF\]](https://arxiv.org/pdf/2104.04631.pdf) [\[Code\]](https://github.com/NVlabs/dex-ycb-toolkit) [\[Project\]](https://dex-ycb.github.io/)
+ _Yu-Wei Chao, Wei Yang, Yu Xiang, Pavlo Molchanov, Ankur Handa, Jonathan Tremblay, Yashraj S. Narang, Karl Van Wyk, Umar Iqbal, Stan Birchfield, Jan Kautz, Dieter Fox_
 
 ##### • [2021 CVPR Oral] FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2103.02242.pdf) [\[Code\]](https://github.com/ethnhe/FFB6D) [\[Supp\]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/He_FFB6D_A_Full_CVPR_2021_supplemental.pdf)
  _Yisheng He, Haibin Huang, Haoqiang Fan, Qifeng Chen, Jian Sun_
@@ -219,6 +219,9 @@ _Yinlin Hu, Sebastien Speierer, Wenzel Jakob, Pascal Fua, Mathieu Salzmann_
 
 ##### • [2021 CVPR] Keypoint-Graph-Driven Learning Framework for Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Keypoint-Graph-Driven_Learning_Framework_for_Object_Pose_Estimation_CVPR_2021_paper.pdf) [\[Supp\]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Zhang_Keypoint-Graph-Driven_Learning_Framework_CVPR_2021_supplemental.pdf)
 _Shaobo Zhang, Wanqing Zhao, Ziyu Guan, Xianlin Peng, Jinye Peng_
+
+##### • [2021 CVPR] StablePose: Learning 6D Object Poses From Geometrically Stable Patches. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_StablePose_Learning_6D_Object_Poses_From_Geometrically_Stable_Patches_CVPR_2021_paper.pdf) [\[Supp\]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Shi_StablePose_Learning_6D_CVPR_2021_supplemental.pdf)
+_Yifei Shi, Junwen Huang, Xin Xu, Yifan Zhang, Kai Xu_
 
 [\[back to top\]](#contents)
 
