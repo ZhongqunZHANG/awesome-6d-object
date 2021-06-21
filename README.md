@@ -196,19 +196,19 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 ##### • [2021 CVPR] DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [\[PDF\]](https://arxiv.org/pdf/2104.04631.pdf) [\[Code\]](https://github.com/NVlabs/dex-ycb-toolkit) [\[Project\]](https://dex-ycb.github.io/)
  _Yu-Wei Chao, Wei Yang, Yu Xiang, Pavlo Molchanov, Ankur Handa, Jonathan Tremblay, Yashraj S. Narang, Karl Van Wyk, Umar Iqbal, Stan Birchfield, Jan Kautz, Dieter Fox_
 
-##### • [2021 CVPR Oral] FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism. [\[PDF\]](https://arxiv.org/pdf/2103.07054.pdf) [\[Code\]](https://github.com/DC1991/FS-Net) 
+##### • [2021 CVPR Oral] FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism. [\[PDF\]](https://arxiv.org/pdf/2103.07054.pdf) [\[Code\]](https://github.com/DC1991/FS-Net) [\[Supp\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_FS-Net_Fast_Shape-Based_Network_for_Category-Level_6D_Object_Pose_Estimation_CVPR_2021_paper.pdf)
  _Wei Chen, Xi Jia, Hyung Jin Chang, Jinming Duan, Linlin Shen, Ales Leonardis_
 
-##### • [2021 CVPR Oral] FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2103.02242.pdf) [\[Code\]](https://github.com/ethnhe/FFB6D)
+##### • [2021 CVPR Oral] FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2103.02242.pdf) [\[Code\]](https://github.com/ethnhe/FFB6D) [\[Supp\]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/He_FFB6D_A_Full_CVPR_2021_supplemental.pdf)
  _Yisheng He, Haibin Huang, Haoqiang Fan, Qifeng Chen, Jian Sun_
 
-##### • [2021 CVPR] GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2102.12145) [\[Code\]](https://github.com/THU-DA-6D-Pose-Group/GDR-Net)
+##### • [2021 CVPR] GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2102.12145) [\[Code\]](https://github.com/THU-DA-6D-Pose-Group/GDR-Net) [\[Supp\]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Wang_GDR-Net_Geometry-Guided_Direct_CVPR_2021_supplemental.pdf)
 _Gu Wang, Fabian Manhardt, Federico Tombari, Xiangyang Ji_
 
-##### • [2021 CVPR] DSC-PoseNet: Learning 6DoF Object Pose Estimation via Dual-scale Consistency. [\[PDF\]](https://arxiv.org/pdf/2104.03658)
+##### • [2021 CVPR] DSC-PoseNet: Learning 6DoF Object Pose Estimation via Dual-scale Consistency. [\[PDF\]](https://arxiv.org/pdf/2104.03658) [\[Supp\]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Yang_DSC-PoseNet_Learning_6DoF_CVPR_2021_supplemental.pdf)
 _Zongxin Yang, Xin Yu, Yi Yang_
 
-##### • [2021 CVPR Oral] MultiBodySync: Multi-Body Segmentation and Motion Estimation via 3D Scan Synchronizat. [\[PDF\]](https://arxiv.org/pdf/2101.06605.pdf)
+##### • [2021 CVPR Oral] MultiBodySync: Multi-Body Segmentation and Motion Estimation via 3D Scan Synchronizat. [\[PDF\]](https://arxiv.org/pdf/2101.06605.pdf) [\[Supp\]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Huang_MultiBodySync_Multi-Body_Segmentation_CVPR_2021_supplemental.pdf)
 _Jiahui Huang, He Wang, Tolga Birdal, Minkyuk Sung, Federica Arrigoni, Shi-Min Hu, and Leonidas J. Guibas_
 
 ##### • [2021 CVPR] img2pose: Face Alignment and Detection via 6DoF, Face Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Albiero_img2pose_Face_Alignment_and_Detection_via_6DoF_Face_Pose_Estimation_CVPR_2021_paper.pdf)
