@@ -211,6 +211,12 @@ _Zongxin Yang, Xin Yu, Yi Yang_
 ##### • [2021 CVPR Oral] MultiBodySync: Multi-Body Segmentation and Motion Estimation via 3D Scan Synchronizat. [\[PDF\]](https://arxiv.org/pdf/2101.06605.pdf)
 _Jiahui Huang, He Wang, Tolga Birdal, Minkyuk Sung, Federica Arrigoni, Shi-Min Hu, and Leonidas J. Guibas_
 
+##### • [2021 CVPR] img2pose: Face Alignment and Detection via 6DoF, Face Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Albiero_img2pose_Face_Alignment_and_Detection_via_6DoF_Face_Pose_Estimation_CVPR_2021_paper.pdf)
+_Vitor Albiero, Xingyu Chen, Xi Yin, Guan Pang, Tal Hassner_
+
+##### • [2021 CVPR] Wide-Depth-Range 6D Object Pose Estimation in Space. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Wide-Depth-Range_6D_Object_Pose_Estimation_in_Space_CVPR_2021_paper.pdf)
+_Yinlin Hu, Sebastien Speierer, Wenzel Jakob, Pascal Fua, Mathieu Salzmann_
+
 [\[back to top\]](#contents)
 
 
