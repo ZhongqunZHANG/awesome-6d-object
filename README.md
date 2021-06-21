@@ -217,6 +217,9 @@ _Vitor Albiero, Xingyu Chen, Xi Yin, Guan Pang, Tal Hassner_
 ##### • [2021 CVPR] Wide-Depth-Range 6D Object Pose Estimation in Space. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Wide-Depth-Range_6D_Object_Pose_Estimation_in_Space_CVPR_2021_paper.pdf)
 _Yinlin Hu, Sebastien Speierer, Wenzel Jakob, Pascal Fua, Mathieu Salzmann_
 
+##### • [2021 CVPR] Keypoint-Graph-Driven Learning Framework for Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Keypoint-Graph-Driven_Learning_Framework_for_Object_Pose_Estimation_CVPR_2021_paper.pdf) [\[Supp\]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Zhang_Keypoint-Graph-Driven_Learning_Framework_CVPR_2021_supplemental.pdf)
+_Shaobo Zhang, Wanqing Zhao, Ziyu Guan, Xianlin Peng, Jinye Peng_
+
 [\[back to top\]](#contents)
 
 
