@@ -25,6 +25,7 @@ Another related paper list is about the hand pose estimation, which can be found
  - [Datasets](#datasets)
    - [Benchmark 6D Object Pose Estimation](#Benchmark-6D-Object-Pose-Estimation)
  - [Workshops](#workshops)
+   - [Workshops on 3D Vision and Robotics](#Workshops-on-3D-Vision-and-Robotics)
    - [Workshops on Recovering 6D Object Pose](#Workshops-on-Recovering-6D-Object-Pose)
      - R6D 2020: Talk Slides, Workshop Papers
      - R6D 2019: Talk Slides, Workshop Papers
@@ -1065,6 +1066,13 @@ _Weitong Hua, Zhongxiang Zhou, Jun Wu, Huang Huang, Yue Wang, and Rong Xiong_
 
 ## Workshops
 
+### *Workshops on 3D Vision and Robotics:*
+#### • [3DV&R 2021](https://sites.google.com/view/cvpr2021-3d-vision-robotics), In conjunction with CVPR 2021
+- Workshop Papers
+    - [2021 CVPRW] Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations, _Zhenyu Jiang, Yifeng Zhu, Maxwell Svetlik, Kuan Fang, Yuke Zhu_ [\[Paper\]](https://www.google.com/url?q=https%3A%2F%2Fcvpr20213dvr.github.io%2FJiang_3DVR21.pdf&sa=D&sntz=1&usg=AFQjCNFtJ6f4oqeom33UJjbJvq0yTQsT3w)
+    - [2021 CVPRW]  Data-driven 6D Pose Tracking by Calibrating Image Residuals in Synthetic Domains, _Bowen Wen, Chaitanya Mitash, Kostas Bekris_ [\[Paper\]](https://www.google.com/url?q=https%3A%2F%2Fcvpr20213dvr.github.io%2FWen_3DVR21.pdf&sa=D&sntz=1&usg=AFQjCNGlz3rkjS7m1sb7o0IWjUh6fpLDTw) [\[Supp\]](https://www.google.com/url?q=https%3A%2F%2Fcvpr20213dvr.github.io%2FWen_3DVR21_supp.mp4&sa=D&sntz=1&usg=AFQjCNEEtDp0YNtxyUnbxUD97WWmU_e_pQ)
+
+    
 ### *Workshops on Recovering 6D Object Pose:*
 #### • [R6D 2020](http://cmp.felk.cvut.cz/sixd/workshop_2020/), In conjunction with ECCV 2020
 - Talk Slides
