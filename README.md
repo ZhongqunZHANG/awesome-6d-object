@@ -51,6 +51,12 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2107.12549\]](https://arxiv.org/abs/2107.12549) Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2107.12549) 
+_Yilin Wen, Xiangyu Li, Hao Pan, Lei Yang, Zheng Wang, Taku Komura, Wenping Wang_
+##### • [\[arXiv:2107.02057\]](https://arxiv.org/abs/2107.02057) 6D Object Pose Estimation using Keypoints and Part Affinity Fields. [\[PDF\]](https://arxiv.org/pdf/2107.02057) 
+_Moritz Zappel, Simon Bultmann, Sven Behnke_
+##### • [\[arXiv:2106.14193\]](https://arxiv.org/abs/2106.14193) DONet: Learning Category-Level 6D Object Pose and Size Estimation from Depth Observation. [\[PDF\]](https://arxiv.org/pdf/2106.14193) 
+_Haitao Lin, Zichang Liu, Chilam Cheang, Lingwei Zhang, Yanwei Fu, Xiangyang Xue_
 ##### • [\[arXiv:2106.08045\]](https://arxiv.org/abs/2106.08045) Object detection and Autoencoder-based 6D pose estimation for highly cluttered Bin Picking. [\[PDF\]](https://arxiv.org/pdf/2106.08045) 
 _Timon Höfer, Faranak Shamsafar, Nuri Benbarka, Andreas Zell_
 ##### • [\[arXiv:2106.06684\]](https://arxiv.org/abs/2106.06684) Multistream ValidNet: Improving 6D Object Pose Estimation by Automatic Multistream Validation. [\[PDF\]](https://arxiv.org/pdf/2106.06684) 
