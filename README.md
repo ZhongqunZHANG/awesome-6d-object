@@ -13,7 +13,7 @@ Another related paper list is about the hand pose estimation, which can be found
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
-   - 2021: [CVPR](#2021-cvpr), [Others](#2021-others)
+   - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv), [Others](#2021-others)
    - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [Others](#2020-others)
    - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv), [Others](#2019-others)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
@@ -198,6 +198,19 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 ## Conference Papers
 
+### 2021 ICCV
+
+##### • [2021 ICCV] RePOSE: Real-Time Iterative Rendering and Refinement for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2104.00633) [\[Code\]](https://github.com/sh8/RePOSE) [\[Project\]](https://www.sh8.io/#/repose)
+ _Shun Iwase, Xingyu Liu, Rawal Khirodkar, Rio Yokota, Kris M. Kitani_
+
+##### • [2021 ICCV Oral] CAPTRA: CAtegory-level Pose Tracking for Rigid and Articulated Objects from Point Clouds. [\[PDF\]](https://arxiv.org/abs/2104.03437) [\[Code\]](https://github.com/halfsummer11/CAPTRA) [\[Project\]](https://yijiaweng.github.io/CAPTRA/) [\[Video\]](https://youtu.be/JFPcOHCH2O0)
+ _Yijia Weng*, He Wang*†, Qiang Zhou, Yuzhe Qin, Yueqi Duan, Qingnan Fan, Baoquan Chen, Hao Su, Leonidas J. Guibas_
+
+##### • [2021 ICCV] StereOBJ-2M: Large-scale Stereo Image Dataset for 6D Object Pose Estimation. [\[PDF\]]()
+ _Xingyu Liu, Shun Iwase, Kris M. Kitani_
+
+
+[\[back to top\]](#contents)
 
 ### 2021 CVPR
 
