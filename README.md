@@ -200,6 +200,9 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 ### 2021 ICCV
 
+##### • [2021 ICCV] SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2108.08367) [\[Code\]](https://github.com/sh8/RePOSE) 
+ _Yan Di, Fabian Manhardt, Gu Wang, Xiangyang Ji, Nassir Navab, Federico Tombari_
+
 ##### • [2021 ICCV] RePOSE: Real-Time Iterative Rendering and Refinement for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2104.00633) [\[Code\]](https://github.com/sh8/RePOSE) [\[Project\]](https://www.sh8.io/#/repose)
  _Shun Iwase, Xingyu Liu, Rawal Khirodkar, Rio Yokota, Kris M. Kitani_
 
