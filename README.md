@@ -209,7 +209,7 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 ##### • [2021 ICCV Oral] CAPTRA: CAtegory-level Pose Tracking for Rigid and Articulated Objects from Point Clouds. [\[PDF\]](https://arxiv.org/abs/2104.03437) [\[Code\]](https://github.com/halfsummer11/CAPTRA) [\[Project\]](https://yijiaweng.github.io/CAPTRA/) [\[Video\]](https://youtu.be/JFPcOHCH2O0)
  _Yijia Weng*, He Wang*†, Qiang Zhou, Yuzhe Qin, Yueqi Duan, Qingnan Fan, Baoquan Chen, Hao Su, Leonidas J. Guibas_
 
-##### • [2021 ICCV] StereOBJ-2M: Large-scale Stereo Image Dataset for 6D Object Pose Estimation. [\[PDF\]]()
+##### • [2021 ICCV] StereOBJ-2M: Large-scale Stereo Image Dataset for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2109.10115)
  _Xingyu Liu, Shun Iwase, Kris M. Kitani_
 
 
@@ -251,6 +251,21 @@ _Yifei Shi, Junwen Huang, Xin Xu, Yifan Zhang, Kai Xu_
 
 
 ### 2021 Others
+
+##### • [2021 GCPR] T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression. [\[PDF\]](https://arxiv.org/pdf/2109.10948) 
+ _Arash Amini, Arul Selvam Periyasamy, Sven Behnke_
+
+##### • [2021 RA-L] Category-Level Metric Scale Object Shape and Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2109.00326) 
+ _Taeyeop Lee, Byeong-Uk Lee, Myungchul Kim, In So Kweon_
+
+##### • [2021 IROS] KDFNet: Learning Keypoint Distance Field for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2109.10127) 
+ _Xingyu Liu, Shun Iwase, Kris M. Kitani_
+
+##### • [2021 IROS] Category-Level 6D Object Pose Estimation via Cascaded Relation and Recurrent Reconstruction Networks. [\[PDF\]](https://arxiv.org/pdf/2108.08755) 
+ _Jiaze Wang, Kai Chen, Qi Dou_
+
+##### • [2021 IROS] VIPose: Real-time Visual-Inertial 6D Object Pose Tracking. [\[PDF\]](https://arxiv.org/pdf/2107.12617) 
+ _Rundong Ge, Giuseppe Loianno_
 
 ##### • [2021 AAAI] SD-Pose: Semantic Decomposition for Cross-Domain 6D Object Pose Estimation. [\[PDF\]](https://ojs.aaai.org/index.php/AAAI/article/view/16298/16105) 
  _Zhigang Li, Yinlin Hu, Mathieu Salzmann, Xiangyang Ji_
