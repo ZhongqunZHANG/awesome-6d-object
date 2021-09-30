@@ -6,6 +6,17 @@ Due to my personal interests, geometry-based work (SFM-based or SLAM-based work)
 
 Another related paper list is about the hand pose estimation, which can be found [here](https://github.com/xinghaochen/awesome-hand-pose-estimation).
 
+Some awesome demos：
+
+<p float="left">
+  <img src="./media/6dtracking.gif" width="300" />
+  <img src="./media/ycbineoat.gif" width="300" />
+  </p>
+  <p float="left">
+  <img src="./media/ycb_packing.gif" width="300" />
+  <img src="./media/industrial_insertion.gif" width="300" />
+</p>
+
 ## Contents
  <!-- - [Evaluation](#evaluation) -->
  - [arXiv Papers](#arxiv-papers)
@@ -257,6 +268,9 @@ _Yifei Shi, Junwen Huang, Xin Xu, Yifan Zhang, Kai Xu_
 
 ##### • [2021 RA-L] Category-Level Metric Scale Object Shape and Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2109.00326) 
  _Taeyeop Lee, Byeong-Uk Lee, Myungchul Kim, In So Kweon_
+
+##### • [2021 IROS] BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models. [\[PDF\]](https://arxiv.org/pdf/2108.00516) [\[Code\]](https://github.com/wenbowen123/BundleTrack) 
+ _Bowen Wen, Kostas Bekris_
 
 ##### • [2021 IROS] KDFNet: Learning Keypoint Distance Field for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2109.10127) 
  _Xingyu Liu, Shun Iwase, Kris M. Kitani_
