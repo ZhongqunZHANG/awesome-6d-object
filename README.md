@@ -6,7 +6,7 @@ Due to my personal interests, geometry-based work (SFM-based or SLAM-based work)
 
 Another related paper list is about the hand pose estimation, which can be found [here](https://github.com/xinghaochen/awesome-hand-pose-estimation).
 
-Some awesome demos：
+Some awesome open-source demos：
 
 <p float="left">
   <img src="./media/6dtracking.gif" width="300" />
