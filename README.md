@@ -13,8 +13,7 @@ Some awesome open-source demos：
   <img src="./media/ycbineoat.gif" width="300" />
 </p>
 <p float="left">
-  <img src="./media/ycb_packing.gif" width="300" />
-  <img src="./media/industrial_insertion.gif" width="300" />
+  <img src="./media/ycb_packing.gif" width="600" />
 </p>
 
 ## Contents
