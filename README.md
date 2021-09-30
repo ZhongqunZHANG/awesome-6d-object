@@ -494,6 +494,8 @@ _Weitong Hua, Zhongxiang Zhou, Jun Wu, Huang Huang, Yue Wang, and Rong Xiong_
 [\[back to top\]](#contents)
 
 ### 2020 Others
+##### • [2020 IROS] se(3)-TrackNet: Data-driven 6D Pose Tracking by Calibrating Image Residuals in Synthetic Domains. [\[PDF\]](https://arxiv.org/abs/2007.13866) [\[Code\]](https://github.com/wenbowen123/iros20-6d-pose-tracking)
+ _Wen, Bowen and Mitash, Chaitanya and Ren, Baozhang and Bekris, Kostas_
 ##### • [2020 3DV] Spatial Attention Improves Iterative 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2101.01659.pdf) 
  _Stefan Stevsic, Otmar Hilliges_
 ##### • [2020 3DV] Introducing Pose Consistency and Warp-Alignment for Self-Supervised 6D Object Pose Estimation in Color Images. [\[PDF\]](https://arxiv.org/abs/2003.12344) 
