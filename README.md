@@ -6,7 +6,7 @@ Due to my personal interests, geometry-based work (SFM-based or SLAM-based work)
 
 Another related paper list is about the hand pose estimation, which can be found [here](https://github.com/xinghaochen/awesome-hand-pose-estimation).
 
-Some awesome open-source demos ([NOCS](https://hughw19.github.io/NOCS_CVPR2019) and [YCBInEOAT](https://github.com/wenbowen123/iros20-6d-pose-tracking))：
+Some awesome open-source demos ([NOCS](https://hughw19.github.io/NOCS_CVPR2019), [BundleTrack](https://github.com/wenbowen123/BundleTrack) and [se(3)-TrackNet](https://github.com/wenbowen123/iros20-6d-pose-tracking))：
 
 <p float="left">
   <img src="./media/6dtracking.gif" width="300" />
