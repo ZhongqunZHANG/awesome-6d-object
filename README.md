@@ -200,6 +200,8 @@ _Jonathan Hexner & Rami R. Hagege_
 
 ### Other Journals
 
+##### • \[2021 IEEE Transactions on Robotics\] PoseRBPF: A Rao–Blackwellized Particle Filter for 6-D Object Pose Tracking. [\[PDF\]](https://ieeexplore.ieee.org/iel7/8860/4359257/09363455.pdf)
+_Xinke Deng, Arsalan Mousavian, Yu Xiang, Fei Xia, Timothy Bretl, Dieter Fox_
 ##### • \[2020 TIP\] Domain-Translated 3D Object Pose Estimation. [\[PDF\]](https://doi.org/10.1109/TIP.2020.3025447)
 _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
