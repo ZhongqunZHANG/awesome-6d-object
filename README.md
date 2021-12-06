@@ -61,6 +61,28 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2111.13489\]](https://arxiv.org/abs/2111.10677) SurfEmb: Dense and Continuous Correspondence Distributions for Object Pose Estimation with Learnt Surface Embeddings. [\[PDF\]](https://arxiv.org/pdf/2111.13489) 
+_Rasmus Laurvig Haugaard, Anders Glent Buch_
+##### • [\[arXiv:2111.10677\]](https://arxiv.org/abs/2111.10677) VideoPose: Estimating 6D object pose from videos. [\[PDF\]](https://arxiv.org/pdf/2111.10677) 
+_Apoorva Beedu, Zhile Ren, Varun Agrawal, Irfan Essa_
+##### • [\[arXiv:2111.10524\]](https://arxiv.org/abs/2111.09378) ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2111.10524) 
+_Zhaoxin Fan, Zhengbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu, Jun He_
+##### • [\[arXiv:2111.09378\]](https://arxiv.org/abs/2111.09378) MPF6D: Masked Pyramid Fusion 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2111.09378) 
+_Nuno Pereira, Luís A. Alexandre_
+##### • [\[arXiv:2111.07383\]](https://arxiv.org/abs/2111.07383) Sparse Steerable Convolutions: An Efficient Learning of SE(3)-Equivariant Features for Estimation and Tracking of Object Poses in 3D Space. [\[PDF\]](https://arxiv.org/pdf/2111.07383) 
+_Jiehong Lin, Hongyang Li, Ke Chen, Jiangbo Lu, Kui Jia_
+##### • [\[arXiv:2111.07383\]](https://arxiv.org/abs/2111.07383) Sparse Steerable Convolutions: An Efficient Learning of SE(3)-Equivariant Features for Estimation and Tracking of Object Poses in 3D Space. [\[PDF\]](https://arxiv.org/pdf/2111.07383) 
+_Jiehong Lin, Hongyang Li, Ke Chen, Jiangbo Lu, Kui Jia_
+##### • [\[arXiv:2111.06276\]](https://arxiv.org/abs/2111.06276) 6D Pose Estimation with Combined Deep Learning and 3D Vision Techniques for a Fast and Accurate Object Grasping. [\[PDF\]](https://arxiv.org/pdf/2111.06276) 
+_Tuan-Tang Le, Trung-Son Le, Yu-Ru Chen, Joel Vidal, Chyi-Yeu Lin_
+##### • [\[arXiv:2111.03821\]](https://arxiv.org/abs/2111.10524) ROFT: Real-Time Optical Flow-Aided 6D Object Pose and Velocity Tracking. [\[PDF\]](https://arxiv.org/pdf/2111.03821) 
+_Nicola A. Piga, Yuriy Onyshchuk, Giulia Pasquale, Ugo Pattacini, Lorenzo Natale_
+##### • [\[arXiv:2111.00190\]](https://arxiv.org/pdf/2111.00190) Leveraging SE(3) Equivariance for Self-Supervised Category-Level Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2111.00190) 
+_Xiaolong Li, Yijia Weng, Li Yi, Leonidas Guibas, A. Lynn Abbott, Shuran Song, He Wang_
+##### • [\[arXiv:2110.04792\]](https://arxiv.org/pdf/2110.04792) 6D-ViT: Category-Level 6D Object Pose Estimation via Transformer-based Instance Representation Learning. [\[PDF\]](https://arxiv.org/pdf/2110.04792) 
+_Lu Zou, Zhangjin Huang, Naijie Gu, Guoping Wang_
+##### • [\[arXiv:2110.00992\]](https://arxiv.org/pdf/2110.00992) Learning Stereopsis from Geometric Synthesis for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2110.00992) 
+_Jun Wu, Lilu Liu, Yue Wang, Rong Xiong_
 ##### • [\[arXiv:2107.12549\]](https://arxiv.org/abs/2107.12549) Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2107.12549) 
 _Yilin Wen, Xiangyu Li, Hao Pan, Lei Yang, Zheng Wang, Taku Komura, Wenping Wang_
 ##### • [\[arXiv:2107.02057\]](https://arxiv.org/abs/2107.02057) 6D Object Pose Estimation using Keypoints and Part Affinity Fields. [\[PDF\]](https://arxiv.org/pdf/2107.02057) 
@@ -277,6 +299,10 @@ _Yifei Shi, Junwen Huang, Xin Xu, Yifan Zhang, Kai Xu_
 
 ##### • [2021 RA-L] Category-Level Metric Scale Object Shape and Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2109.00326) 
  _Taeyeop Lee, Byeong-Uk Lee, Myungchul Kim, In So Kweon_
+
+
+##### • [2021 IROS] Precise Object Placement with Pose Distance Estimations for Different Objects and Grippers. [\[PDF\]](https://arxiv.org/pdf/2110.00992)
+_Kilian Kleeberger, Jonathan Schnitzler, Muhammad Usman Khalid, Richard Bormann, Werner Kraus, Marco F. Huber_
 
 ##### • [2021 IROS] BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models. [\[PDF\]](https://arxiv.org/pdf/2108.00516) [\[Code\]](https://github.com/wenbowen123/BundleTrack) 
  _Bowen Wen, Kostas Bekris_
