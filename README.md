@@ -294,6 +294,9 @@ _Yifei Shi, Junwen Huang, Xin Xu, Yifan Zhang, Kai Xu_
 
 ### 2021 Others
 
+##### • [2021 BMVC] OMAD: Object Model with Articulated Deformations for Pose Estimation and Retrieval. [\[PDF\]](https://arxiv.org/pdf/2112.07334) [\[Project\]](https://sites.google.com/view/omad-bmvc/) [\[Code\]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fxiaoxiaoxh%2FOMAD&sa=D&sntz=1&usg=AFQjCNHRMrL0ldm-wi5n-VBfPVYkmuWrhg)
+_Han Xue, Liu Liu, Wenqiang Xu, Haoyuan Fu, Cewu Lu_
+
 ##### • [2021 GCPR] T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression. [\[PDF\]](https://arxiv.org/pdf/2109.10948) 
  _Arash Amini, Arul Selvam Periyasamy, Sven Behnke_
 
