@@ -23,7 +23,7 @@ Some awesome open-source demos ([NOCS](https://hughw19.github.io/NOCS_CVPR2019) 
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
-   - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv), [Others](#2021-others) 
+   - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv)🔥, [Others](#2021-others)🔥 
    - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [Others](#2020-others)
    - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv), [Others](#2019-others)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
