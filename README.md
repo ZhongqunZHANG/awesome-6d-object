@@ -20,7 +20,7 @@ Some awesome open-source demos ([NOCS](https://hughw19.github.io/NOCS_CVPR2019) 
  <!-- - [Evaluation](#evaluation) -->
  - [arXiv Papers🔥](#arxiv-papers) 
  - [Journal Papers](#journal-papers)
-   - [TPAMI / IJCV](#tpami--ijcv)
+   - [TPAMI / IJCV🔥](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
    - 2021: [CVPR](#2021-cvpr), [ICCV🔥](#2021-iccv), [ICRA🔥](#2021-icra), [IROS🔥](#2021-iros), [Others](#2021-others)  
@@ -157,6 +157,8 @@ _Gideon Billings and Matthew Johnson-Roberson_
 
 ### TPAMI / IJCV
 
+##### • \[2021 TPAMI\] Occlusion-Aware Self-Supervised Monocular 6D Object Pose Estimation. [\[PDF\]](https://doi.org/10.1109/TPAMI.2021.3136301) [\[Code\]](https://github.com/THU-DA-6D-Pose-Group/self6dpp)
+_Yan Di, Fabian Manhardt, Gu Wang, Xiangyang Ji, Nassir Navab, Federico Tombari_
 ##### • \[2021 TPAMI\] RotationNet for Joint Object Categorization and Unsupervised Pose Estimation from Multi-View Images. [\[PDF\]](https://doi.org/10.1109/TPAMI.2019.2922640)
 _Asako Kanezaki, Yasuyuki Matsushita, Yoshifumi Nishida_
 ##### • \[2020 TPAMI\] Generalized Feedback Loop for Joint Hand-Object Pose Estimation. [\[PDF\]](https://doi.org/10.1109/TPAMI.2019.2905607)
