@@ -1,12 +1,10 @@
 # Awesome Object Pose Estimation and Reconstruction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of related resources for 6d object pose estimation, also including 3d objects reconstruction from a single view, and hand-object reconstruction. Since the reconstruction of the human body is similar to that of objects, I also collect some papers about human body, but I will not pay more attention to it.
+A curated list of related resources for 6d object pose estimation, also including 3d objects reconstruction from a single view, and hand-object reconstruction. Since the reconstruction of the human body is similar to that of objects, I also collect some papers about human body, but I will not pay more attention to it. 🔥 means new update.
 
 Due to my personal interests, geometry-based work (SFM-based or SLAM-based work) are not collected here. Those papers can be found [here](https://github.com/openMVG/awesome_3DReconstruction_list).
 
 Another related paper list is about the hand pose estimation, which can be found [here](https://github.com/xinghaochen/awesome-hand-pose-estimation).
-
-🔥 means new update.
 
 Some awesome open-source demos ([NOCS](https://hughw19.github.io/NOCS_CVPR2019) and [BundleTrack](https://github.com/wenbowen123/BundleTrack) and [se(3)-TrackNet](https://github.com/wenbowen123/iros20-6d-pose-tracking))：
 
@@ -51,7 +49,7 @@ Some awesome open-source demos ([NOCS](https://hughw19.github.io/NOCS_CVPR2019) 
    - [BOP Challenge 2019](#BOP-Challenge-2019)
      - Documents 
  - [Researchers](#Researchers)
-   - [U.S./Canada](#U.S./Canada)
+   - [U.S./Canada🔥](#U.S./Canada)
    - [Europe](#Europe)
    - [Asia](#Asia)
    - [Australia](#Australia)
@@ -1320,7 +1318,7 @@ Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://c
 #### • [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), Stanford University.
 #### • [Shuran Song](https://www.cs.columbia.edu/~shurans/), Columbia University.
 #### • [TOMÁŠ HODAŇ](https://cmp.felk.cvut.cz/~hodanto2/), [Facebook Reality Labs](https://about.fb.com/realitylabs/).
-
+#### • [KOSTAS BEKRIS](https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/), [PRACSYS Lab](https://robotics.cs.rutgers.edu/pracsys/), Rutgers University.
 
 
 ### Europe
