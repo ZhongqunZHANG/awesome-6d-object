@@ -97,35 +97,17 @@ _Joy Mazumder, Mohsen Zand, Michael Greenspan_
 _Bowen Wen, Chaitanya Mitash, Kostas Bekris_
 ##### • [\[arXiv:2105.04112\]](https://arxiv.org/abs/2105.04112) ROBI: A Multi-View Dataset for Reflective Objects in Robotic Bin-Picking. [\[PDF\]](https://arxiv.org/pdf/2105.04112) 
 _Jun Yang, Yizhou Gao, Dong Li, Steven L. Waslander_
-##### • [\[arXiv:2104.03437\]](https://arxiv.org/abs/2104.03437) CAPTRA: CAtegory-level Pose Tracking for Rigid and Articulated Objects from Point Clouds. [\[PDF\]](https://arxiv.org/pdf/2104.03437) [\[Code\]](https://github.com/halfsummer11/CAPTRA) [\[Project\]](https://yijiaweng.github.io/CAPTRA/) [\[Video\]](https://youtu.be/JFPcOHCH2O0)
-_Yijia Weng*, He Wang*, Qiang Zhou, Yuzhe Qin, Yueqi Duan, Qingnan Fan, Baoquan Chen, Hao Su, Leonidas J. Guibas_
-##### • [\[arXiv:2104.00337\]](https://arxiv.org/abs/2104.00337) Wide-Depth-Range 6D Object Pose Estimation in Space. [\[PDF\]](https://arxiv.org/pdf/2103.09696)
-_Yinlin Hu, Sebastien Speierer, Wenzel Jakob, Pascal Fua, Mathieu Salzmann_
-##### • [\[arXiv:2104.00633\]](https://arxiv.org/abs/2104.00633) RePOSE: Real-Time Iterative Rendering and Refinement for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2104.00633)
-_Shun Iwase, Xingyu Liu, Rawal Khirodkar, Rio Yokota, Kris M. Kitani_
-##### • [\[arXiv:2103.06526\]](https://arxiv.org/abs/2103.06526) DualPoseNet: Category-level 6D Object Pose and Size Estimation using Dual Pose Network with Refined Learning of Pose Consistency. [\[PDF\]](https://arxiv.org/pdf/2103.06526)
-_Jiehong Lin, Zewei Wei, Zhihao Li, Songcen Xu, Kui Jia, Yuanqing Li_
 ##### • [\[arXiv:2103.09696\]](https://arxiv.org/abs/2103.09696) Generating Annotated Training Data for 6D Object Pose Estimation in Operational Environments with Minimal User Interaction. [\[PDF\]](https://arxiv.org/pdf/2104.00337)
 _Paul Koch, Marian Schlüter, Serge Thill_
-##### • [\[arXiv:2102.12145\]](https://arxiv.org/abs/2102.12145) GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2102.12145)
-_Gu Wang, Fabian Manhardt, Federico Tombari, Xiangyang Ji_
-##### • [\[arXiv:2102.12096\]](https://arxiv.org/abs/2102.12096) PFRL: Pose-Free Reinforcement Learning for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2102.12096)
-_Jianzhun Shao, Yuhang Jiang, Gu Wang, Zhigang Li, Xiangyang Ji_
-##### • [\[arXiv:2102.09334\]](https://arxiv.org/abs/2102.09334) StablePose: Learning 6D Object Poses from Geometrically Stable Patches. [\[PDF\]](https://arxiv.org/pdf/2102.09334)
-_Jianzhun Shao, Yuhang Jiang, Gu Wang, Zhigang Li, Xiangyang Ji_
 ##### • [\[arXiv:2101.08895\]](https://arxiv.org/abs/2101.08895) Iterative Optimisation with an Innovation CNN for Pose Refinement. [\[PDF\]](https://arxiv.org/pdf/2101.08895)
 _Junwen Huang, Yifei Shi, Xin Xu, Yifan Zhang, Kai Xu_
-##### • [\[arXiv:2101.01659\]](https://arxiv.org/abs/2101.01659) Spatial Attention Improves Iterative 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2101.01659)
-_Stefan Stevsic, Otmar Hilliges_
 ##### • [\[arXiv:2012.11938\]](https://arxiv.org/abs/2012.11938) 3D Point-to-Keypoint Voting Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2012.11938)
 _Weitong Hua, Jiaxin Guo, Yue Wang, Rong Xiong_
 ##### • [\[arXiv:2012.11260\]](https://arxiv.org/abs/2012.11260) Unsupervised Domain Adaptation with Temporal-Consistent Self-Training for 3D Hand-Object Joint Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2012.11260)
 _Mengshi Qi, Edoardo Remelli, Mathieu Salzmann, Pascal Fua_
 ##### • [\[arXiv:2012.01788\]](https://arxiv.org/abs/2012.01788) Object-Driven Active Mapping for More Accurate Object Pose Estimation and Robotic Grasping. [\[PDF\]](https://arxiv.org/pdf/2012.01788) [\[Project Page\]](https://yanmin-wu.github.io/project/active-mapping/)
 _Yanmin Wu, Yunzhou Zhang, Delong Zhu, Xin Chen, Sonya Coleman, Wenkai Sun, Xinggang Hu, Zhiqiang Deng_
-##### • [\[arXiv:2012.00924\]](https://arxiv.org/abs/2012.00924) CPF: Learning a Contact Potential Field to Model the Hand-object Interaction. [\[PDF\]](https://arxiv.org/pdf/2012.00924) 
-_Lixin Yang, Xinyu Zhan, Kailin Li, Wenqiang Xu, Jiefeng Li, Cewu Lu_
-##### • [\[arXiv:2012.00088\]](https://arxiv.org/abs/2012.00088) CPF: Nothing But Geometric Constraints: A Model-Free Method for Articulated Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2012.00088) 
+##### • [\[arXiv:2012.00088\]](https://arxiv.org/abs/2012.00088) Nothing But Geometric Constraints: A Model-Free Method for Articulated Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2012.00088) 
 _Qihao Liu, Weichao Qiu, Weiyao Wang, Gregory D. Hager, Alan L. Yuille_
 ##### • [\[arXiv:2011.13669\]](https://arxiv.org/abs/2011.13669) Towards real-time object recognition and pose estimation in point clouds. [\[PDF\]](https://arxiv.org/pdf/2011.13669) 
 _Marlon Marcon, Olga Regina Pereira Bellon, Luciano Silva_
