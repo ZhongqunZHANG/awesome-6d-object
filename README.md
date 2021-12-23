@@ -334,6 +334,18 @@ _Tian Yu, Wang Xueqian_
 ##### • [2021 ICRA] REDE: End-To-End Object 6D Pose Robust Estimation Using Differentiable Outliers Elimination. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9363576) 
 _Weitong Hua, Zhongxiang Zhou, Jun Wu, Huang Huang, Yue Wang, and Rong Xiong_
 
+##### • [2021 ICRA] 6D Object Pose Estimation with Pairwise Compatible Geometric Features. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561404) 
+_Muyuan Lin, Varun Murali, Sertac Karaman_
+
+##### • [2021 ICRA] Optimizing RGB-D Fusion for Accurate 6DoF Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9361135) 
+_Lounes Saadi, Bassem Besbes, Sebastien Kramm, and Abdelaziz Bensrhair_
+
+##### • [2021 ICRA] MFPN-6D : Real-time One-stage Pose Estimation of Objects on RGB Images. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561878) 
+_Penglei Liu, Qieshi Zhang, Jin Zhang, Fei Wang, Jun Cheng_
+
+##### • [2021 ICRA] Investigations on Output Parameterizations of Neural Networks for Single Shot 6D Object Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561712) 
+_Kilian Kleeberger, Markus Volk, Richard Bormann1, and Marco F. Huber1_
+
 ##### • [2021 WACV] A Pose Proposal and Refinement Network for Better 6D Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/WACV2021/papers/Trabelsi_A_Pose_Proposal_and_Refinement_Network_for_Better_6D_Object_WACV_2021_paper.pdf) 
  _Ameni Trabelsi, Mohamed Chaabane, Nathaniel Blanchard, Ross Beveridge_
 
