@@ -303,9 +303,17 @@ _Han Xue, Liu Liu, Wenqiang Xu, Haoyuan Fu, Cewu Lu_
 ##### • [2021 RA-L] Category-Level Metric Scale Object Shape and Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2109.00326) 
  _Taeyeop Lee, Byeong-Uk Lee, Myungchul Kim, In So Kweon_
 
+##### • [2021 IROS] Iterative Coarse-To-Fine 6D-Pose Estimation Using Back-Propagation. [\[PDF\]](http://mprg.jp/data/MPRG/C_group/C20210929_araki.pdf)
+_Ryosuke Araki, Kohsuke Mano, Tadanori Hirano_
 
-##### • [2021 IROS] Precise Object Placement with Pose Distance Estimations for Different Objects and Grippers. [\[PDF\]](https://arxiv.org/pdf/2110.00992)
-_Kilian Kleeberger, Jonathan Schnitzler, Muhammad Usman Khalid, Richard Bormann, Werner Kraus, Marco F. Huber_
+##### • [2021 IROS] Object Learning for 6D Pose Estimation and Grasping from RGB-D Videos of In-Hand Manipulation. [\[PDF\]](http://mprg.jp/data/MPRG/C_group/C20210929_araki.pdf)
+_Ryosuke Araki, Kohsuke Mano, Tadanori Hirano_
+
+##### • [2021 IROS] Precise Object Placement with Pose Distance Estimations for Different Objects and Grippers. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9635884)
+_Timothy Patten, Kiru Park1, Markus Leitner, Kevin Wolfram and Markus Vincze_
+
+##### • [2021 IROS] TemporalFusion: Temporal Motion Reasoning with Multi-Frame Fusion for 6D Object Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636583)
+_Fengjun Mu; Rui Huang; Ao Luo; Xin Li; Jing Qiu; Hong Cheng_
 
 ##### • [2021 IROS] BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models. [\[PDF\]](https://arxiv.org/pdf/2108.00516) [\[Code\]](https://github.com/wenbowen123/BundleTrack) 
  _Bowen Wen, Kostas Bekris_
@@ -345,6 +353,9 @@ _Penglei Liu, Qieshi Zhang, Jin Zhang, Fei Wang, Jun Cheng_
 
 ##### • [2021 ICRA] Investigations on Output Parameterizations of Neural Networks for Single Shot 6D Object Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561712) 
 _Kilian Kleeberger, Markus Volk, Richard Bormann1, and Marco F. Huber1_
+
+##### • [2021 ICRA] L6DNet: Light 6 DoF Network for Robust and Precise Object Pose Estimation with Small Datasets. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9364353) 
+_Mathieu Gonzalez, Amine Kacete, Albert Murienne, and Eric Marchand_
 
 ##### • [2021 WACV] A Pose Proposal and Refinement Network for Better 6D Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/WACV2021/papers/Trabelsi_A_Pose_Proposal_and_Refinement_Network_for_Better_6D_Object_WACV_2021_paper.pdf) 
  _Ameni Trabelsi, Mohamed Chaabane, Nathaniel Blanchard, Ross Beveridge_
