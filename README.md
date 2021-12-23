@@ -20,12 +20,12 @@ Some awesome open-source demos ([NOCS](https://hughw19.github.io/NOCS_CVPR2019) 
 
 ## Contents
  <!-- - [Evaluation](#evaluation) -->
- - [arXiv Papers](#arxiv-papers)🔥
+ - [arXiv Papers](#arxiv-papers) 🔥
  - [Journal Papers](#journal-papers)
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
-   - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv)🔥, [Others](#2021-others)🔥 
+   - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv) 🔥, [Others](#2021-others) 🔥 
    - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [Others](#2020-others)
    - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv), [Others](#2019-others)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
@@ -61,7 +61,7 @@ Some awesome open-source demos ([NOCS](https://hughw19.github.io/NOCS_CVPR2019) 
 <!-- ## Evaluation
 See folder [``evaluation``](./evaluation) to get more details about performance evaluation for hand pose estimation. -->
 
-## arXiv Papers
+## arXiv Papers 🔥
 
 ##### • [\[arXiv:2111.13489\]](https://arxiv.org/abs/2111.10677) SurfEmb: Dense and Continuous Correspondence Distributions for Object Pose Estimation with Learnt Surface Embeddings. [\[PDF\]](https://arxiv.org/pdf/2111.13489) 
 _Rasmus Laurvig Haugaard, Anders Glent Buch_
@@ -234,7 +234,7 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 ## Conference Papers
 
-### 2021 ICCV
+### 2021 ICCV 🔥
 
 ##### • [2021 ICCV Oral] CAPTRA: CAtegory-level Pose Tracking for Rigid and Articulated Objects from Point Clouds. [\[PDF\]](https://arxiv.org/abs/2104.03437) [\[Code\]](https://github.com/halfsummer11/CAPTRA) [\[Project\]](https://yijiaweng.github.io/CAPTRA/) [\[Video\]](https://youtu.be/JFPcOHCH2O0)
  _Yijia Weng*, He Wang*†, Qiang Zhou, Yuzhe Qin, Yueqi Duan, Qingnan Fan, Baoquan Chen, Hao Su, Leonidas J. Guibas_
@@ -294,7 +294,7 @@ _Yifei Shi, Junwen Huang, Xin Xu, Yifan Zhang, Kai Xu_
 [\[back to top\]](#contents)
 
 
-### 2021 Others
+### 2021 Others 🔥
 
 ##### • [2021 BMVC] OMAD: Object Model with Articulated Deformations for Pose Estimation and Retrieval. [\[PDF\]](https://arxiv.org/pdf/2112.07334) [\[Project\]](https://sites.google.com/view/omad-bmvc/) [\[Code\]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fxiaoxiaoxh%2FOMAD&sa=D&sntz=1&usg=AFQjCNHRMrL0ldm-wi5n-VBfPVYkmuWrhg)
 _Han Xue, Liu Liu, Wenqiang Xu, Haoyuan Fu, Cewu Lu_
