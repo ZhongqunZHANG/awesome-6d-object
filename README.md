@@ -25,7 +25,7 @@ Some awesome open-source demos ([NOCS](https://hughw19.github.io/NOCS_CVPR2019) 
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
-   - 2021: [CVPR](#2021-cvpr), [ICCV🔥](#2021-iccv) , [Others🔥](#2021-others)  
+   - 2021: [CVPR](#2021-cvpr), [ICCV🔥](#2021-iccv), [ICRA🔥](#2021-icra), [IROS🔥](#2021-iros), [Others](#2021-others)  
    - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [Others](#2020-others)
    - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv), [Others](#2019-others)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
@@ -294,44 +294,8 @@ _Yifei Shi, Junwen Huang, Xin Xu, Yifan Zhang, Kai Xu_
 [\[back to top\]](#contents)
 
 
-### 2021 Others
+### 2021 ICRA
 
-##### • [2021 BMVC] OMAD: Object Model with Articulated Deformations for Pose Estimation and Retrieval. [\[PDF\]](https://arxiv.org/pdf/2112.07334) [\[Project\]](https://sites.google.com/view/omad-bmvc/) [\[Code\]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fxiaoxiaoxh%2FOMAD&sa=D&sntz=1&usg=AFQjCNHRMrL0ldm-wi5n-VBfPVYkmuWrhg)
-_Han Xue, Liu Liu, Wenqiang Xu, Haoyuan Fu, Cewu Lu_
-
-##### • [2021 GCPR] T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression. [\[PDF\]](https://arxiv.org/pdf/2109.10948) 
- _Arash Amini, Arul Selvam Periyasamy, Sven Behnke_
-
-##### • [2021 RA-L] Category-Level Metric Scale Object Shape and Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2109.00326) 
- _Taeyeop Lee, Byeong-Uk Lee, Myungchul Kim, In So Kweon_
-
-##### • [2021 IROS] Iterative Coarse-To-Fine 6D-Pose Estimation Using Back-Propagation. [\[PDF\]](http://mprg.jp/data/MPRG/C_group/C20210929_araki.pdf)
-_Ryosuke Araki, Kohsuke Mano, Tadanori Hirano_
-
-##### • [2021 IROS] Object Learning for 6D Pose Estimation and Grasping from RGB-D Videos of In-Hand Manipulation. [\[PDF\]](http://mprg.jp/data/MPRG/C_group/C20210929_araki.pdf)
-_Ryosuke Araki, Kohsuke Mano, Tadanori Hirano_
-
-##### • [2021 IROS] Precise Object Placement with Pose Distance Estimations for Different Objects and Grippers. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9635884)
-_Timothy Patten, Kiru Park1, Markus Leitner, Kevin Wolfram and Markus Vincze_
-
-##### • [2021 IROS] TemporalFusion: Temporal Motion Reasoning with Multi-Frame Fusion for 6D Object Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636583)
-_Fengjun Mu; Rui Huang; Ao Luo; Xin Li; Jing Qiu; Hong Cheng_
-
-##### • [2021 IROS] BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models. [\[PDF\]](https://arxiv.org/pdf/2108.00516) [\[Code\]](https://github.com/wenbowen123/BundleTrack) 
- _Bowen Wen, Kostas Bekris_
-
-##### • [2021 IROS] KDFNet: Learning Keypoint Distance Field for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2109.10127) 
- _Xingyu Liu, Shun Iwase, Kris M. Kitani_
-
-##### • [2021 IROS] Category-Level 6D Object Pose Estimation via Cascaded Relation and Recurrent Reconstruction Networks. [\[PDF\]](https://arxiv.org/pdf/2108.08755) 
- _Jiaze Wang, Kai Chen, Qi Dou_
-
-##### • [2021 IROS] VIPose: Real-time Visual-Inertial 6D Object Pose Tracking. [\[PDF\]](https://arxiv.org/pdf/2107.12617) 
- _Rundong Ge, Giuseppe Loianno_
-
-##### • [2021 AAAI] SD-Pose: Semantic Decomposition for Cross-Domain 6D Object Pose Estimation. [\[PDF\]](https://ojs.aaai.org/index.php/AAAI/article/view/16298/16105) 
- _Zhigang Li, Yinlin Hu, Mathieu Salzmann, Xiangyang Ji_
- 
 ##### • [2021 ICRA] Investigations on Output Parameterizations of Neural Networks for Single Shot 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2104.07528.pdf) 
  _Kilian Kleeberger, Markus Völk, Richard Bormann, Marco F. Huber_
 
@@ -358,6 +322,52 @@ _Kilian Kleeberger, Markus Volk, Richard Bormann1, and Marco F. Huber1_
 
 ##### • [2021 ICRA] L6DNet: Light 6 DoF Network for Robust and Precise Object Pose Estimation with Small Datasets. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9364353) 
 _Mathieu Gonzalez, Amine Kacete, Albert Murienne, and Eric Marchand_
+
+[\[back to top\]](#contents)
+
+
+### 2021 IROS
+
+##### • [2021 RA-L & IROS] Category-Level Metric Scale Object Shape and Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2109.00326) 
+ _Taeyeop Lee, Byeong-Uk Lee, Myungchul Kim, In So Kweon_
+
+##### • [2021 IROS] Iterative Coarse-To-Fine 6D-Pose Estimation Using Back-Propagation. [\[PDF\]](http://mprg.jp/data/MPRG/C_group/C20210929_araki.pdf)
+_Ryosuke Araki, Kohsuke Mano, Tadanori Hirano_
+
+##### • [2021 IROS] Object Learning for 6D Pose Estimation and Grasping from RGB-D Videos of In-Hand Manipulation. [\[PDF\]](http://mprg.jp/data/MPRG/C_group/C20210929_araki.pdf)
+_Ryosuke Araki, Kohsuke Mano, Tadanori Hirano_
+
+##### • [2021 IROS] Precise Object Placement with Pose Distance Estimations for Different Objects and Grippers. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9635884)
+_Timothy Patten, Kiru Park1, Markus Leitner, Kevin Wolfram and Markus Vincze_
+
+##### • [2021 IROS] TemporalFusion: Temporal Motion Reasoning with Multi-Frame Fusion for 6D Object Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636583)
+_Fengjun Mu; Rui Huang; Ao Luo; Xin Li; Jing Qiu; Hong Cheng_
+
+##### • [2021 IROS] BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models. [\[PDF\]](https://arxiv.org/pdf/2108.00516) [\[Code\]](https://github.com/wenbowen123/BundleTrack) 
+ _Bowen Wen, Kostas Bekris_
+
+##### • [2021 IROS] KDFNet: Learning Keypoint Distance Field for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2109.10127) 
+ _Xingyu Liu, Shun Iwase, Kris M. Kitani_
+
+##### • [2021 IROS] Category-Level 6D Object Pose Estimation via Cascaded Relation and Recurrent Reconstruction Networks. [\[PDF\]](https://arxiv.org/pdf/2108.08755) 
+ _Jiaze Wang, Kai Chen, Qi Dou_
+
+##### • [2021 IROS] VIPose: Real-time Visual-Inertial 6D Object Pose Tracking. [\[PDF\]](https://arxiv.org/pdf/2107.12617) 
+ _Rundong Ge, Giuseppe Loianno_
+
+[\[back to top\]](#contents)
+
+
+### 2021 Others
+
+##### • [2021 BMVC] OMAD: Object Model with Articulated Deformations for Pose Estimation and Retrieval. [\[PDF\]](https://arxiv.org/pdf/2112.07334) [\[Project\]](https://sites.google.com/view/omad-bmvc/) [\[Code\]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fxiaoxiaoxh%2FOMAD&sa=D&sntz=1&usg=AFQjCNHRMrL0ldm-wi5n-VBfPVYkmuWrhg)
+_Han Xue, Liu Liu, Wenqiang Xu, Haoyuan Fu, Cewu Lu_
+
+##### • [2021 GCPR] T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression. [\[PDF\]](https://arxiv.org/pdf/2109.10948) 
+ _Arash Amini, Arul Selvam Periyasamy, Sven Behnke_
+
+##### • [2021 AAAI] SD-Pose: Semantic Decomposition for Cross-Domain 6D Object Pose Estimation. [\[PDF\]](https://ojs.aaai.org/index.php/AAAI/article/view/16298/16105) 
+ _Zhigang Li, Yinlin Hu, Mathieu Salzmann, Xiangyang Ji_
 
 ##### • [2021 WACV] A Pose Proposal and Refinement Network for Better 6D Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/WACV2021/papers/Trabelsi_A_Pose_Proposal_and_Refinement_Network_for_Better_6D_Object_WACV_2021_paper.pdf) 
  _Ameni Trabelsi, Mohamed Chaabane, Nathaniel Blanchard, Ross Beveridge_
