@@ -93,8 +93,6 @@ _Haitao Lin, Zichang Liu, Chilam Cheang, Lingwei Zhang, Yanwei Fu, Xiangyang Xue
 _Timon Höfer, Faranak Shamsafar, Nuri Benbarka, Andreas Zell_
 ##### • [\[arXiv:2106.06684\]](https://arxiv.org/abs/2106.06684) Multistream ValidNet: Improving 6D Object Pose Estimation by Automatic Multistream Validation. [\[PDF\]](https://arxiv.org/pdf/2106.06684)
 _Joy Mazumder, Mohsen Zand, Michael Greenspan_
-##### • [\[arXiv:2105.14391\]](https://arxiv.org/pdf/2105.14391) Data-driven 6D Pose Tracking by Calibrating Image Residuals in Synthetic Domains. [\[PDF\]](https://arxiv.org/pdf/2105.14391)
-_Bowen Wen, Chaitanya Mitash, Kostas Bekris_
 ##### • [\[arXiv:2105.04112\]](https://arxiv.org/abs/2105.04112) ROBI: A Multi-View Dataset for Reflective Objects in Robotic Bin-Picking. [\[PDF\]](https://arxiv.org/pdf/2105.04112)
 _Jun Yang, Yizhou Gao, Dong Li, Steven L. Waslander_
 ##### • [\[arXiv:2103.09696\]](https://arxiv.org/abs/2103.09696) Generating Annotated Training Data for 6D Object Pose Estimation in Operational Environments with Minimal User Interaction. [\[PDF\]](https://arxiv.org/pdf/2104.00337)
@@ -115,16 +113,12 @@ _Marlon Marcon, Olga Regina Pereira Bellon, Luciano Silva_
 _Anshul Gupta, Joydeep Medhi, Aratrik Chattopadhyay, Vikram Gupta_
 ##### • [\[arXiv:2011.08771\]](https://arxiv.org/abs/2011.08771) A Method to Generate High Precision Mesh Model and RGB-D Datasetfor 6D Pose Estimation Task. [\[PDF\]](https://arxiv.org/pdf/2011.08771)
 _Minglei Lu, Yu Guo, Fei Wang, Zheng Dang_
-##### • [\[arXiv:2011.05669\]](https://arxiv.org/abs/2011.05669) A Hybrid Approach for 6DoF Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2011.05669)
-_Rebecca König, Bertram Drost_
 ##### • [\[arXiv:2011.04307\]](https://arxiv.org/abs/2011.04307) EfficientPose: An efficient, accurate and scalable end-to-end 6D multi object pose estimation approach. [\[PDF\]](https://arxiv.org/pdf/2011.04307) [\[Code\]](https://github.com/ybkscht/EfficientPose)
 _Yannick Bukschat, Marcus Vetter_
 ##### • [\[arXiv:2011.00372\]](https://arxiv.org/abs/2011.00372) Pose Estimation of Specular and Symmetrical Objects. [\[PDF\]](https://arxiv.org/pdf/2011.00372)
 _Jiaming Hu, Hongyi Ling, Priyam Parashar, Aayush Naik, Henrik Christensen_
 ##### • [\[arXiv:2010.16117\]](https://arxiv.org/abs/2010.16117) PyraPose: Feature Pyramids for Fast and Accurate Object Pose Estimation under Domain Shift. [\[PDF\]](https://arxiv.org/pdf/2010.16117)
 _Stefan Thalhammer, Markus Leitner, Timothy Patten, Markus Vincze_
-##### • [\[arXiv:2010.12807\]](https://arxiv.org/abs/2010.12807) REDE: End-to-end Object 6D Pose Robust Estimation Using Differentiable Outliers Elimination. [\[PDF\]](https://arxiv.org/pdf/2010.12807)
-_Weitong Hua, Zhongxiang Zhou, Jun Wu, Yue Wang, Rong Xiong_
 ##### • [\[arXiv:2010.09355\]](https://arxiv.org/abs/2010.09355) SHREC 2020 track: 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2010.09355)
 _Honglin Yuan, Remco C. Veltkamp, Georgios Albanis, Nikolaos Zioulis, Dimitrios Zarpalas, Petros Daras_
 ##### • [\[arXiv:2010.00829\]](https://arxiv.org/abs/2010.00829) Continuous close-range 3D object pose estimation. [\[PDF\]](https://arxiv.org/pdf/2010.00829)
@@ -133,8 +127,6 @@ _Bjarne Grossmann, Francesco Rovida, Volker Krueger_
 _Benjamin Busam, Hyun Jun Jung, Nassir Navab_
 ##### • [\[arXiv:2009.06887\]](https://arxiv.org/abs/2009.06887) 3DPVNet: Patch-level 3D Hough Voting Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2009.06887)
 _Yuanpeng Liu, Jun Zhou, Yuqi Zhang, Chao Ding, Jun Wang_
-##### • [\[arXiv:2008.08465\]](https://arxiv.org/abs/2008.08465) CosyPose: Consistent multi-view multi-object 6D pose estimation. [\[PDF\]](https://arxiv.org/pdf/2008.08465)
-_Yann Labbé, Justin Carpentier, Mathieu Aubry, Josef Sivic_
 ##### • [\[arXiv:2008.08391\]](https://arxiv.org/abs/2008.08391) Robust RGB-based 6-DoF Pose Estimation without Real Pose Annotations. [\[PDF\]](https://arxiv.org/pdf/2008.08391)
 _Zhigang Li, Yinlin Hu, Mathieu Salzmann, Xiangyang Ji_
 ##### • [\[arXiv:2008.05242\]](https://arxiv.org/abs/2008.05242) PAM:Point-wise Attention Module for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2008.05242)
@@ -360,6 +352,9 @@ _Han Xue, Liu Liu, Wenqiang Xu, Haoyuan Fu, Cewu Lu_
  [\[back to top\]](#contents)
 
 ### 2020 ECCV
+
+##### • CosyPose: Consistent multi-view multi-object 6D pose estimation. [\[PDF\]](https://arxiv.org/pdf/2008.08465) [\[Project\]](https://www.di.ens.fr/willow/research/cosypose/) [\[Code\]](https://github.com/ylabbe/cosypose)
+ _Yann Labbé, Justin Carpentier, Mathieu Aubry, and Josef Sivic_
 
 ##### • Self6D: Self-Supervised Monocular 6D Object Pose Estimation. [\[PDF\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460103.pdf)
  _Gu Wang, Fabian Manhardt, Jianzhun Shao, Xiangyang Ji, Nassir Navab , Federico Tombari_
