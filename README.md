@@ -1,6 +1,6 @@
 # Awesome Object Pose Estimation and Reconstruction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of related resources for 6d object pose estimation, also including 3d objects reconstruction from a single view, and hand-object reconstruction. Since the reconstruction of the human body is similar to that of objects, I also collect some papers about human body, but I will not pay more attention to it. 🔥 means new update.
+A curated list of related resources for 6D object pose estimation, also including 3D objects reconstruction from a single view, and 3D hand-object pose estimation. 🔥 means new update.
 
 Due to my personal interests, geometry-based work (SFM-based or SLAM-based work) are not collected here. Those papers can be found [here](https://github.com/openMVG/awesome_3DReconstruction_list).
 
@@ -69,8 +69,6 @@ _Apoorva Beedu, Zhile Ren, Varun Agrawal, Irfan Essa_
 _Zhaoxin Fan, Zhengbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu, Jun He_
 ##### • [\[arXiv:2111.09378\]](https://arxiv.org/abs/2111.09378) MPF6D: Masked Pyramid Fusion 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2111.09378)
 _Nuno Pereira, Luís A. Alexandre_
-##### • [\[arXiv:2111.07383\]](https://arxiv.org/abs/2111.07383) Sparse Steerable Convolutions: An Efficient Learning of SE(3)-Equivariant Features for Estimation and Tracking of Object Poses in 3D Space. [\[PDF\]](https://arxiv.org/pdf/2111.07383)
-_Jiehong Lin, Hongyang Li, Ke Chen, Jiangbo Lu, Kui Jia_
 ##### • [\[arXiv:2111.07383\]](https://arxiv.org/abs/2111.07383) Sparse Steerable Convolutions: An Efficient Learning of SE(3)-Equivariant Features for Estimation and Tracking of Object Poses in 3D Space. [\[PDF\]](https://arxiv.org/pdf/2111.07383)
 _Jiehong Lin, Hongyang Li, Ke Chen, Jiangbo Lu, Kui Jia_
 ##### • [\[arXiv:2111.06276\]](https://arxiv.org/abs/2111.06276) 6D Pose Estimation with Combined Deep Learning and 3D Vision Techniques for a Fast and Accurate Object Grasping. [\[PDF\]](https://arxiv.org/pdf/2111.06276)
