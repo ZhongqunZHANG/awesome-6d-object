@@ -21,7 +21,7 @@ Some awesome open-source demos ([NOCS](https://hughw19.github.io/NOCS_CVPR2019) 
  - [arXiv Papers🔥](#arxiv-papers)
  - [Journal Papers](#journal-papers)
    - [TPAMI / IJCV🔥](#tpami--ijcv)
-   - [Others](#other-journals)
+   - [Others🔥](#other-journals)
  - [Conference Papers](#conference-papers)
    - 2021: [CVPR](#2021-cvpr), [ICCV🔥](#2021-iccv), [ICRA🔥](#2021-icra), [IROS🔥](#2021-iros), [Others](#2021-others)
    - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [Others](#2020-others)
@@ -196,6 +196,8 @@ _Jonathan Hexner & Rami R. Hagege_
 
 ### Other Journals
 
+##### • \[2022 TIP\] Towards Real-World Category-level Articulation Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2105.03260.pdf)
+_Liu Liu , Han Xue , Wenqiang Xu , Haoyuan Fu , Cewu Lu_
 ##### • \[2021 IEEE Transactions on Robotics\] PoseRBPF: A Rao–Blackwellized Particle Filter for 6-D Object Pose Tracking. [\[PDF\]](https://ieeexplore.ieee.org/iel7/8860/4359257/09363455.pdf)
 _Xinke Deng, Arsalan Mousavian, Yu Xiang, Fei Xia, Timothy Bretl, Dieter Fox_
 ##### • \[2020 TIP\] Domain-Translated 3D Object Pose Estimation. [\[PDF\]](https://doi.org/10.1109/TIP.2020.3025447)
