@@ -198,10 +198,12 @@ _Jonathan Hexner & Rami R. Hagege_
 
 ##### • \[2022 TIP\] Towards Real-World Category-level Articulation Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2105.03260.pdf)
 _Liu Liu , Han Xue , Wenqiang Xu , Haoyuan Fu , Cewu Lu_
+##### • \[2022 Transactions on MultiMedia\] A Novel Depth and Color Feature Fusion Framework for 6D Object Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9115222)
+_Guangliang Zhou, Yi Yan, Deming Wang, and Qijun Chen_
 ##### • \[2021 IEEE Transactions on Robotics\] PoseRBPF: A Rao–Blackwellized Particle Filter for 6-D Object Pose Tracking. [\[PDF\]](https://ieeexplore.ieee.org/iel7/8860/4359257/09363455.pdf)
 _Xinke Deng, Arsalan Mousavian, Yu Xiang, Fei Xia, Timothy Bretl, Dieter Fox_
 ##### • \[2022 TIP\] Efficient Center Voting for Object Detection and 6D Pose Estimation in 3D Point Cloud. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9429889)
-_Liu Liu , Han Xue , Wenqiang Xu , Haoyuan Fu , Cewu Lu_
+_Jianwei Guo, Xuejun Xing, Weize Quan, Dong-Ming Yan, Qingyi Gu , Yang Liu, and Xiaopeng Zhang_
 ##### • \[2020 TIP\] Domain-Translated 3D Object Pose Estimation. [\[PDF\]](https://doi.org/10.1109/TIP.2020.3025447)
 _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
