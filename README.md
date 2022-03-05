@@ -196,6 +196,8 @@ _Jonathan Hexner & Rami R. Hagege_
 
 ### Other Journals
 
+##### • \[2022 RAL\] iCaps: Iterative Category-level Object Pose and Shape Estimation. [\[PDF\]](https://arxiv.org/pdf/2201.00059.pdf)
+_X Deng, J Geng, T Bretl, Y Xiang, D Fox_
 ##### • \[2022 TIP\] Towards Real-World Category-level Articulation Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2105.03260.pdf)
 _Liu Liu , Han Xue , Wenqiang Xu , Haoyuan Fu , Cewu Lu_
 ##### • \[2022 Transactions on MultiMedia\] A Novel Depth and Color Feature Fusion Framework for 6D Object Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9115222)
