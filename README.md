@@ -18,12 +18,13 @@ Some awesome open-source demos ([NOCS](https://hughw19.github.io/NOCS_CVPR2019) 
 
 ## Contents
  <!-- - [Evaluation](#evaluation) -->
- - [arXiv Papers🔥](#arxiv-papers)
+ - [arXiv Papers](#arxiv-papers)
  - [Journal Papers](#journal-papers)
    - [TPAMI / IJCV🔥](#tpami--ijcv)
    - [Others🔥](#other-journals)
  - [Conference Papers](#conference-papers)
-   - 2021: [CVPR](#2021-cvpr), [ICCV🔥](#2021-iccv), [ICRA🔥](#2021-icra), [IROS🔥](#2021-iros), [Others](#2021-others)
+   - 2022: [CVPR🔥](#2021-cvpr)
+   - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv), [ICRA](#2021-icra), [IROS](#2021-iros), [Others](#2021-others)
    - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [Others](#2020-others)
    - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv), [Others](#2019-others)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
@@ -49,7 +50,7 @@ Some awesome open-source demos ([NOCS](https://hughw19.github.io/NOCS_CVPR2019) 
    - [BOP Challenge 2019](#BOP-Challenge-2019)
      - Documents
  - [Researchers](#Researchers)
-   - [U.S./Canada🔥](#U.S./Canada)
+   - [U.S./Canada](#U.S./Canada)
    - [Europe](#Europe)
    - [Asia](#Asia)
    - [Australia](#Australia)
@@ -213,6 +214,21 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 [\[back to top\]](#contents)
 
 ## Conference Papers
+
+### 2022 CVPR
+
+##### • [2022 CVPR] ZebraPose: Coarse to Fine Surface Encoding for 6DoF Object Pose Estimation. [\[PDF\]]()
+_Yongzhi Su, Mahdi Saleh, Torben Fetzer, Jason Rambach, Benjamin Busam, Nassir Navab, Didier Stricker, Federico Tombari_
+##### • [2022 CVPR] OSOP: A Multi-Stage One Shot Object Pose Estimation Framework. [\[PDF\]]()
+_Ivan Shugurov, Fu Li, Benjamin Busam, Slobodan Ilic_
+##### • [2022 CVPR] CroMo: Cross-Modal Learning for Monocular Depth Estimation. [\[PDF\]]()
+_Yannick Verdie, Jifei Song, Barnabé Mas, Benjamin Busam, Ales Leonardis, Steven McDonagh_
+##### • [2022 CVPR] GPV-Pose: Category-level Object Pose Estimation via Geometry-guided Point-wise Voting. [\[PDF\]]()
+_Yan Di, Ruida Zhang, Zhiqiang Lou, Fabian Manhardt, Xiangyang Ji, Nassir Navab, Federico Tombari_
+
+
+[\[back to top\]](#contents)
+
 
 ### 2021 ICCV
 
