@@ -217,6 +217,8 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 ### 2022 CVPR
 
+##### • [2022 CVPR] Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects. [\[PDF\]](https://arxiv.org/pdf/2203.05334v1.pdf)
+_Manuel Stoiber, Martin Sundermeyer, and Rudolph Triebel_
 ##### • [2022 CVPR] ZebraPose: Coarse to Fine Surface Encoding for 6DoF Object Pose Estimation. [\[PDF\]]()
 _Yongzhi Su, Mahdi Saleh, Torben Fetzer, Jason Rambach, Benjamin Busam, Nassir Navab, Didier Stricker, Federico Tombari_
 ##### • [2022 CVPR] OSOP: A Multi-Stage One Shot Object Pose Estimation Framework. [\[PDF\]]()
@@ -225,6 +227,7 @@ _Ivan Shugurov, Fu Li, Benjamin Busam, Slobodan Ilic_
 _Yannick Verdie, Jifei Song, Barnabé Mas, Benjamin Busam, Ales Leonardis, Steven McDonagh_
 ##### • [2022 CVPR] GPV-Pose: Category-level Object Pose Estimation via Geometry-guided Point-wise Voting. [\[PDF\]]()
 _Yan Di, Ruida Zhang, Zhiqiang Lou, Fabian Manhardt, Xiangyang Ji, Nassir Navab, Federico Tombari_
+
 
 
 [\[back to top\]](#contents)
