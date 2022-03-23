@@ -227,6 +227,8 @@ _Ivan Shugurov, Fu Li, Benjamin Busam, Slobodan Ilic_
 _Yannick Verdie, Jifei Song, Barnabé Mas, Benjamin Busam, Ales Leonardis, Steven McDonagh_
 ##### • [2022 CVPR] GPV-Pose: Category-level Object Pose Estimation via Geometry-guided Point-wise Voting. [\[PDF\]]()
 _Yan Di, Ruida Zhang, Zhiqiang Lou, Fabian Manhardt, Xiangyang Ji, Nassir Navab, Federico Tombari_
+##### • [2022 CVPR] OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.01072.pdf)
+_Dingding Cai, Janne Heikkila, Esa Rahtu_
 
 
 
