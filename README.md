@@ -217,15 +217,43 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 ### 2022 CVPR
 
+##### • [2022 CVPR] Focal length and object pose estimation via render and compare. [\[PDF\]]()
+_Georgy E. Ponimatkin; Yann Labbe; Mathieu Aubry; Bryan Russell; Josef Sivic_
+##### • [2022 CVPR] RNNPose: Recurrent 6-DoF Object Pose Refinement with Robust Correspondence Field Estimation and Pose Optimization. [\[PDF\]](https://arxiv.org/pdf/2203.12870.pdf)
+_Yan Xu, Kwan-Yee Lin, Guofeng Zhang, Xiaogang Wang, Hongsheng Li_
+##### • [2022 CVPR] UDA-COPE: Unsupervised Domain Adaptation for Category-level Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2111.12580.pdf)
+_Taeyeop Lee, Byeong-Uk Lee, Inkyu Shin, Jaesung Choe, Ukcheol Shin, In So Kweon, Kuk-Jin Yoon_
+##### • [2022 CVPR] Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions. [\[PDF\]](https://arxiv.org/pdf/2203.17234.pdf)
+_Van Nguyen Nguyen, Yinlin Hu, Yang Xiao, Mathieu Salzmann, Vincent Lepetit_
+##### • [2022 CVPR] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.13254.pdf)
+_Hansheng Chen, Pichao Wang, Fan Wang, Wei Tian, Lu Xiong, Hao Li_
+##### • [2022 CVPR] OnePose: One-Shot Object Pose Estimation without CAD Models. [\[PDF\]]()
+_Jiaming Sun, Zihao Wang, Siyu Zhang, Xingyi He, Hongcheng Zhao, Guofeng Zhang, Xiaowei Zhou_
+##### • [2022 CVPR] SurfEmb: Dense and Continuous Correspondence Distributions for Object Pose Estimation with Learnt Surface Embeddings. [\[PDF\]](https://arxiv.org/pdf/2111.13489.pdf)
+_Rasmus Laurvig Haugaard, Anders Glent Buch_
+##### • [2022 CVPR] PhoCaL: A Multi-Modal Dataset for Category-Level Object Pose Estimation with Photometrically Challenging Objects. [\[PDF\]]()
+_Pengyuan Wang, HyunJun Jung, Yitong Li, Siyuan Shen, Rahul Parthasarathy Srikanth, Lorenzo Garattoni, Sven Meier, Nassir Navab, Benjamin Busam_
+##### • [2022 CVPR] Uni6D: A Unified CNN Framework without Projection Breakdown in 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.14531.pdf)
+_Xiaoke Jiang, Donghai Li, Hao Chen, Ye Zheng, Rui Zhao, Liwei Wu_
+##### • [2022 CVPR] Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation. [\[PDF\]]()
+_Nathaniel W Merrill, Yuliang Guo, Xingxing Zuo, Xinyu Huang, Stefan Leutenegger, Xi Peng, Liu Ren, Guoquan Huang_
+##### • [2022 CVPR] DGECN: A Depth-Guided Edge Convolutional Network For End-to-End 6D Pose Estimation. [\[PDF\]]()
+_Tuo Cao, Fei Luo, Yanping Fu, Wenxiao Zhang, Shengjie Zheng, Chunxia Xiao_
+##### • [2022 CVPR] SAR-Net: Shape Alignment and Recovery Network for Category-level 6D Object Pose and Size Estimation. [\[PDF\]]()
+_Haitao Lin, Zichang Liu, Chilam Cheang, Yanwei Fu, Guodong Guo, Xiangyang Xue_
+##### • [2022 CVPR] ES6D: A Computation Efficient and Symmetry-Aware 6D Pose Regression Framework. [\[PDF\]]()
+_Ningkai Mo, Wanshui Gan, Naoto Yokoya, Shifeng Chen_
+##### • [2022 CVPR] FS6D: Few-Shot 6D Pose Estimation of Novel Objects. [\[PDF\]](https://arxiv.org/pdf/2203.14628.pdf) [\[Project\]](https://fs6d.github.io/)
+_Yisheng He, Yao Wang, Haoqiang Fan, Jian Sun, Qifeng Chen_
+##### • [2022 CVPR] Coupled Iterative Refinement for 6D Multi-Object Pose Estimation. [\[PDF\]]()
+_Lahav O Lipson, Zachary Teed, Ankit Goyal, Jia Deng_
 ##### • [2022 CVPR] Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects. [\[PDF\]](https://arxiv.org/pdf/2203.05334v1.pdf)
 _Manuel Stoiber, Martin Sundermeyer, and Rudolph Triebel_
-##### • [2022 CVPR] ZebraPose: Coarse to Fine Surface Encoding for 6DoF Object Pose Estimation. [\[PDF\]]()
+##### • [2022 CVPR] ZebraPose: Coarse to Fine Surface Encoding for 6DoF Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.09418.pdf)
 _Yongzhi Su, Mahdi Saleh, Torben Fetzer, Jason Rambach, Benjamin Busam, Nassir Navab, Didier Stricker, Federico Tombari_
-##### • [2022 CVPR] OSOP: A Multi-Stage One Shot Object Pose Estimation Framework. [\[PDF\]]()
+##### • [2022 CVPR] OSOP: A Multi-Stage One Shot Object Pose Estimation Framework. [\[PDF\]](https://arxiv.org/pdf/2203.15533.pdf)
 _Ivan Shugurov, Fu Li, Benjamin Busam, Slobodan Ilic_
-##### • [2022 CVPR] CroMo: Cross-Modal Learning for Monocular Depth Estimation. [\[PDF\]]()
-_Yannick Verdie, Jifei Song, Barnabé Mas, Benjamin Busam, Ales Leonardis, Steven McDonagh_
-##### • [2022 CVPR] GPV-Pose: Category-level Object Pose Estimation via Geometry-guided Point-wise Voting. [\[PDF\]]()
+##### • [2022 CVPR] GPV-Pose: Category-level Object Pose Estimation via Geometry-guided Point-wise Voting. [\[PDF\]](https://arxiv.org/pdf/2203.07918.pdf)
 _Yan Di, Ruida Zhang, Zhiqiang Lou, Fabian Manhardt, Xiangyang Ji, Nassir Navab, Federico Tombari_
 ##### • [2022 CVPR] OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.01072.pdf)
 _Dingding Cai, Janne Heikkila, Esa Rahtu_
