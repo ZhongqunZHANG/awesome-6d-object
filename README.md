@@ -62,6 +62,36 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2203.04424\]](https://arxiv.org/abs/2203.04424) Probabilistic Rotation Representation With an Efficiently Computable Bingham Loss Function and Its Application to Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.04424)
+_Ziqi Lu, Yihao Zhang, Kevin Doherty, Odin Severinsen, Ethan Yang, John Leonard_
+##### • [\[arXiv:2203.04424\]](https://arxiv.org/abs/2203.04424) SLAM-Supported Self-Training for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.04424)
+_Ziqi Lu, Yihao Zhang, Kevin Doherty, Odin Severinsen, Ethan Yang, John Leonard_
+##### • [\[arXiv:2203.03498\]](https://arxiv.org/abs/2203.03498) Weakly Supervised Learning of Keypoints for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.03498)
+_Meng Tian, Gim Hee Lee_
+##### • [\[arXiv:2203.02069\]](https://arxiv.org/abs/2203.02069) Sim2Real Instance-Level Style Transfer for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.02069)
+_Takuya Ikeda, Suomi Tanishige, Ayako Amma, Michael Sudano, Hervé Audren, Koichi Nishiwaki_
+##### • [\[arXiv:2203.01051\]](https://arxiv.org/abs/2203.01051) 3D object reconstruction and 6D-pose estimation from 2D shape for robotic grasping of objects. [\[PDF\]](https://arxiv.org/pdf/2203.01051)
+_Marcell Wolnitza, Osman Kaya, Tomas Kulvicius, Florentin Wörgötter, Babette Dellen_
+##### • [\[arXiv:2203.00945\]](https://arxiv.org/abs/2203.00945) ParaPose: Parameter and Domain Randomization Optimization for Pose Estimation using Synthetic Data. [\[PDF\]](https://arxiv.org/pdf/2203.00945)
+_Frederik Hagelskjaer, Anders Glent Buch_
+##### • [\[arXiv:2203.00302\]](https://arxiv.org/abs/2203.00302) Adversarial samples for deep monocular 6D object pose estimation. [\[PDF\]](https://arxiv.org/pdf/2203.00302)
+_Jinlai Zhang, Weiming Li, Shuang Liang, Hao Wang, Jihong Zhu_
+##### • [\[arXiv:2203.00283\]](https://arxiv.org/abs/2203.00283) ProgressLabeller: Visual Data Stream Annotation for Training Object-Centric 3D Perception. [\[PDF\]](https://arxiv.org/pdf/2203.00283)
+_Xiaotong Chen, Huijie Zhang, Zeren Yu, Stanley Lewis, Odest Chadwicke Jenkins_
+##### • [\[arXiv:2202.12555\]](https://arxiv.org/abs/2202.12555) 6D Rotation Representation For Unconstrained Head Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2202.12555) [\[Code\]](https://github.com/thohemp/6DRepNet)
+_Thorsten Hempel, Ahmed A. Abdelrahman, Ayoub Al-Hamadi_
+##### • [\[arXiv:2202.10346\]](https://arxiv.org/abs/2202.10346) On the Evaluation of RGB-D-based Categorical Pose and Shape Estimation. [\[PDF\]](https://arxiv.org/pdf/2202.10346)
+_Leonard Bruns, Patric Jensfelt_
+##### • [\[arXiv:2202.03574\]](https://arxiv.org/abs/2202.03574) Structured Prediction Problem Archive. [\[PDF\]](https://arxiv.org/pdf/2202.03574)
+_Paul Swoboda, Andrea Hornakova, Paul Roetzer, Bogdan Savchynskyy, Ahmed Abbas_
+##### • [\[arXiv:2201.13065\]](https://arxiv.org/abs/2201.13065) Rigidity Preserving Image Transformations and Equivariance in Perspective. [\[PDF\]](https://arxiv.org/pdf/2201.13065)
+_Xinke Deng, Junyi Geng, Timothy Bretl, Yu Xiang, Dieter Fox_
+##### • [\[arXiv:2201.00059\]](https://arxiv.org/abs/2201.00059) iCaps: Iterative Category-level Object Pose and Shape Estimation. [\[PDF\]](https://arxiv.org/pdf/2201.00059)
+_Xinke Deng, Junyi Geng, Timothy Bretl, Yu Xiang, Dieter Fox_
+##### • [\[arXiv:2112.15075\]](https://arxiv.org/abs/2112.15075) Pose Estimation of Specific Rigid Objects. [\[PDF\]](https://arxiv.org/pdf/2112.15075)
+_Tomas Hodan_
+##### • [\[arXiv:2112.03810\]](https://arxiv.org/abs/2112.03810) Polarimetric Pose Prediction. [\[PDF\]](https://arxiv.org/pdf/2112.03810)
+_Daoyi Gao, Yitong Li, Patrick Ruhkamp, Iuliia Skobleva, Magdalena Wysock, HyunJun Jung, Pengyuan Wang, Arturo Guridi, Nassir Navab, Benjamin Busamh_
 ##### • [\[arXiv:2111.13489\]](https://arxiv.org/abs/2111.10677) SurfEmb: Dense and Continuous Correspondence Distributions for Object Pose Estimation with Learnt Surface Embeddings. [\[PDF\]](https://arxiv.org/pdf/2111.13489)
 _Rasmus Laurvig Haugaard, Anders Glent Buch_
 ##### • [\[arXiv:2111.10677\]](https://arxiv.org/abs/2111.10677) VideoPose: Estimating 6D object pose from videos. [\[PDF\]](https://arxiv.org/pdf/2111.10677)
@@ -258,6 +288,28 @@ _Yan Di, Ruida Zhang, Zhiqiang Lou, Fabian Manhardt, Xiangyang Ji, Nassir Navab,
 ##### • [2022 CVPR] OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.01072.pdf)
 _Dingding Cai, Janne Heikkila, Esa Rahtu_
 
+
+
+[\[back to top\]](#contents)
+
+### 2022 ICRA
+
+##### • [2022 ICRA] TP-AE: Temporally Primed 6D Object Pose Tracking with Auto-Encoders. [\[PDF\]](http://pure-oai.bham.ac.uk/ws/portalfiles/portal/164770788/_ICRA_TP_AE_6D_Object_Tracking.pdf)
+_Zheng, Linfang, Leonardis, Ales, Tse, Tze Ho Elden, Horanyi, Nora, Chen, Hua, Zhang, Wei, and Chang, Hyung Jin_
+##### • [2022 ICRA] CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.01929)
+_Muhammad Zubair Irshad, Thomas Kollar, Michael Laskey, Kevin Stone, Zsolt Kira_
+
+[\[back to top\]](#contents)
+
+
+### 2022 Others
+
+##### • [2022 AAAI] Sim2Real Object-Centric Keypoint Detection and Description. [\[PDF\]](https://arxiv.org/pdf/2202.00448)
+_Chengliang Zhong, Chao Yang, Jinshan Qi, Fuchun Sun, Huaping Liu, Xiaodong Mu, Wenbing Huang_
+##### • [2022 VISAPP] Combining Local and Global Pose Estimation for Precise Tracking of Similar Objects. [\[PDF\]](https://arxiv.org/pdf/2201.13278)
+_Niklas Gard, Anna Hilsmann, Peter Eisert_
+##### • [2022 VISAPP] Towards Deep Learning-based 6D Bin Pose Estimation in 3D Scans. [\[PDF\]](https://arxiv.org/pdf/2112.09598)
+_Lukáš Gajdošech, Viktor Kocur, Martin Stuchlík, Lukáš Hudec, Martin Madaras_
 
 
 [\[back to top\]](#contents)
