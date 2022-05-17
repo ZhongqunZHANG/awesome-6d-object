@@ -62,6 +62,20 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2205.02536\]](https://arxiv.org/abs/2205.02536) YOLOPose: Transformer-based Multi-Object 6D Pose Estimation using Keypoint Regression. [\[PDF\]](https://arxiv.org/pdf/2205.02536)
+_Arash Amini, Arul Selvam Periyasamy, Sven Behnke_
+##### • [\[arXiv:2204.09429\]](https://arxiv.org/abs/2204.09429) HRPose: Real-Time High-Resolution 6D Pose Estimation Network Using Knowledge Distillation. [\[PDF\]](https://arxiv.org/pdf/2204.09429)
+_Qi Guan, Zihao Sheng, Shibei Xue_
+##### • [\[arXiv:2204.07049\]](https://arxiv.org/abs/2204.07049) Sim-to-Real 6D Object Pose Estimation via Iterative Self-training for Robotic Bin-picking. [\[PDF\]](https://arxiv.org/pdf/2204.07049)
+_Kai Chen, Rui Cao, Stephen James, Yichuan Li, Yun-Hui Liu, Pieter Abbeel, Qi Dou_
+##### • [\[arXiv:2204.01586\]](https://arxiv.org/abs/2204.01586) Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/2204.01586)
+_Zhaoxin Fan, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu, Jun He_
+##### • [\[arXiv:2203.15309\]](https://arxiv.org/abs/2203.15309) Learning-based Point Cloud Registration for 6D Object Pose Estimation in the Real World. [\[PDF\]](https://arxiv.org/pdf/2203.15309)
+_Zheng Dang, Lizhou Wang, Yu Guo, Mathieu Salzmann_
+##### • [\[arXiv:2203.09836\]](https://arxiv.org/abs/2203.09836) Perspective Flow Aggregation for Data-Limited 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.09836)
+_Yinlin Hu, Pascal Fua, Mathieu Salzmann_
+##### • [\[arXiv:2203.04802\]](https://arxiv.org/abs/2203.04802) NeRF-Pose: A First-Reconstruct-Then-Regress Approach for Weakly-supervised 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.04802)
+_Fu Li, Hao Yu, Ivan Shugurov, Benjamin Busam, Shaowu Yang, Slobodan Ilic_
 ##### • [\[arXiv:2203.04424\]](https://arxiv.org/abs/2203.04424) Probabilistic Rotation Representation With an Efficiently Computable Bingham Loss Function and Its Application to Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.04424)
 _Ziqi Lu, Yihao Zhang, Kevin Doherty, Odin Severinsen, Ethan Yang, John Leonard_
 ##### • [\[arXiv:2203.04424\]](https://arxiv.org/abs/2203.04424) SLAM-Supported Self-Training for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.04424)
@@ -301,9 +315,18 @@ _Muhammad Zubair Irshad, Thomas Kollar, Michael Laskey, Kevin Stone, Zsolt Kira_
 
 [\[back to top\]](#contents)
 
+### 2022 IROS
+
+##### • [2022 IROS] Category-agnostic Segmentation for Robotic Grasping. [\[PDF\]](https://arxiv.org/pdf/2204.13613)
+_Anas Gouda, Abraham Ghanem, Christopher Reining_
+
+[\[back to top\]](#contents)
+
 
 ### 2022 Others
 
+##### • [2022 IJCAI] BiCo-Net: Regress Globally, Match Locally for Robust 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2205.03536)
+_Zelin Xu, Yichen Zhang, Ke Chen, Kui Jia_
 ##### • [2022 AAAI] Sim2Real Object-Centric Keypoint Detection and Description. [\[PDF\]](https://arxiv.org/pdf/2202.00448)
 _Chengliang Zhong, Chao Yang, Jinshan Qi, Fuchun Sun, Huaping Liu, Xiaodong Mu, Wenbing Huang_
 ##### • [2022 VISAPP] Combining Local and Global Pose Estimation for Precise Tracking of Similar Objects. [\[PDF\]](https://arxiv.org/pdf/2201.13278)
