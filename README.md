@@ -301,6 +301,8 @@ _Ivan Shugurov, Fu Li, Benjamin Busam, Slobodan Ilic_
 _Yan Di, Ruida Zhang, Zhiqiang Lou, Fabian Manhardt, Xiangyang Ji, Nassir Navab, Federico Tombari_
 ##### • [2022 CVPR] OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.01072.pdf)
 _Dingding Cai, Janne Heikkila, Esa Rahtu_
+##### • [2022 CVPR] Understanding 3D Object Articulation in Internet Videos. [\[PDF\]](https://arxiv.org/pdf/2203.16531.pdf) [\[Code\]](https://github.com/JasonQSY/Articulation3D) [\[Project\]](https://jasonqsy.github.io/Articulation3D/)
+_Shengyi Qian, Linyi Jin, Chris Rockwell, Siyi Chen, David F. Fouhey_
 
 
 
