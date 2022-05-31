@@ -318,6 +318,8 @@ _Shengyi Qian, Linyi Jin, Chris Rockwell, Siyi Chen, David F. Fouhey_
 _Zheng, Linfang, Leonardis, Ales, Tse, Tze Ho Elden, Horanyi, Nora, Chen, Hua, Zhang, Wei, and Chang, Hyung Jin_
 ##### • [2022 ICRA] CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.01929)
 _Muhammad Zubair Irshad, Thomas Kollar, Michael Laskey, Kevin Stone, Zsolt Kira_
+##### • [2022 ICRA] NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields. [\[PDF\]](https://arxiv.org/pdf/2203.01913) [\[Code\]](https://github.com/yenchenlin/nerf-supervision-public) [\[Project\]](https://yenchenlin.me/nerf-supervision/)
+_Lin Yen-Chen, Pete Florence, Jonathan T. Barron, Tsung-Yi Lin, Alberto Rodriguez, Phillip Isola_
 
 [\[back to top\]](#contents)
 
