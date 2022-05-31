@@ -72,6 +72,8 @@ _Kai Chen, Rui Cao, Stephen James, Yichuan Li, Yun-Hui Liu, Pieter Abbeel, Qi Do
 _Zhaoxin Fan, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu, Jun He_
 ##### • [\[arXiv:2203.15309\]](https://arxiv.org/abs/2203.15309) Learning-based Point Cloud Registration for 6D Object Pose Estimation in the Real World. [\[PDF\]](https://arxiv.org/pdf/2203.15309)
 _Zheng Dang, Lizhou Wang, Yu Guo, Mathieu Salzmann_
+##### • [\[arXiv:2203.17234\]](https://arxiv.org/abs/2203.17234) Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions. [\[PDF\]](https://arxiv.org/pdf/2203.17234)
+_VN Nguyen, Y Hu, Y Xiao, M Salzmann, V Lepetit_
 ##### • [\[arXiv:2203.09836\]](https://arxiv.org/abs/2203.09836) Perspective Flow Aggregation for Data-Limited 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.09836)
 _Yinlin Hu, Pascal Fua, Mathieu Salzmann_
 ##### • [\[arXiv:2203.04802\]](https://arxiv.org/abs/2203.04802) NeRF-Pose: A First-Reconstruct-Then-Regress Approach for Weakly-supervised 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.04802)
