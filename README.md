@@ -6,7 +6,11 @@ Due to my personal interests, geometry-based work (SFM-based or SLAM-based work)
 
 Another related paper list is about the hand pose estimation, which can be found [here](https://github.com/xinghaochen/awesome-hand-pose-estimation).
 
-Some awesome open-source demos ([NOCS](https://hughw19.github.io/NOCS_CVPR2019) and [BundleTrack](https://github.com/wenbowen123/BundleTrack) and [se(3)-TrackNet](https://github.com/wenbowen123/iros20-6d-pose-tracking))：
+Some awesome open-source demos ([CenterSnap](https://github.com/zubair-irshad/CenterSnap),  [NOCS](https://hughw19.github.io/NOCS_CVPR2019), [BundleTrack](https://github.com/wenbowen123/BundleTrack) and [se(3)-TrackNet](https://github.com/wenbowen123/iros20-6d-pose-tracking))：
+
+<p float="left">
+  <img src="./media/centersnap_reconstruction.gif" width="600" />
+</p>
 
 <p float="left">
   <img src="./media/6dtracking.gif" width="300" />
@@ -316,7 +320,7 @@ _Shengyi Qian, Linyi Jin, Chris Rockwell, Siyi Chen, David F. Fouhey_
 
 ##### • [2022 ICRA] TP-AE: Temporally Primed 6D Object Pose Tracking with Auto-Encoders. [\[PDF\]](http://pure-oai.bham.ac.uk/ws/portalfiles/portal/164770788/_ICRA_TP_AE_6D_Object_Tracking.pdf)
 _Zheng, Linfang, Leonardis, Ales, Tse, Tze Ho Elden, Horanyi, Nora, Chen, Hua, Zhang, Wei, and Chang, Hyung Jin_
-##### • [2022 ICRA] CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.01929)
+##### • [2022 ICRA] CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.01929) [\[Project\]](https://zubair-irshad.github.io/projects/CenterSnap.html) [\[Code\]](https://github.com/zubair-irshad/CenterSnap) [\[Video\]](https://www.youtube.com/watch?v=Bg5vi6DSMdM)
 _Muhammad Zubair Irshad, Thomas Kollar, Michael Laskey, Kevin Stone, Zsolt Kira_
 ##### • [2022 ICRA] NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields. [\[PDF\]](https://arxiv.org/pdf/2203.01913) [\[Code\]](https://github.com/yenchenlin/nerf-supervision-public) [\[Project\]](https://yenchenlin.me/nerf-supervision/)
 _Lin Yen-Chen, Pete Florence, Jonathan T. Barron, Tsung-Yi Lin, Alberto Rodriguez, Phillip Isola_
