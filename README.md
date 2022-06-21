@@ -269,7 +269,7 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 ### 2022 CVPR
 
-##### • [2022 CVPR Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.13254.pdf)
+##### • [2022 CVPR Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.13254.pdf) [\[Code\]](https://github.com/tjiiv-cprg/EPro-PnP)
 _Hansheng Chen, Pichao Wang, Fan Wang, Wei Tian, Lu Xiong, Hao Li_
 ##### • [2022 CVPR] Focal length and object pose estimation via render and compare. [\[PDF\]]()
 _Georgy E. Ponimatkin; Yann Labbe; Mathieu Aubry; Bryan Russell; Josef Sivic_
