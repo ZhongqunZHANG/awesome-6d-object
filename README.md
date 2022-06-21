@@ -269,6 +269,8 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 ### 2022 CVPR
 
+##### • [2022 CVPR Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.13254.pdf)
+_Hansheng Chen, Pichao Wang, Fan Wang, Wei Tian, Lu Xiong, Hao Li_
 ##### • [2022 CVPR] Focal length and object pose estimation via render and compare. [\[PDF\]]()
 _Georgy E. Ponimatkin; Yann Labbe; Mathieu Aubry; Bryan Russell; Josef Sivic_
 ##### • [2022 CVPR] RNNPose: Recurrent 6-DoF Object Pose Refinement with Robust Correspondence Field Estimation and Pose Optimization. [\[PDF\]](https://arxiv.org/pdf/2203.12870.pdf)
@@ -277,8 +279,6 @@ _Yan Xu, Kwan-Yee Lin, Guofeng Zhang, Xiaogang Wang, Hongsheng Li_
 _Taeyeop Lee, Byeong-Uk Lee, Inkyu Shin, Jaesung Choe, Ukcheol Shin, In So Kweon, Kuk-Jin Yoon_
 ##### • [2022 CVPR] Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions. [\[PDF\]](https://arxiv.org/pdf/2203.17234.pdf)
 _Van Nguyen Nguyen, Yinlin Hu, Yang Xiao, Mathieu Salzmann, Vincent Lepetit_
-##### • [2022 CVPR] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.13254.pdf)
-_Hansheng Chen, Pichao Wang, Fan Wang, Wei Tian, Lu Xiong, Hao Li_
 ##### • [2022 CVPR] OnePose: One-Shot Object Pose Estimation without CAD Models. [\[PDF\]]()
 _Jiaming Sun, Zihao Wang, Siyu Zhang, Xingyi He, Hongcheng Zhao, Guofeng Zhang, Xiaowei Zhou_
 ##### • [2022 CVPR] SurfEmb: Dense and Continuous Correspondence Distributions for Object Pose Estimation with Learnt Surface Embeddings. [\[PDF\]](https://arxiv.org/pdf/2111.13489.pdf)
