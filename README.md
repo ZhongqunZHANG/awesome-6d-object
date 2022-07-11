@@ -314,6 +314,12 @@ _Shengyi Qian, Linyi Jin, Chris Rockwell, Siyi Chen, David F. Fouhey_
 
 
 
+### 2022 ECCV
+
+##### • [2022 ECCV] Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images. [\[PDF\]](https://arxiv.org/pdf/2204.10776) [\[Code\]](https://github.com/liuyuan-pal/Gen6D) [\[Project\]](https://github.com/liuyuan-pal/Gen6D) [\[Dataset\]](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/yuanly_connect_hku_hk/EkWESLayIVdEov4YlVrRShQBkOVTJwgK0bjF7chFg2GrBg?e=Y8UpXu)
+_Yuan Liu, Yilin Wen, Sida Peng, Cheng Lin, Xiaoxiao Long, Taku Komura, Wenping Wang_
+
+
 [\[back to top\]](#contents)
 
 ### 2022 ICRA
