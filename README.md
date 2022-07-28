@@ -27,7 +27,7 @@ Some awesome open-source demos ([CenterSnap](https://github.com/zubair-irshad/Ce
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
-   - 2022: [ECCV🔥](#2022-eccv), [CVPR🔥](#2022-cvpr), [ICRA🔥](#2022-icra), [IROS🔥](#2022-iros), [Others🔥](#2022-others)
+   - 2022: [CVPR🔥](#2022-cvpr), [ECCV🔥](#2022-eccv), [ICRA🔥](#2022-icra), [IROS🔥](#2022-iros), [Others🔥](#2022-others)
    - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv), [ICRA](#2021-icra), [IROS](#2021-iros), [Others](#2021-others)
    - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [Others](#2020-others)
    - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv), [Others](#2019-others)
@@ -267,11 +267,9 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 ## Conference Papers
 
-### 2022 ECCV
-##### • [2022 ECCV] ShAPO :tophat:: Implicit Representations for Multi-Object Shape, Appearance, and Pose Optimization. [\[Webpage\]](https://zubair-irshad.github.io/projects/ShAPO.html) [\[PDF\]](https://arxiv.org/pdf/2207.13691.pdf)[\[Video\]](https://youtu.be/LMg7NDcLDcA)
-_Muhammad Zubair Irshad, Sergey Zakharov, Rares Ambrus, Thomas Kollar, Zsolt Kira, Adrien Gaidon_
-
 ### 2022 CVPR
+##### • [2022 CVPR Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.13254.pdf) [\[Code\]](https://github.com/tjiiv-cprg/EPro-PnP)
+_Hansheng Chen, Pichao Wang, Fan Wang, Wei Tian, Lu Xiong, Hao Li_
 ##### • [2022 CVPR] Focal length and object pose estimation via render and compare. [\[PDF\]]()
 _Georgy E. Ponimatkin; Yann Labbe; Mathieu Aubry; Bryan Russell; Josef Sivic_
 ##### • [2022 CVPR] RNNPose: Recurrent 6-DoF Object Pose Refinement with Robust Correspondence Field Estimation and Pose Optimization. [\[PDF\]](https://arxiv.org/pdf/2203.12870.pdf)
@@ -280,8 +278,6 @@ _Yan Xu, Kwan-Yee Lin, Guofeng Zhang, Xiaogang Wang, Hongsheng Li_
 _Taeyeop Lee, Byeong-Uk Lee, Inkyu Shin, Jaesung Choe, Ukcheol Shin, In So Kweon, Kuk-Jin Yoon_
 ##### • [2022 CVPR] Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions. [\[PDF\]](https://arxiv.org/pdf/2203.17234.pdf)
 _Van Nguyen Nguyen, Yinlin Hu, Yang Xiao, Mathieu Salzmann, Vincent Lepetit_
-##### • [2022 CVPR] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.13254.pdf)
-_Hansheng Chen, Pichao Wang, Fan Wang, Wei Tian, Lu Xiong, Hao Li_
 ##### • [2022 CVPR] OnePose: One-Shot Object Pose Estimation without CAD Models. [\[PDF\]]()
 _Jiaming Sun, Zihao Wang, Siyu Zhang, Xingyi He, Hongcheng Zhao, Guofeng Zhang, Xiaowei Zhou_
 ##### • [2022 CVPR] SurfEmb: Dense and Continuous Correspondence Distributions for Object Pose Estimation with Learnt Surface Embeddings. [\[PDF\]](https://arxiv.org/pdf/2111.13489.pdf)
@@ -316,6 +312,14 @@ _Dingding Cai, Janne Heikkila, Esa Rahtu_
 _Shengyi Qian, Linyi Jin, Chris Rockwell, Siyi Chen, David F. Fouhey_
 
 
+
+### 2022 ECCV
+
+##### • [2022 ECCV] ShAPO :tophat:: Implicit Representations for Multi-Object Shape, Appearance, and Pose Optimization. [\[Webpage\]](https://zubair-irshad.github.io/projects/ShAPO.html) [\[PDF\]](https://arxiv.org/pdf/2207.13691.pdf)[\[Video\]](https://youtu.be/LMg7NDcLDcA)
+_Muhammad Zubair Irshad, Sergey Zakharov, Rares Ambrus, Thomas Kollar, Zsolt Kira, Adrien Gaidon_
+
+##### • [2022 ECCV] Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images. [\[PDF\]](https://arxiv.org/pdf/2204.10776) [\[Code\]](https://github.com/liuyuan-pal/Gen6D) [\[Project\]](https://github.com/liuyuan-pal/Gen6D) [\[Dataset\]](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/yuanly_connect_hku_hk/EkWESLayIVdEov4YlVrRShQBkOVTJwgK0bjF7chFg2GrBg?e=Y8UpXu)
+_Yuan Liu, Yilin Wen, Sida Peng, Cheng Lin, Xiaoxiao Long, Taku Komura, Wenping Wang_
 
 [\[back to top\]](#contents)
 
