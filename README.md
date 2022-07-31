@@ -268,7 +268,6 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 ## Conference Papers
 
 ### 2022 CVPR
-
 ##### • [2022 CVPR Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.13254.pdf) [\[Code\]](https://github.com/tjiiv-cprg/EPro-PnP)
 _Hansheng Chen, Pichao Wang, Fan Wang, Wei Tian, Lu Xiong, Hao Li_
 ##### • [2022 CVPR] Focal length and object pose estimation via render and compare. [\[PDF\]]()
@@ -316,9 +315,11 @@ _Shengyi Qian, Linyi Jin, Chris Rockwell, Siyi Chen, David F. Fouhey_
 
 ### 2022 ECCV
 
+##### • [2022 ECCV] ShAPO :tophat:: Implicit Representations for Multi-Object Shape, Appearance, and Pose Optimization. [\[Webpage\]](https://zubair-irshad.github.io/projects/ShAPO.html) [\[PDF\]](https://arxiv.org/pdf/2207.13691.pdf)[\[Video\]](https://youtu.be/LMg7NDcLDcA)
+_Muhammad Zubair Irshad, Sergey Zakharov, Rares Ambrus, Thomas Kollar, Zsolt Kira, Adrien Gaidon_
+
 ##### • [2022 ECCV] Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images. [\[PDF\]](https://arxiv.org/pdf/2204.10776) [\[Code\]](https://github.com/liuyuan-pal/Gen6D) [\[Project\]](https://github.com/liuyuan-pal/Gen6D) [\[Dataset\]](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/yuanly_connect_hku_hk/EkWESLayIVdEov4YlVrRShQBkOVTJwgK0bjF7chFg2GrBg?e=Y8UpXu)
 _Yuan Liu, Yilin Wen, Sida Peng, Cheng Lin, Xiaoxiao Long, Taku Komura, Wenping Wang_
-
 
 [\[back to top\]](#contents)
 
