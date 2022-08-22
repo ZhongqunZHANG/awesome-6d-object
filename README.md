@@ -296,7 +296,7 @@ _Haitao Lin, Zichang Liu, Chilam Cheang, Yanwei Fu, Guodong Guo, Xiangyang Xue_
 _Ningkai Mo, Wanshui Gan, Naoto Yokoya, Shifeng Chen_
 ##### • [2022 CVPR] FS6D: Few-Shot 6D Pose Estimation of Novel Objects. [\[PDF\]](https://arxiv.org/pdf/2203.14628.pdf) [\[Project\]](https://fs6d.github.io/)
 _Yisheng He, Yao Wang, Haoqiang Fan, Jian Sun, Qifeng Chen_
-##### • [2022 CVPR] Coupled Iterative Refinement for 6D Multi-Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2204.12516) [\Code\]](https://github.com/princeton-vl/Coupled-Iterative-Refinement)
+##### • [2022 CVPR] Coupled Iterative Refinement for 6D Multi-Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2204.12516) [\[Code\]](https://github.com/princeton-vl/Coupled-Iterative-Refinement)
 _Lahav O Lipson, Zachary Teed, Ankit Goyal, Jia Deng_
 ##### • [2022 CVPR] Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects. [\[PDF\]](https://arxiv.org/pdf/2203.05334v1.pdf)
 _Manuel Stoiber, Martin Sundermeyer, and Rudolph Triebel_
