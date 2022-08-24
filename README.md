@@ -76,12 +76,6 @@ _Kai Chen, Rui Cao, Stephen James, Yichuan Li, Yun-Hui Liu, Pieter Abbeel, Qi Do
 _Zhaoxin Fan, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu, Jun He_
 ##### • [\[arXiv:2203.15309\]](https://arxiv.org/abs/2203.15309) Learning-based Point Cloud Registration for 6D Object Pose Estimation in the Real World. [\[PDF\]](https://arxiv.org/pdf/2203.15309)
 _Zheng Dang, Lizhou Wang, Yu Guo, Mathieu Salzmann_
-##### • [\[arXiv:2203.08472\]](https://arxiv.org/abs/2203.08472) Fusing Local Similarities for Retrieval-based 3D Orientation Estimation of Unseen Objects. [\[PDF\]](https://arxiv.org/pdf/2203.08472.pdf)
-_Chen Zhao, Yinlin Hu, and Mathieu Salzmann_
-##### • [\[arXiv:2203.17234\]](https://arxiv.org/abs/2203.17234) Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions. [\[PDF\]](https://arxiv.org/pdf/2203.17234)
-_VN Nguyen, Y Hu, Y Xiao, M Salzmann, V Lepetit_
-##### • [\[arXiv:2203.09836\]](https://arxiv.org/abs/2203.09836) Perspective Flow Aggregation for Data-Limited 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.09836)
-_Yinlin Hu, Pascal Fua, Mathieu Salzmann_
 ##### • [\[arXiv:2203.04802\]](https://arxiv.org/abs/2203.04802) NeRF-Pose: A First-Reconstruct-Then-Regress Approach for Weakly-supervised 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.04802)
 _Fu Li, Hao Yu, Ivan Shugurov, Benjamin Busam, Shaowu Yang, Slobodan Ilic_
 ##### • [\[arXiv:2203.04424\]](https://arxiv.org/abs/2203.04424) Probabilistic Rotation Representation With an Efficiently Computable Bingham Loss Function and Its Application to Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.04424)
@@ -114,7 +108,6 @@ _Xinke Deng, Junyi Geng, Timothy Bretl, Yu Xiang, Dieter Fox_
 _Tomas Hodan_
 ##### • [\[arXiv:2112.03810\]](https://arxiv.org/abs/2112.03810) Polarimetric Pose Prediction. [\[PDF\]](https://arxiv.org/pdf/2112.03810)
 _Daoyi Gao, Yitong Li, Patrick Ruhkamp, Iuliia Skobleva, Magdalena Wysock, HyunJun Jung, Pengyuan Wang, Arturo Guridi, Nassir Navab, Benjamin Busamh_
-##### • [\[arXiv:2111.13489\]](https://arxiv.org/abs/2111.10677) SurfEmb: Dense and Continuous Correspondence Distributions for Object Pose Estimation with Learnt Surface Embeddings. [\[PDF\]](https://arxiv.org/pdf/2111.13489)
 _Rasmus Laurvig Haugaard, Anders Glent Buch_
 ##### • [\[arXiv:2111.10677\]](https://arxiv.org/abs/2111.10677) VideoPose: Estimating 6D object pose from videos. [\[PDF\]](https://arxiv.org/pdf/2111.10677)
 _Apoorva Beedu, Zhile Ren, Varun Agrawal, Irfan Essa_
