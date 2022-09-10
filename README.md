@@ -323,6 +323,24 @@ _Lin Huang, Tomas Hodan, Lingni Ma, Linguang Zhang, Luan Tran, Christopher Twigg
 ##### • [2022 ECCV] Fusing Local Similarities for Retrieval-based 3D Orientation Estimation of Unseen Objects. [\[PDF\]](https://arxiv.org/abs/2203.08472) [\[Project\]](https://sailor-z.github.io/projects/Unseen_Object_Pose.html) [\[Code\]](https://github.com/sailor-z/Unseen_Object_Pose)
 _Chen Zhao, Yinlin Hu, Mathieu Salzmann_
 
+##### • [2022 ECCV] DProST: Dynamic Projective Spatial Transformer Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2112.08775) [\[Code\]](https://github.com/parkjaewoo0611/DProST)
+_Jaewoo Park, Nam Ik Cho_
+
+##### • [2022 ECCV] Category-Level 6D Object Pose and Size Estimation using Self-Supervised Deep Prior Deformation Networks. [\[PDF\]](https://arxiv.org/abs/2207.05444) [\[Code\]](https://github.com/jiehonglin/self-dpdn)
+_Jiehong Lin, Zewei Wei, Changxing Ding, Kui Jia_
+
+##### • [2022 ECCV] Vote from the Center: 6 DoF Pose Estimation in RGB-D Images by Radial Keypoint Voting. [\[PDF\]](https://arxiv.org/abs/2104.02527) [\[Code\]](https://github.com/aaronwool/rcvpose)
+_Yangzheng Wu, Mohsen Zand, Ali Etemad, Michael Greenspan_
+
+##### • [2022 ECCV] RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild. [\[PDF\]](https://arxiv.org/abs/2208.05963) [\[Project\]](https://jasonyzhang.com/relpose/) 
+_Jason Y. Zhang, Deva Ramanan, Shubham Tulsiani_
+
+##### • [2022 ECCV] RBP-Pose: Residual Bounding Box Projection for Category-Level Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2208.00237) [\[Code\]](https://github.com/lolrudy/RBP_Pose) 
+_Ruida Zhang, Yan Di, Zhiqiang Lou, Fabian Manhardt, Nassir Navab, Federico Tombari, Xiangyang Ji_
+
+##### • [2022 ECCV] CATRE: Iterative Point Clouds Alignment for Category-level Object Pose Refinement. [\[PDF\]](https://arxiv.org/abs/2207.08082) [\[Code\]](https://github.com/THU-DA-6D-Pose-Group/CATRE) 
+_Xingyu Liu, Gu Wang, Yi Li, Xiangyang Ji_
+
 [\[back to top\]](#contents)
 
 ### 2022 ICRA
