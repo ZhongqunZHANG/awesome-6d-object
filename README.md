@@ -127,8 +127,6 @@ _Xiaolong Li, Yijia Weng, Li Yi, Leonidas Guibas, A. Lynn Abbott, Shuran Song, H
 _Lu Zou, Zhangjin Huang, Naijie Gu, Guoping Wang_
 ##### • [\[arXiv:2110.00992\]](https://arxiv.org/pdf/2110.00992) Learning Stereopsis from Geometric Synthesis for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2110.00992)
 _Jun Wu, Lilu Liu, Yue Wang, Rong Xiong_
-##### • [\[arXiv:2107.12549\]](https://arxiv.org/abs/2107.12549) Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2107.12549)
-_Yilin Wen, Xiangyu Li, Hao Pan, Lei Yang, Zheng Wang, Taku Komura, Wenping Wang_
 ##### • [\[arXiv:2107.02057\]](https://arxiv.org/abs/2107.02057) 6D Object Pose Estimation using Keypoints and Part Affinity Fields. [\[PDF\]](https://arxiv.org/pdf/2107.02057)
 _Moritz Zappel, Simon Bultmann, Sven Behnke_
 ##### • [\[arXiv:2106.14193\]](https://arxiv.org/abs/2106.14193) DONet: Learning Category-Level 6D Object Pose and Size Estimation from Depth Observation. [\[PDF\]](https://arxiv.org/pdf/2106.14193)
@@ -340,6 +338,9 @@ _Ruida Zhang, Yan Di, Zhiqiang Lou, Fabian Manhardt, Nassir Navab, Federico Tomb
 
 ##### • [2022 ECCV] CATRE: Iterative Point Clouds Alignment for Category-level Object Pose Refinement. [\[PDF\]](https://arxiv.org/abs/2207.08082) [\[Code\]](https://github.com/THU-DA-6D-Pose-Group/CATRE) 
 _Xingyu Liu, Gu Wang, Yi Li, Xiangyang Ji_
+
+##### • [2022 ECCV] DISP6D: Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2107.12549) [\[Code\]](https://github.com/fylwen/DISP-6D) [\[Project\]](https://fylwen.github.io/disp6d.html) 
+_Yilin Wen, Xiangyu Li, Hao Pan, Lei Yang, Zheng Wang, Taku Komura, Wenping Wang_
 
 [\[back to top\]](#contents)
 
@@ -715,6 +716,8 @@ _Han Xue, Liu Liu, Wenqiang Xu, Haoyuan Fu, Cewu Lu_
 ### 2020 Others
 ##### • [2020 IROS] se(3)-TrackNet: Data-driven 6D Pose Tracking by Calibrating Image Residuals in Synthetic Domains. [\[PDF\]](https://arxiv.org/abs/2007.13866) [\[Code\]](https://github.com/wenbowen123/iros20-6d-pose-tracking)
  _Wen, Bowen and Mitash, Chaitanya and Ren, Baozhang and Bekris, Kostas_
+##### • [2020 RA-L/IROS] Edge Enhanced Implicit Orientation Learning With Geometric Prior for 6D Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/document/9126189) [\[Code\]](https://github.com/fylwen/EEGP-AAE) [\[Project\]](https://haopan.github.io/6dpose.html)
+ _Yilin Wen, Hao Pan, Lei Yang, Wenping Wang_
 ##### • [2020 3DV] Spatial Attention Improves Iterative 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2101.01659.pdf)
  _Stefan Stevsic, Otmar Hilliges_
 ##### • [2020 3DV] Introducing Pose Consistency and Warp-Alignment for Self-Supervised 6D Object Pose Estimation in Color Images. [\[PDF\]](https://arxiv.org/abs/2003.12344)
