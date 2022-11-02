@@ -66,6 +66,15 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2210.13540\]](https://arxiv.org/abs/2210.13540) Video based Object 6D Pose Estimation using Transformers. [\[PDF\]](https://arxiv.org/pdf/2210.13540)
+_Apoorva Beedu, Huda Alamri, Irfan Essa_
+##### • [\[arXiv:2210.11973\]](https://arxiv.org/abs/2210.11973) Real-Time Constrained 6D Object-Pose Tracking of An In-Hand Suture Needle for Minimally Invasive Robotic Surgery. [\[PDF\]](https://arxiv.org/pdf/2210.11973)
+_Zih-Yun Chiu, Florian Richter, Michael C. Yip_
+##### • [\[arXiv:2210.11545\]](https://arxiv.org/abs/2210.11545) 6D Pose Estimation for Textureless Objects on RGB Frames using Multi-View Optimization. [\[PDF\]](https://arxiv.org/pdf/2210.11545)
+_Jun Yang, Wenjie Xue, Sahar Ghavidel, Steven L. Waslander_
+##### • [\[arXiv:2210.10959\]](https://arxiv.org/abs/2210.10959) Uni6Dv3: 5D Anchor Mechanism for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2210.10959)
+_Jianqiu Chen, Mingshan Sun, Ye Zheng, Tianpeng Bao, Zhenyu He, Donghai Li, Guoqiang Jin, Rui Zhao, Liwei Wu, Xiaoke Jiang_
+##### • [\[arXiv:2210.07191\]](https://arxiv.org/abs/2210.07191) Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild. [\[PDF\]](https://arxiv.org/pdf/2210.07191)
 ##### • [\[arXiv:2205.02536\]](https://arxiv.org/abs/2205.02536) YOLOPose: Transformer-based Multi-Object 6D Pose Estimation using Keypoint Regression. [\[PDF\]](https://arxiv.org/pdf/2205.02536)
 _Arash Amini, Arul Selvam Periyasamy, Sven Behnke_
 ##### • [\[arXiv:2204.09429\]](https://arxiv.org/abs/2204.09429) HRPose: Real-Time High-Resolution 6D Pose Estimation Network Using Knowledge Distillation. [\[PDF\]](https://arxiv.org/pdf/2204.09429)
