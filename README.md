@@ -66,6 +66,20 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2210.03437\]](https://arxiv.org/abs/2210.03437) KRF: Keypoint Refinement with Fusion Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2210.03437)
+_Irvin Haozhe Zhan, Yiheng Han, Yu-Ping Wang, Long Zeng, Yong-Jin Liu_
+##### • [\[arXiv:2210.13540\]](https://arxiv.org/abs/2210.13540) Video based Object 6D Pose Estimation using Transformers. [\[PDF\]](https://arxiv.org/pdf/2210.13540)
+_Apoorva Beedu, Huda Alamri, Irfan Essa_
+##### • [\[arXiv:2210.11973\]](https://arxiv.org/abs/2210.11973) Real-Time Constrained 6D Object-Pose Tracking of An In-Hand Suture Needle for Minimally Invasive Robotic Surgery. [\[PDF\]](https://arxiv.org/pdf/2210.11973)
+_Zih-Yun Chiu, Florian Richter, Michael C. Yip_
+##### • [\[arXiv:2210.11545\]](https://arxiv.org/abs/2210.11545) 6D Pose Estimation for Textureless Objects on RGB Frames using Multi-View Optimization. [\[PDF\]](https://arxiv.org/pdf/2210.11545)
+_Jun Yang, Wenjie Xue, Sahar Ghavidel, Steven L. Waslander_
+##### • [\[arXiv:2210.10959\]](https://arxiv.org/abs/2210.10959) Uni6Dv3: 5D Anchor Mechanism for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2210.10959)
+_Jianqiu Chen, Mingshan Sun, Ye Zheng, Tianpeng Bao, Zhenyu He, Donghai Li, Guoqiang Jin, Rui Zhao, Liwei Wu, Xiaoke Jiang_
+##### • [\[arXiv:2210.07199\]](https://arxiv.org/abs/2210.07199) Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild. [\[PDF\]](https://arxiv.org/pdf/2210.07199)
+_Kaifeng Zhang, Yang Fu, Shubhankar Borse, Hong Cai, Fatih Porikli, Xiaolong Wang_
+##### • [\[arXiv:2210.05138\]](https://arxiv.org/abs/2210.05138) CASAPose: Class-Adaptive and Semantic-Aware Multi-Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2210.05138)
+_Niklas Gard, Anna Hilsmann, Peter Eisert_
 ##### • [\[arXiv:2205.02536\]](https://arxiv.org/abs/2205.02536) YOLOPose: Transformer-based Multi-Object 6D Pose Estimation using Keypoint Regression. [\[PDF\]](https://arxiv.org/pdf/2205.02536)
 _Arash Amini, Arul Selvam Periyasamy, Sven Behnke_
 ##### • [\[arXiv:2204.09429\]](https://arxiv.org/abs/2204.09429) HRPose: Real-Time High-Resolution 6D Pose Estimation Network Using Knowledge Distillation. [\[PDF\]](https://arxiv.org/pdf/2204.09429)
@@ -341,6 +355,8 @@ _Xingyu Liu, Gu Wang, Yi Li, Xiangyang Ji_
 
 ##### • [2022 ECCV] DISP6D: Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2107.12549) [\[Code\]](https://github.com/fylwen/DISP-6D) [\[Project\]](https://fylwen.github.io/disp6d.html) 
 _Yilin Wen, Xiangyu Li, Hao Pan, Lei Yang, Zheng Wang, Taku Komura, Wenping Wang_
+
+##### • [2022 ECCV] DCL-Net: Deep Correspondence Learning Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2210.05232) [\[Code\]]([https://github.com/fylwen/DISP-6D](https://github.com/Gorilla-Lab-SCUT/DCL-Net))
 
 [\[back to top\]](#contents)
 
