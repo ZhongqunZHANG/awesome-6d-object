@@ -195,7 +195,8 @@ _Catherine Capellen, Max Schwarz, Sven Behnke_
 _Pedro Castro, Anil Armagan, Tae-Kyun Kim_
 ##### • [\[arXiv:1809.06893\]](https://arxiv.org/abs/1809.06893) SilhoNet: An RGB Method for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1809.06893.pdf)
 _Gideon Billings and Matthew Johnson-Roberson_
-
+##### • [\[arXiv:1812.01387\]](https://arxiv.org/abs/1812.01387) Estimating 6d pose from localizing designated surface keypoints. [\[PDF\]](https://arxiv.org/abs/1812.01387.pdf)
+_Zelin Zhao, Gao Peng, Haoyu Wang, Hao-Shu Fang, Chengkun Li, and Cewu Lu_
 
 
 
