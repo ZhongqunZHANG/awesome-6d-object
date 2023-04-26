@@ -27,7 +27,8 @@ Some awesome open-source demos ([CenterSnap](https://github.com/zubair-irshad/Ce
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
-   - 2022: [CVPR🔥](#2022-cvpr), [ECCV🔥](#2022-eccv), [ICRA🔥](#2022-icra), [IROS🔥](#2022-iros), [Others🔥](#2022-others)
+   - 2023: [CVPR🔥](#2022-cvpr)
+   - 2022: [CVPR](#2022-cvpr), [ECCV](#2022-eccv), [ICRA](#2022-icra), [IROS](#2022-iros), [Others](#2022-others)
    - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv), [ICRA](#2021-icra), [IROS](#2021-iros), [Others](#2021-others)
    - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [Others](#2020-others)
    - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv), [Others](#2019-others)
@@ -273,6 +274,30 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 ## Conference Papers
 
+### 2023 CVPR
+##### • [2023 CVPR] HS-Pose: Hybrid Scope Feature Extraction for Category-level Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2303.15743) [\[Code\]](https://github.com/lynne-zheng-linfang/hs-pose) [\[Project\]](https://lynne-zheng-linfang.github.io/hspose.github.io/)
+_Linfang Zheng, Chen Wang, Yinghan Sun, Esha Dasgupta, Hua Chen, Ales Leonardis, Wei Zhang, Hyung Jin Chan_
+##### • [2023 CVPR] Harmonious Feature Learning for Interactive Hand-Object Pose Estimation . [\[PDF\]]() 
+_Zhifeng Lin, Changxing Ding, Huan Yao, Zengsheng Kuang, Shaoli Huang_
+##### • [2023 CVPR] TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2303.16730) [\[Project\]]( https://sites.google.com/view/taeyeop-lee/ttacope)
+_Taeyeop Lee, Jonathan Tremblay, Valts Blukis, Bowen Wen, Byeong-Uk Lee, Inkyu Shin, Stan Birchfield, In So Kweon, Kuk-Jin YOON_
+##### • [2023 CVPR] Knowledge Distillation for 6D Pose Estimation by Aligning Distributions of Local Predictions. [\[PDF\]](https://arxiv.org/pdf/2205.14971.pdf) 
+_Shuxuan Guo, Yinlin Hu, Jose Alvarez, Mathieu Salzmann_
+##### • [2023 CVPR] SMOC-Net: Leveraging Camera Pose for Self-Supervised Monocular Object Pose Estimation. [\[PDF\]]() 
+_Tao Tan, Qiulei Dong_
+##### • [2023 CVPR] TexPose: Neural Texture Learning for Self-Supervised 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2212.12902)
+_Hanzhi Chen, Fabian Manhardt, Nassir Navab, Benjamin Busam_
+##### • [2023 CVPR] Rigidity-Aware Detection for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2303.12396)
+_Hai Yang, Rui Song, Jiaojiao Li, Mathieu Salzmann, Yinlin Hu_
+##### • [2023 CVPR] Object pop-up: Can we infer 3D objects and their poses from human interactions alone? [\[PDF\]](https://arxiv.org/pdf/2303.16479.pdf) [\[Code\]](https://github.com/xiexh20/VisTracker) [\[Project\]](https://virtualhumans.mpi-inf.mpg.de/VisTracker/)
+_Ilia Petrov, Riccardo Marin, Julian Chibane, Gerard Pons-Moll_
+##### • [2023 CVPR] Shape-Constraint Recurrent Flow for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2303.15743) 
+_Hai Yang, Rui Song, Jiaojiao Li, Yinlin Hu_
+##### • [2023 CVPR] Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation. [\[PDF\]](https://arxiv.org/abs/2303.12246) [\[Code\]](https://github.com/NVlabs/ConformalKeypoint) 
+_Heng Yang · Marco Pavone_
+
+[\[back to top\]](#contents)
+
 ### 2022 CVPR
 ##### • [2022 CVPR Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.13254.pdf) [\[Code\]](https://github.com/tjiiv-cprg/EPro-PnP)
 _Hansheng Chen, Pichao Wang, Fan Wang, Wei Tian, Lu Xiong, Hao Li_
@@ -317,7 +342,7 @@ _Dingding Cai, Janne Heikkila, Esa Rahtu_
 ##### • [2022 CVPR] Understanding 3D Object Articulation in Internet Videos. [\[PDF\]](https://arxiv.org/pdf/2203.16531.pdf) [\[Code\]](https://github.com/JasonQSY/Articulation3D) [\[Project\]](https://jasonqsy.github.io/Articulation3D/)
 _Shengyi Qian, Linyi Jin, Chris Rockwell, Siyi Chen, David F. Fouhey_
 
-
+[\[back to top\]](#contents)
 
 ### 2022 ECCV
 
