@@ -27,7 +27,7 @@ Some awesome open-source demos ([CenterSnap](https://github.com/zubair-irshad/Ce
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
-   - 2023: [CVPR🔥](#2023-cvpr)
+   - 2023: [CVPR🔥](#2023-cvpr), [ICRA](#2023-icra), [IROS](#2023-iros)
    - 2022: [CVPR](#2022-cvpr), [ECCV](#2022-eccv), [ICRA](#2022-icra), [IROS](#2022-iros), [Others](#2022-others)
    - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv), [ICRA](#2021-icra), [IROS](#2021-iros), [Others](#2021-others)
    - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [Others](#2020-others)
@@ -66,7 +66,9 @@ Some awesome open-source demos ([CenterSnap](https://github.com/zubair-irshad/Ce
 See folder [``evaluation``](./evaluation) to get more details about performance evaluation for hand pose estimation. -->
 
 ## arXiv Papers
-
+##### • [\[arXiv:2303.06753\]](https://arxiv.org/abs/2303.06753) Module-Wise Network Quantization for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2303.06753)
+##### • [\[arXiv:2303.11516\]](https://arxiv.org/abs/2303.11516) Linear-Covariance Loss for End-to-End Learning of 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2303.11516)
+##### • [\[arXiv:2303.13479\]](https://arxiv.org/abs/2303.13479) Prior-free Category-level Pose Estimation with Implicit Space Transformation. [\[PDF\]](https://arxiv.org/pdf/2303.13479)
 ##### • [\[arXiv:2210.03437\]](https://arxiv.org/abs/2210.03437) KRF: Keypoint Refinement with Fusion Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2210.03437)
 _Irvin Haozhe Zhan, Yiheng Han, Yu-Ping Wang, Long Zeng, Yong-Jin Liu_
 ##### • [\[arXiv:2210.13540\]](https://arxiv.org/abs/2210.13540) Video based Object 6D Pose Estimation using Transformers. [\[PDF\]](https://arxiv.org/pdf/2210.13540)
@@ -295,6 +297,19 @@ _Ilia Petrov, Riccardo Marin, Julian Chibane, Gerard Pons-Moll_
 _Hai Yang, Rui Song, Jiaojiao Li, Yinlin Hu_
 ##### • [2023 CVPR] Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation. [\[PDF\]](https://arxiv.org/abs/2303.12246) [\[Code\]](https://github.com/NVlabs/ConformalKeypoint) 
 _Heng Yang · Marco Pavone_
+
+[\[back to top\]](#contents)
+
+### 2023 ICRA
+##### • [2023 ICRA] Multi-View Keypoints for Reliable 6D Object Pose Estimation [\[PDF\]](https://arxiv.org/pdf/2303.16833.pdf)
+_Alan Li and Angela P. Schoellig_
+[\[back to top\]](#contents)
+
+### 2023 IROS
+##### • [2023 IROS] Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation. [\[PDF\]](https://arxiv.org/pdf/2303.05617.pdf) [\[Code\]](https://github.com/ivalab/KGN)
+_Yiye Chen, Ruinian Xu, Yunzhi Lin, Hongyi Chen, Patricio A. Vela_
+##### • [2023 IROS] Depth-based 6DoF Object Pose Estimation using Swin Transformer. [\[PDF\]](https://arxiv.org/pdf/2303.02133.pdf) [\[Code\]](https://github.com/zhujunli1993/SwinDePose)
+_Zhujun Li, Ioannis Stamos_
 
 [\[back to top\]](#contents)
 
