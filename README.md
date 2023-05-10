@@ -306,7 +306,7 @@ _Alan Li and Angela P. Schoellig_
 [\[back to top\]](#contents)
 
 ### 2023 IROS
-##### • [2023 IROS] Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation. [\[PDF\]](https://arxiv.org/pdf/2303.05617.pdf) [\[Code\]](https://github.com/ivalab/KGN)
+##### • [2023 IROS] KGNv2: Separating Scale and Pose Prediction for Keypoint-based 6-DoF Grasp Synthesis on RGB-D input. [\[PDF\]](https://arxiv.org/pdf/2303.05617.pdf) [\[Code\]](https://github.com/ivalab/KGN)
 _Yiye Chen, Ruinian Xu, Yunzhi Lin, Hongyi Chen, Patricio A. Vela_
 ##### • [2023 IROS] Depth-based 6DoF Object Pose Estimation using Swin Transformer. [\[PDF\]](https://arxiv.org/pdf/2303.02133.pdf) [\[Code\]](https://github.com/zhujunli1993/SwinDePose)
 _Zhujun Li, Ioannis Stamos_
