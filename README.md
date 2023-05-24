@@ -301,8 +301,12 @@ _Heng Yang · Marco Pavone_
 [\[back to top\]](#contents)
 
 ### 2023 ICRA
-##### • [2023 ICRA] Multi-View Keypoints for Reliable 6D Object Pose Estimation [\[PDF\]](https://arxiv.org/pdf/2303.16833.pdf)
+##### • [2023 ICRA] Multi-View Keypoints for Reliable 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2303.16833.pdf)
 _Alan Li and Angela P. Schoellig_
+
+##### • [2023 ICRA] Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2210.10108) [\[Project\]](https://pnerfp.github.io/)
+_Yunzhi Lin, Thomas Müller, Jonathan Tremblay, Bowen Wen, Stephen Tyree, Alex Evans, Patricio A. Vela, Stan Birchfield_
+
 [\[back to top\]](#contents)
 
 ### 2023 IROS
@@ -407,6 +411,13 @@ _Yilin Wen, Xiangyu Li, Hao Pan, Lei Yang, Zheng Wang, Taku Komura, Wenping Wang
 _Zheng, Linfang, Leonardis, Ales, Tse, Tze Ho Elden, Horanyi, Nora, Chen, Hua, Zhang, Wei, and Chang, Hyung Jin_
 ##### • [2022 ICRA] CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.01929) [\[Project\]](https://zubair-irshad.github.io/projects/CenterSnap.html) [\[Code\]](https://github.com/zubair-irshad/CenterSnap) [\[Video\]](https://www.youtube.com/watch?v=Bg5vi6DSMdM)
 _Muhammad Zubair Irshad, Thomas Kollar, Michael Laskey, Kevin Stone, Zsolt Kira_
+
+##### • [2022 ICRA] Keypoint-Based Category-Level Object Pose Tracking from an RGB Sequence with Uncertainty Estimation. [\[PDF\]](https://arxiv.org/abs/2205.11047) [\[Project\]](https://sites.google.com/view/centerposetrack) [\[Code\]](https://github.com/NVlabs/CenterPose)
+_Yunzhi Lin, Jonathan Tremblay, Stephen Tyree, Patricio A. Vela, Stan Birchfield_
+
+##### • [2022 ICRA] Single-Stage Keypoint-Based Category-Level Object Pose Estimation from an RGB Image. [\[PDF\]](https://arxiv.org/abs/2109.06161) [\[Project\]](https://sites.google.com/view/centerpose) [\[Code\]](https://github.com/NVlabs/CenterPose)
+_Yunzhi Lin, Jonathan Tremblay, Stephen Tyree, Patricio A. Vela, Stan Birchfield_
+
 ##### • [2022 ICRA] NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields. [\[PDF\]](https://arxiv.org/pdf/2203.01913) [\[Code\]](https://github.com/yenchenlin/nerf-supervision-public) [\[Project\]](https://yenchenlin.me/nerf-supervision/)
 _Lin Yen-Chen, Pete Florence, Jonathan T. Barron, Tsung-Yi Lin, Alberto Rodriguez, Phillip Isola_
 
@@ -555,6 +566,9 @@ _Fengjun Mu; Rui Huang; Ao Luo; Xin Li; Jing Qiu; Hong Cheng_
 
 ##### • [2021 IROS] VIPose: Real-time Visual-Inertial 6D Object Pose Tracking. [\[PDF\]](https://arxiv.org/pdf/2107.12617)
  _Rundong Ge, Giuseppe Loianno_
+
+##### • [2021 IROS] Multi-View Fusion for Multi-Level Robotic Scene Understanding. [\[PDF\]](https://arxiv.org/abs/2103.13539) [\[Video\]](https://www.youtube.com/watch?v=FuqMxuODGlw)
+_Yunzhi Lin, Jonathan Tremblay, Stephen Tyree, Patricio A. Vela, Stan Birchfield_
 
 [\[back to top\]](#contents)
 
