@@ -6,7 +6,11 @@ Due to my personal interests, geometry-based work (SFM-based or SLAM-based work)
 
 Another related paper list is about the hand pose estimation, which can be found [here](https://github.com/xinghaochen/awesome-hand-pose-estimation).
 
-Some awesome open-source demos ([CenterSnap](https://github.com/zubair-irshad/CenterSnap),  [NOCS](https://hughw19.github.io/NOCS_CVPR2019), [BundleTrack](https://github.com/wenbowen123/BundleTrack) and [se(3)-TrackNet](https://github.com/wenbowen123/iros20-6d-pose-tracking))：
+Some awesome open-source demos ([BundleSDF](https://bundlesdf.github.io/), [CenterSnap](https://github.com/zubair-irshad/CenterSnap),  [NOCS](https://hughw19.github.io/NOCS_CVPR2019), [BundleTrack](https://github.com/wenbowen123/BundleTrack) and [se(3)-TrackNet](https://github.com/wenbowen123/iros20-6d-pose-tracking))：
+
+<p float="left">
+  <img src="./media/bundlesdf.gif" width="600" />
+</p>
 
 <p float="left">
   <img src="./media/centersnap_reconstruction.gif" width="600" />
@@ -277,15 +281,17 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 ## Conference Papers
 
 ### 2023 CVPR
+##### • [2023 CVPR] BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects. [\[PDF\]](https://arxiv.org/abs/2303.14158) [\[Code\]](https://github.com/NVlabs/BundleSDF) [\[Project\]](https://bundlesdf.github.io/)
+ _Bowen Wen, Jonathan Tremblay, Valts Blukis, Stephen Tyree, Thomas Müller, Alex Evans, Dieter Fox, Jan Kautz, Stan Birchfield
 ##### • [2023 CVPR] HS-Pose: Hybrid Scope Feature Extraction for Category-level Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2303.15743) [\[Code\]](https://github.com/lynne-zheng-linfang/hs-pose) [\[Project\]](https://lynne-zheng-linfang.github.io/hspose.github.io/)
 _Linfang Zheng, Chen Wang, Yinghan Sun, Esha Dasgupta, Hua Chen, Ales Leonardis, Wei Zhang, Hyung Jin Chan_
-##### • [2023 CVPR] Harmonious Feature Learning for Interactive Hand-Object Pose Estimation . [\[PDF\]]() 
+##### • [2023 CVPR] Harmonious Feature Learning for Interactive Hand-Object Pose Estimation . [\[PDF\]]()
 _Zhifeng Lin, Changxing Ding, Huan Yao, Zengsheng Kuang, Shaoli Huang_
 ##### • [2023 CVPR] TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2303.16730) [\[Project\]]( https://sites.google.com/view/taeyeop-lee/ttacope)
 _Taeyeop Lee, Jonathan Tremblay, Valts Blukis, Bowen Wen, Byeong-Uk Lee, Inkyu Shin, Stan Birchfield, In So Kweon, Kuk-Jin YOON_
-##### • [2023 CVPR] Knowledge Distillation for 6D Pose Estimation by Aligning Distributions of Local Predictions. [\[PDF\]](https://arxiv.org/pdf/2205.14971.pdf) 
+##### • [2023 CVPR] Knowledge Distillation for 6D Pose Estimation by Aligning Distributions of Local Predictions. [\[PDF\]](https://arxiv.org/pdf/2205.14971.pdf)
 _Shuxuan Guo, Yinlin Hu, Jose Alvarez, Mathieu Salzmann_
-##### • [2023 CVPR] SMOC-Net: Leveraging Camera Pose for Self-Supervised Monocular Object Pose Estimation. [\[PDF\]]() 
+##### • [2023 CVPR] SMOC-Net: Leveraging Camera Pose for Self-Supervised Monocular Object Pose Estimation. [\[PDF\]]()
 _Tao Tan, Qiulei Dong_
 ##### • [2023 CVPR] TexPose: Neural Texture Learning for Self-Supervised 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2212.12902)
 _Hanzhi Chen, Fabian Manhardt, Nassir Navab, Benjamin Busam_
@@ -293,14 +299,15 @@ _Hanzhi Chen, Fabian Manhardt, Nassir Navab, Benjamin Busam_
 _Hai Yang, Rui Song, Jiaojiao Li, Mathieu Salzmann, Yinlin Hu_
 ##### • [2023 CVPR] Object pop-up: Can we infer 3D objects and their poses from human interactions alone? [\[PDF\]](https://arxiv.org/pdf/2303.16479.pdf) [\[Code\]](https://github.com/xiexh20/VisTracker) [\[Project\]](https://virtualhumans.mpi-inf.mpg.de/VisTracker/)
 _Ilia Petrov, Riccardo Marin, Julian Chibane, Gerard Pons-Moll_
-##### • [2023 CVPR] Shape-Constraint Recurrent Flow for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2303.15743) 
+##### • [2023 CVPR] Shape-Constraint Recurrent Flow for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2303.15743)
 _Hai Yang, Rui Song, Jiaojiao Li, Yinlin Hu_
-##### • [2023 CVPR] Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation. [\[PDF\]](https://arxiv.org/abs/2303.12246) [\[Code\]](https://github.com/NVlabs/ConformalKeypoint) 
+##### • [2023 CVPR] Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation. [\[PDF\]](https://arxiv.org/abs/2303.12246) [\[Code\]](https://github.com/NVlabs/ConformalKeypoint)
 _Heng Yang · Marco Pavone_
 
 [\[back to top\]](#contents)
 
 ### 2023 ICRA
+
 ##### • [2023 ICRA] Multi-View Keypoints for Reliable 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2303.16833.pdf)
 _Alan Li and Angela P. Schoellig_
 
@@ -389,16 +396,16 @@ _Jiehong Lin, Zewei Wei, Changxing Ding, Kui Jia_
 ##### • [2022 ECCV] Vote from the Center: 6 DoF Pose Estimation in RGB-D Images by Radial Keypoint Voting. [\[PDF\]](https://arxiv.org/abs/2104.02527) [\[Code\]](https://github.com/aaronwool/rcvpose)
 _Yangzheng Wu, Mohsen Zand, Ali Etemad, Michael Greenspan_
 
-##### • [2022 ECCV] RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild. [\[PDF\]](https://arxiv.org/abs/2208.05963) [\[Project\]](https://jasonyzhang.com/relpose/) 
+##### • [2022 ECCV] RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild. [\[PDF\]](https://arxiv.org/abs/2208.05963) [\[Project\]](https://jasonyzhang.com/relpose/)
 _Jason Y. Zhang, Deva Ramanan, Shubham Tulsiani_
 
-##### • [2022 ECCV] RBP-Pose: Residual Bounding Box Projection for Category-Level Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2208.00237) [\[Code\]](https://github.com/lolrudy/RBP_Pose) 
+##### • [2022 ECCV] RBP-Pose: Residual Bounding Box Projection for Category-Level Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2208.00237) [\[Code\]](https://github.com/lolrudy/RBP_Pose)
 _Ruida Zhang, Yan Di, Zhiqiang Lou, Fabian Manhardt, Nassir Navab, Federico Tombari, Xiangyang Ji_
 
-##### • [2022 ECCV] CATRE: Iterative Point Clouds Alignment for Category-level Object Pose Refinement. [\[PDF\]](https://arxiv.org/abs/2207.08082) [\[Code\]](https://github.com/THU-DA-6D-Pose-Group/CATRE) 
+##### • [2022 ECCV] CATRE: Iterative Point Clouds Alignment for Category-level Object Pose Refinement. [\[PDF\]](https://arxiv.org/abs/2207.08082) [\[Code\]](https://github.com/THU-DA-6D-Pose-Group/CATRE)
 _Xingyu Liu, Gu Wang, Yi Li, Xiangyang Ji_
 
-##### • [2022 ECCV] DISP6D: Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2107.12549) [\[Code\]](https://github.com/fylwen/DISP-6D) [\[Project\]](https://fylwen.github.io/disp6d.html) 
+##### • [2022 ECCV] DISP6D: Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2107.12549) [\[Code\]](https://github.com/fylwen/DISP-6D) [\[Project\]](https://fylwen.github.io/disp6d.html)
 _Yilin Wen, Xiangyu Li, Hao Pan, Lei Yang, Zheng Wang, Taku Komura, Wenping Wang_
 
 ##### • [2022 ECCV] DCL-Net: Deep Correspondence Learning Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2210.05232) [\[Code\]]([https://github.com/fylwen/DISP-6D](https://github.com/Gorilla-Lab-SCUT/DCL-Net))
