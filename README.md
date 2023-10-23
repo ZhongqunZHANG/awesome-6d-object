@@ -279,13 +279,13 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 ### 2023 CVPR
 ##### • [2023 CVPR] HS-Pose: Hybrid Scope Feature Extraction for Category-level Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2303.15743) [\[Code\]](https://github.com/lynne-zheng-linfang/hs-pose) [\[Project\]](https://lynne-zheng-linfang.github.io/hspose.github.io/)
 _Linfang Zheng, Chen Wang, Yinghan Sun, Esha Dasgupta, Hua Chen, Ales Leonardis, Wei Zhang, Hyung Jin Chan_
-##### • [2023 CVPR] Harmonious Feature Learning for Interactive Hand-Object Pose Estimation . [\[PDF\]]() 
+##### • [2023 CVPR] Harmonious Feature Learning for Interactive Hand-Object Pose Estimation . [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Harmonious_Feature_Learning_for_Interactive_Hand-Object_Pose_Estimation_CVPR_2023_paper.pdf) 
 _Zhifeng Lin, Changxing Ding, Huan Yao, Zengsheng Kuang, Shaoli Huang_
 ##### • [2023 CVPR] TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2303.16730) [\[Project\]]( https://sites.google.com/view/taeyeop-lee/ttacope)
 _Taeyeop Lee, Jonathan Tremblay, Valts Blukis, Bowen Wen, Byeong-Uk Lee, Inkyu Shin, Stan Birchfield, In So Kweon, Kuk-Jin YOON_
 ##### • [2023 CVPR] Knowledge Distillation for 6D Pose Estimation by Aligning Distributions of Local Predictions. [\[PDF\]](https://arxiv.org/pdf/2205.14971.pdf) 
 _Shuxuan Guo, Yinlin Hu, Jose Alvarez, Mathieu Salzmann_
-##### • [2023 CVPR] SMOC-Net: Leveraging Camera Pose for Self-Supervised Monocular Object Pose Estimation. [\[PDF\]]() 
+##### • [2023 CVPR] SMOC-Net: Leveraging Camera Pose for Self-Supervised Monocular Object Pose Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_SMOC-Net_Leveraging_Camera_Pose_for_Self-Supervised_Monocular_Object_Pose_Estimation_CVPR_2023_paper.pdf) 
 _Tao Tan, Qiulei Dong_
 ##### • [2023 CVPR] TexPose: Neural Texture Learning for Self-Supervised 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2212.12902)
 _Hanzhi Chen, Fabian Manhardt, Nassir Navab, Benjamin Busam_
