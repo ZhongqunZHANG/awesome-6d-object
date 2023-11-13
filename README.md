@@ -87,8 +87,6 @@ _Niklas Gard, Anna Hilsmann, Peter Eisert_
 _Arash Amini, Arul Selvam Periyasamy, Sven Behnke_
 ##### • [\[arXiv:2204.09429\]](https://arxiv.org/abs/2204.09429) HRPose: Real-Time High-Resolution 6D Pose Estimation Network Using Knowledge Distillation. [\[PDF\]](https://arxiv.org/pdf/2204.09429)
 _Qi Guan, Zihao Sheng, Shibei Xue_
-##### • [\[arXiv:2204.07049\]](https://arxiv.org/abs/2204.07049) Sim-to-Real 6D Object Pose Estimation via Iterative Self-training for Robotic Bin-picking. [\[PDF\]](https://arxiv.org/pdf/2204.07049)
-_Kai Chen, Rui Cao, Stephen James, Yichuan Li, Yun-Hui Liu, Pieter Abbeel, Qi Dou_
 ##### • [\[arXiv:2204.01586\]](https://arxiv.org/abs/2204.01586) Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/2204.01586)
 _Zhaoxin Fan, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu, Jun He_
 ##### • [\[arXiv:2203.15309\]](https://arxiv.org/abs/2203.15309) Learning-based Point Cloud Registration for 6D Object Pose Estimation in the Real World. [\[PDF\]](https://arxiv.org/pdf/2203.15309)
@@ -295,7 +293,7 @@ _Yang Hai, Rui Song, Jiaojiao Li, Mathieu Salzmann, Yinlin Hu_
 _Ilia Petrov, Riccardo Marin, Julian Chibane, Gerard Pons-Moll_
 ##### • [2023 CVPR] Shape-Constraint Recurrent Flow for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2303.15743) [\[Code\]](https://github.com/YangHai-1218/SCFlow)
 _Yang Hai, Rui Song, Jiaojiao Li, Yinlin Hu_
-##### • [2023 CVPR] Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation. [\[PDF\]](https://arxiv.org/abs/2303.12246) [\[Code\]](https://github.com/NVlabs/ConformalKeypoint) 
+##### • [2023 CVPR] Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection **and** Geometric Uncertainty Propagation. [\[PDF\]](https://arxiv.org/abs/2303.12246) [\[Code\]](https://github.com/NVlabs/ConformalKeypoint) 
 _Heng Yang · Marco Pavone_
 
 [\[back to top\]](#contents)
@@ -408,6 +406,9 @@ _Xingyu Liu, Gu Wang, Yi Li, Xiangyang Ji_
 _Yilin Wen, Xiangyu Li, Hao Pan, Lei Yang, Zheng Wang, Taku Komura, Wenping Wang_
 
 ##### • [2022 ECCV] DCL-Net: Deep Correspondence Learning Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2210.05232) [\[Code\]]([https://github.com/fylwen/DISP-6D](https://github.com/Gorilla-Lab-SCUT/DCL-Net))
+
+##### • [2022 ECCV] Sim-to-Real 6D Object Pose Estimation via Iterative Self-training for Robotic Bin-picking. [\[PDF\]](https://arxiv.org/pdf/2204.07049)
+_Kai Chen, Rui Cao, Stephen James, Yichuan Li, Yun-Hui Liu, Pieter Abbeel, Qi Dou_
 
 [\[back to top\]](#contents)
 
