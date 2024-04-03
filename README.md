@@ -275,7 +275,7 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 [\[back to top\]](#contents)
 
-## Conference Papers、
+## Conference Papers
 
 ### 2024 CVPR
 ##### • [2024 CVPR] GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinement. 
