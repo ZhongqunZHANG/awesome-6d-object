@@ -309,6 +309,7 @@ _Sungphill Moon, Hyeontae Son, Dongcheol Hur, Sangwook Kim_
 _Bowen Wen, Wei Yang, Jan Kautz, Stan Birchfield_
 ##### • [2024 CVPR] HOISDF: Constraining 3D Hand Object Pose Estimation with Global Signed Distance Fields. [\[PDF\]](https://arxiv.org/pdf/2402.17062.pdf) [\[Code\]](https://github.com/amathislab/HOISDF)
 _Haozhe Qi, Chen Zhao, Mathieu Salzmann, Alexander Mathis_
+
 [\[back to top\]](#contents)
 
 ### 2023 CVPR
