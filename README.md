@@ -27,6 +27,7 @@ Some awesome open-source demos ([CenterSnap](https://github.com/zubair-irshad/Ce
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
+   - 2024: [CVPR🔥](#2024-cvpr)
    - 2023: [CVPR🔥](#2023-cvpr), [ICCV](#2023-iccv), [ICRA](#2023-icra), [IROS](#2023-iros)
    - 2022: [CVPR](#2022-cvpr), [ECCV](#2022-eccv), [ICRA](#2022-icra), [IROS](#2022-iros), [Others](#2022-others)
    - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv), [ICRA](#2021-icra), [IROS](#2021-iros), [Others](#2021-others)
@@ -273,6 +274,41 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 [\[back to top\]](#contents)
 
 ## Conference Papers
+
+### 2024 CVPR
+##### • [2024 CVPR] GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinement. 
+_Linfang Zheng，Tze Ho Elden Tse，Chen Wang，Yinghan Sun，Hua Che，Aleš Leonardis，Wei Zhang，Hyung Jin Chang_
+##### • [2024 CVPR] Object Pose Estimation via the Aggregation of Diffusion Features. [\[PDF\]](https://arxiv.org/pdf/2403.18791) [\[Code\]](https://github.com/Tianfu18/diff-feats-pose)
+_Tianfu Wang, Guosheng Hu, Hongguang Wang_
+##### • [2024 CVPR] HiPose: Hierarchical Binary Surface Encoding and Correspondence Pruning for RGB-D 6DoF Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2311.12588) [\[Code\]](https://github.com/lyltc1/HiPose)
+_Yongliang Lin, Yongzhi Su, Praveen Nathan, Sandeep Inuganti, Yan Di, Martin Sundermeyer, Fabian Manhardt, Didier Stricke, Jason Rambach, Yu Zhang_
+##### • [2024 CVPR] NOPE: Novel Object Pose Estimation from a Single Image. [\[PDF\]](https://arxiv.org/pdf/2303.13612.pdf)
+_Van Nguyen Nguyen, Thibault Groueix, Yinlin Hu, Mathieu Salzmann, Vincent Lepetit_
+##### • [2024 CVPR] GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence. [\[PDF\]](https://arxiv.org/pdf/2311.14155.pdf) [\[Code\]](https://github.com/nv-nguyen/gigaPose)
+_Van Nguyen Nguyen, Thibault Groueix, Mathieu Salzmann, Vincent Lepetit_
+##### • [2024 CVPR] Confronting Ambiguity in 6D Object Pose Estimation via Score-Based Diffusion on SE(3). [\[PDF\]](https://arxiv.org/pdf/2305.15873.pdf) 
+##### • [2024 CVPR] SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2311.15707.pdf) [\[Code\]](https://github.com/JiehongLin/SAM-6D)
+_Jiehong Lin, Lihua Liu, Dekun Lu, Kui Jia_
+##### • [2024 CVPR] Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2403.19527.pdf) [\[Code\]](https://github.com/Leeiieeo/AG-Pose)
+_Xiao Lin, Wenfei Yang, Yuan Gao, Tianzhu Zhang_
+##### • [2024 CVPR] 6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2401.00029.pdf)
+_Li Xu, Haoxuan Qu, Yujun Cai, Jun Liu_
+##### • [2024 CVPR] Open-vocabulary object 6D pose estimation. [\[PDF\]](https://arxiv.org/pdf/2312.00690.pdf) [\[Code\]](https://jcorsetti.github.io/)
+_Jaime Corsetti, Davide Boscaini, Changjae Oh, Andrea Cavallaro, Fabio Poiesi_
+##### • [2024 CVPR] HouseCat6D - A Large-Scale Multi-Modal Category Level 6D Object Perception Dataset with Household Objects in Realistic Scenarios. [\[PDF\]](https://arxiv.org/pdf/2212.10428.pdf) [\[Code\]](https://sites.google.com/view/housecat6d)
+_HyunJun Jung, Guangyao Zhai, Shun-Cheng Wu, Patrick Ruhkamp, Hannah Schieber, Giulia Rizzoli, Pengyuan Wang, Hongcheng Zhao, Lorenzo Garattoni, Sven Meier, Daniel Roth, Nassir Navab, Benjamin Busam_
+##### • [2024 CVPR] HouseCat6D - A Large-Scale Multi-Modal Category Level 6D Object Perception Dataset with Household Objects in Realistic Scenarios. [\[PDF\]](https://arxiv.org/pdf/2212.10428.pdf) [\[Code\]](https://sites.google.com/view/housecat6d)
+_HyunJun Jung, Guangyao Zhai, Shun-Cheng Wu, Patrick Ruhkamp, Hannah Schieber, Giulia Rizzoli, Pengyuan Wang, Hongcheng Zhao, Lorenzo Garattoni, Sven Meier, Daniel Roth, Nassir Navab, Benjamin Busam_
+##### • [2024 CVPR] MatchU: Matching Unseen Objects for 6D Pose Estimation from RGB-D Images. [\[PDF\]](https://arxiv.org/pdf/2403.01517.pdf)
+_Junwen Huang, Hao Yu, Kuan-Ting Yu, Nassir Navab, Slobodan Ilic, Benjamin Busam_
+##### • [2024 CVPR] GenFlow: Generalizable Recurrent Flow for 6D Pose Refinement of Novel Objects. [\[PDF\]](https://arxiv.org/pdf/2403.11510.pdf) 
+_Sungphill Moon, Hyeontae Son, Dongcheol Hur, Sangwook Kim_
+##### • [2024 CVPR] FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects. [\[PDF\]](https://arxiv.org/pdf/2312.08344.pdf) [\[Code\]](https://nvlabs.github.io/FoundationPose/)
+_Bowen Wen, Wei Yang, Jan Kautz, Stan Birchfield_
+##### • [2024 CVPR] HOISDF: Constraining 3D Hand Object Pose Estimation with Global Signed Distance Fields. [\[PDF\]](https://arxiv.org/pdf/2402.17062.pdf) [\[Code\]](https://github.com/amathislab/HOISDF)
+_Haozhe Qi, Chen Zhao, Mathieu Salzmann, Alexander Mathis_
+
+[\[back to top\]](#contents)
 
 ### 2023 CVPR
 ##### • [2023 CVPR] HS-Pose: Hybrid Scope Feature Extraction for Category-level Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2303.15743) [\[Code\]](https://github.com/lynne-zheng-linfang/hs-pose) [\[Project\]](https://lynne-zheng-linfang.github.io/hspose.github.io/)
