@@ -28,7 +28,7 @@ Some awesome open-source demos ([CenterSnap](https://github.com/zubair-irshad/Ce
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
    - 2024: [CVPR🔥](#2024-cvpr)
-   - 2023: [CVPR](#2023-cvpr), [ICRA](#2023-icra), [IROS](#2023-iros)
+   - 2023: [CVPR🔥](#2023-cvpr), [ICCV](#2023-iccv), [ICRA](#2023-icra), [IROS](#2023-iros)
    - 2022: [CVPR](#2022-cvpr), [ECCV](#2022-eccv), [ICRA](#2022-icra), [IROS](#2022-iros), [Others](#2022-others)
    - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv), [ICRA](#2021-icra), [IROS](#2021-iros), [Others](#2021-others)
    - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [Others](#2020-others)
@@ -88,8 +88,6 @@ _Niklas Gard, Anna Hilsmann, Peter Eisert_
 _Arash Amini, Arul Selvam Periyasamy, Sven Behnke_
 ##### • [\[arXiv:2204.09429\]](https://arxiv.org/abs/2204.09429) HRPose: Real-Time High-Resolution 6D Pose Estimation Network Using Knowledge Distillation. [\[PDF\]](https://arxiv.org/pdf/2204.09429)
 _Qi Guan, Zihao Sheng, Shibei Xue_
-##### • [\[arXiv:2204.07049\]](https://arxiv.org/abs/2204.07049) Sim-to-Real 6D Object Pose Estimation via Iterative Self-training for Robotic Bin-picking. [\[PDF\]](https://arxiv.org/pdf/2204.07049)
-_Kai Chen, Rui Cao, Stephen James, Yichuan Li, Yun-Hui Liu, Pieter Abbeel, Qi Dou_
 ##### • [\[arXiv:2204.01586\]](https://arxiv.org/abs/2204.01586) Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/2204.01586)
 _Zhaoxin Fan, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu, Jun He_
 ##### • [\[arXiv:2203.15309\]](https://arxiv.org/abs/2203.15309) Learning-based Point Cloud Registration for 6D Object Pose Estimation in the Real World. [\[PDF\]](https://arxiv.org/pdf/2203.15309)
@@ -325,16 +323,22 @@ _Shuxuan Guo, Yinlin Hu, Jose Alvarez, Mathieu Salzmann_
 _Tao Tan, Qiulei Dong_
 ##### • [2023 CVPR] TexPose: Neural Texture Learning for Self-Supervised 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2212.12902)
 _Hanzhi Chen, Fabian Manhardt, Nassir Navab, Benjamin Busam_
-##### • [2023 CVPR] Rigidity-Aware Detection for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2303.12396)
-_Hai Yang, Rui Song, Jiaojiao Li, Mathieu Salzmann, Yinlin Hu_
+##### • [2023 CVPR] Rigidity-Aware Detection for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2303.12396)[\[Code\]](https://github.com/YangHai-1218/RADet)
+_Yang Hai, Rui Song, Jiaojiao Li, Mathieu Salzmann, Yinlin Hu_
 ##### • [2023 CVPR] Object pop-up: Can we infer 3D objects and their poses from human interactions alone? [\[PDF\]](https://arxiv.org/pdf/2303.16479.pdf) [\[Code\]](https://github.com/xiexh20/VisTracker) [\[Project\]](https://virtualhumans.mpi-inf.mpg.de/VisTracker/)
 _Ilia Petrov, Riccardo Marin, Julian Chibane, Gerard Pons-Moll_
-##### • [2023 CVPR] Shape-Constraint Recurrent Flow for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2303.15743) 
-_Hai Yang, Rui Song, Jiaojiao Li, Yinlin Hu_
-##### • [2023 CVPR] Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation. [\[PDF\]](https://arxiv.org/abs/2303.12246) [\[Code\]](https://github.com/NVlabs/ConformalKeypoint) 
+##### • [2023 CVPR] Shape-Constraint Recurrent Flow for 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2303.15743) [\[Code\]](https://github.com/YangHai-1218/SCFlow)
+_Yang Hai, Rui Song, Jiaojiao Li, Yinlin Hu_
+##### • [2023 CVPR] Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection **and** Geometric Uncertainty Propagation. [\[PDF\]](https://arxiv.org/abs/2303.12246) [\[Code\]](https://github.com/NVlabs/ConformalKeypoint) 
 _Heng Yang · Marco Pavone_
 
 [\[back to top\]](#contents)
+
+### 2023 ICCV
+##### • [2023 ICCV] Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2308.10016) [\[Code\]](https://github.com/YangHai-1218/PseudoFlow)
+_Yang Hai, Rui Song, Jiaojiao Li, David Ferstl, Yinlin Hu_
+
+
 
 ### 2023 ICRA
 ##### • [2023 ICRA] Multi-View Keypoints for Reliable 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2303.16833.pdf)
@@ -438,6 +442,9 @@ _Xingyu Liu, Gu Wang, Yi Li, Xiangyang Ji_
 _Yilin Wen, Xiangyu Li, Hao Pan, Lei Yang, Zheng Wang, Taku Komura, Wenping Wang_
 
 ##### • [2022 ECCV] DCL-Net: Deep Correspondence Learning Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2210.05232) [\[Code\]]([https://github.com/fylwen/DISP-6D](https://github.com/Gorilla-Lab-SCUT/DCL-Net))
+
+##### • [2022 ECCV] Sim-to-Real 6D Object Pose Estimation via Iterative Self-training for Robotic Bin-picking. [\[PDF\]](https://arxiv.org/pdf/2204.07049)
+_Kai Chen, Rui Cao, Stephen James, Yichuan Li, Yun-Hui Liu, Pieter Abbeel, Qi Dou_
 
 [\[back to top\]](#contents)
 
