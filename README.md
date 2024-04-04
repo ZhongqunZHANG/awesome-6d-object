@@ -297,8 +297,6 @@ _Li Xu, Haoxuan Qu, Yujun Cai, Jun Liu_
 _Jaime Corsetti, Davide Boscaini, Changjae Oh, Andrea Cavallaro, Fabio Poiesi_
 ##### • [2024 CVPR] HouseCat6D - A Large-Scale Multi-Modal Category Level 6D Object Perception Dataset with Household Objects in Realistic Scenarios. [\[PDF\]](https://arxiv.org/pdf/2212.10428.pdf) [\[Code\]](https://sites.google.com/view/housecat6d)
 _HyunJun Jung, Guangyao Zhai, Shun-Cheng Wu, Patrick Ruhkamp, Hannah Schieber, Giulia Rizzoli, Pengyuan Wang, Hongcheng Zhao, Lorenzo Garattoni, Sven Meier, Daniel Roth, Nassir Navab, Benjamin Busam_
-##### • [2024 CVPR] HouseCat6D - A Large-Scale Multi-Modal Category Level 6D Object Perception Dataset with Household Objects in Realistic Scenarios. [\[PDF\]](https://arxiv.org/pdf/2212.10428.pdf) [\[Code\]](https://sites.google.com/view/housecat6d)
-_HyunJun Jung, Guangyao Zhai, Shun-Cheng Wu, Patrick Ruhkamp, Hannah Schieber, Giulia Rizzoli, Pengyuan Wang, Hongcheng Zhao, Lorenzo Garattoni, Sven Meier, Daniel Roth, Nassir Navab, Benjamin Busam_
 ##### • [2024 CVPR] MatchU: Matching Unseen Objects for 6D Pose Estimation from RGB-D Images. [\[PDF\]](https://arxiv.org/pdf/2403.01517.pdf)
 _Junwen Huang, Hao Yu, Kuan-Ting Yu, Nassir Navab, Slobodan Ilic, Benjamin Busam_
 ##### • [2024 CVPR] GenFlow: Generalizable Recurrent Flow for 6D Pose Refinement of Novel Objects. [\[PDF\]](https://arxiv.org/pdf/2403.11510.pdf) 
